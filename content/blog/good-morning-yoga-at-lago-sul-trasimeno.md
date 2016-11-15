@@ -9,6 +9,8 @@ news_keywords = ["sun salutation good morning yoga"]
 banner = "img/posts/good-morning-yoga-at-lago-sul-trasimeno/banner1.jpg"
 
 summary = "Last month I travelled to Italy for a long overdue holiday. I was happy to start my day with some sun salutations while having an amazing view on Lago Trasimeno. Today I want to share with you my good morning yoga workout and some stunning pictures of Lago Sul Trasimeno in Italy."
+
+
 +++
 
 {{% header "Good morning Yoga at Lago sul Trasimeno" %}}

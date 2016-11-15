@@ -10,6 +10,8 @@ banner = "img/posts/the-ultimate-bosu-ball-workout-guide/twisting plank.jpg"
 
 summary = "I just recently discovered a new workout tool: the BOSU Ball. Working out with the Bosu Ball is fun and challenging at the same time. It's a great change from my usual workout routine. I collected all my favorite workouts and exercises for you here. Hope you enjoy them!"
 
+type = "promo"
+
 +++
 
 {{% header "The BOSU Ball – Benefits and workouts" %}}
