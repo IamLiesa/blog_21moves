@@ -1,0 +1,136 @@
+baseurl = "http://www.21moves.com/"
+title = "21Moves"
+description = "Fitness, Health and Lifestyle"
+theme = "hugo-minimal"
+languageCode = "en-us"
+
+# Disqus
+disqusShortname = "iamliesamaria"
+
+# Google Analytics
+googleAnalytics = "UA-86928614-1"
+
+# Define the number of posts per page
+paginate = 10
+
+# Code Style
+pygmentsstyle = "paraiso-dark"
+
+# Pinterest Pin It Button
+[params.pin_it_button]
+    enabled = true
+
+# Business Logo
+[params.business_logo]
+    enabled = true
+
+# Social Buttons in Header
+[params.header_social]
+    enabled = false
+
+# Sitemap
+[sitemap]
+    changefreq = "monthly"
+    priority = 0.5
+    filename = "sitemap.xml"
+
+# SEO
+[params.social_accounts]
+    twitter = "iamliesamaria"
+    twitter_domain = "iamliesamaria"
+    linkedin = "iamliesamaria"
+
+# MailChimp
+[params.mailchimp]
+    action = "//21moves.us14.list-manage.com/subscribe/post?u=fc10e790dcd5847160c8be6c6&amp;id=deaf797697"
+    id = "b_fc10e790dcd5847160c8be6c6_deaf797697"
+
+# Social Media Handles
+[params.social_handles]
+    twitter = "@iamliesamaria"
+
+# Social Media Share
+[params.social_share]
+    twitter = true
+    facebook = true
+    pinterest = true
+    # linkedin = true
+    # google = true
+    # reddit = true
+    mail = true
+
+[params]
+    viewMorePostLink = "/"
+    author = "Liesa Huppertz"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "iamliesamaria@gmail.com"
+
+[Permalinks]
+    blog = "/:filename/"
+
+[[params.menu]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = false
+    search = false
+
+[params.about_me]
+    text = """Hi, I'm Liesa - 21 days, that's approximately how long it takes to form a habit. The habit I want to build is to simply live a happy life. To me a happy life means moving; moving from one place to another or in the form of a good workout. Here I want to share my habits with you. Feel free to reach out and find me on <a href="https://twitter.com/iamliesamaria">Twitter</a> or <a href="https://www.instagram.com/iamliesamaria/">Instagram</a>."""
+
+[params.see_more]
+    enable = true
+    title = "GET ON THE FIT LIST"
+    subtitle = "Never miss an article about fitness trends, workouts and sport adventures."
+
+    [[params.see_more.labels]]
+        label = "Comprehensive Guides"
+
+    [[params.see_more.labels]]
+        label = "Tips and Tricks"
+
+    [[params.see_more.labels]]
+        label = "Recent Blog Releases"
+
+    [[params.see_more.labels]]
+        label = "Quality over Quantity"
+
+# Footer
+[params.footer]
+    enable = true
+
+    [[params.footer.info]]
+      text = "© Liesa Huppertz"
+
+    [[params.footer.social]]
+      icon = "fa-twitter"
+      link = "https://twitter.com/iamliesamaria"
+
+    [[params.footer.social]]
+      icon = "fa-instagram"
+      link = "https://www.instagram.com/iamliesamaria/"
+
+    [[params.footer.social]]
+        icon = "fa-envelope"
+        link = "mailto:iamliesamaria@gmail.com"
+
+    [[params.footer.quicklinks]]
+      text = "Hosted on DigitalOcean"
+      link = "https://m.do.co/c/fb27c90322f3"
