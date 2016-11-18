@@ -5,7 +5,7 @@ theme = "hugo-minimal"
 languageCode = "en-us"
 
 # Disqus
-disqusShortname = "iamliesamaria"
+disqusShortname = "21moves"
 
 # Google Analytics
 googleAnalytics = "UA-86928614-1"
