@@ -45,6 +45,14 @@ pygmentsstyle = "paraiso-dark"
     action = "//21moves.us14.list-manage.com/subscribe/post?u=fc10e790dcd5847160c8be6c6&amp;id=deaf797697"
     id = "b_fc10e790dcd5847160c8be6c6_deaf797697"
 
+# Feedback and share under each single post
+[params.follow_and_share]
+    enabled = true
+    follow_enabled = true
+    follow_text = """I would love to hear your feedback. Find me on <a target="_blank" href="https://twitter.com/iamliesamaria"><i class="fa fa-twitter"></i>Twitter</a> and <a target="_blank" href="https://www.instagram.com/iamliesamaria"><i class="fa fa-instagram"></i>Instagram</a>"""
+    share_enabled = true
+    share_text = """If you like the content you just read, feel free to share it with your people."""
+
 # Social Media Handles
 [params.social_handles]
     twitter = "@iamliesamaria"
