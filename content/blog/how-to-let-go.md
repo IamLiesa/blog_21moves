@@ -1,5 +1,5 @@
 +++
-title = "How to let go and become a more positive thinker
+title = "How to let go and become a more positive thinker"
 description = "There are a lot of things that hold us off from where we want to be or who we want to become. Negative thoughts steal our energy to concentrate on the good things. Therefor it's important to learn to let go of negative energies."
 date = "2016-11-06T10:50:46+02:00"
 tags = ["Fitness"]
@@ -8,8 +8,7 @@ keyword = "horseback riding"
 news_keywords = ["letting go"]
 banner = "img/posts/horseback-riding-umbria/IMG_5911.jpg"
 
-summary = "There are a lot of things that hold us off from where we want to be, who we want to become or how we want to live. 
-Sometimes it feels like the more we try to remove those negative thoughts and energies out of our life, the more obstinate they become. We have learned to function in this state for a pretty long time. But there comes the time when you realise that you just don't want to live like that anymore."
+summary = "There are a lot of things that hold us off from where we want to be, who we want to become or how we want to live. Sometimes it feels like the more we try to remove those negative thoughts and energies out of our life, the more obstinate they become. We have learned to function in this state for a pretty long time. But there comes the time when you realise that you just don't want to live like that anymore."
 
 type = "promo"
 
