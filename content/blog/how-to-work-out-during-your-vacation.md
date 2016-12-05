@@ -1,7 +1,7 @@
 +++
 title = "How to work out during your Vacation"
 description = "Working out during a vacation can be hard. Jetlag, not enough equipment and the 'I'm-on-holiday'-mode makes a training really challenging. However, I want to show you an easy way of how to integrate your workout into your holiday schedule."
-date = "2016-11-06T10:50:46+02:00"
+date = "2016-11-28T10:50:46+02:00"
 tags = ["Fitness", "Wanderlust"]
 categories = ["Fitness", "Wanderlust"]
 keyword = "holiday workout, workout motivation"
@@ -16,7 +16,7 @@ summary = "Working out during the vacation can be hard. Jetlag, not enough equip
 
 After more than a year of not having gone on any vacation, I was really looking forward to my seven-days-trip to Italy. All I wanted to do was enjoy the sun, have a swim in the pool and do some nice outdoor workouts. Of course, I also wouldn't say no to a nice glass of vino ;)
 
-So often, you start out with all these good intentions. However, in the end, you have to confess that time, as always, was just too short. That is what happened to me. We went for city trips, slept in late or just relaxed at the pool. Also, I didn't exactly find the best running- route, which made it especially hard to stick to my plan. With the right strategy, however, it is not too hard to pull through with your holiday workout. And I wasn't particularly lazy during my vacation either. So today's blog post is all about my holiday workout and how you will be able to pull through with yours during your holidays.
+So often, you start out with all these good intentions. However, in the end, you have to confess that time, as always, was just too short. That is what happened to me. We went for city trips, slept in late or just relaxed at the pool. Also, I didn't exactly find the best running- route, which made it especially hard to stick to my plan. With the right strategy, however, it is not too hard to pull through with your holiday workout. And I wasn't particularly lazy during my vacation either. So today's blog post is all about my holiday workout and how you will be able to pull through with yours during your holidays. [At the end of the post](#infographic) you'll find an infographic with all my exercises. I hope you will enjoy my workout. Feel free to share it :)
 
 
 {{% chapter_header "Staying motivated: How to pull through with your holiday workout" "motivationForWorkout" %}}
@@ -57,7 +57,7 @@ I did **two rounds** of these exercises, each with a duration of **30 seconds**,
 
 **Standard crunch:** Primarily targets the rectus abdominis (six-pack muscles). Not the most effective abdominal exercise, contrary to popular beliefs, but still a classic.
 
-**Twisting sit-up:** Traditional sit-up with an added twisting motion. Good for overall core strength and a definition of your abs. Primarily works your oblique muscles. Do one intervall to each site, then add the cardio sequence.
+**Twisting sit-up:** Traditional sit-up with an added twisting motion. Good for overall core strength and a definition of your abs. Primarily works your oblique muscles. Do one interval to each site, then add the cardio sequence.
 
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/how-to-work-out-during-your-vacation/Italy-situp.jpg|standard crunch"
@@ -104,7 +104,11 @@ Thinking back to this holiday I must say that even though it was totally differe
 
 I am wearing: Pants by Freddy (similar {{% a_blank "here" "https://www.amazon.com/gp/product/B01DSHDM4C/ref=as_li_tl?ie=UTF8&tag=21moves-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01DSHDM4C&linkId=3320288425aea050fd9be8cec414ee78" %}}), Bra: old (similar {{% a_blank "here" "https://www.amazon.com/gp/product/B00U9C1L2A/ref=as_li_tl?ie=UTF8&tag=21moves-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00U9C1L2A&linkId=54206d9c0f9865639193e02ac13c43f1" %}}) and Top by {{% a_blank "Adidas" "https://www.amazon.com/gp/product/B019HPANGE/ref=as_li_tl?ie=UTF8&tag=21moves-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019HPANGE&linkId=757e35e142b5bb5f4c67088d513c32a3" %}}
 
+{{% chapter_header "Infographic" "infographic" %}}
 
+{{< fluid_pin_it_images
+  "col-xs-12|img/posts/how-to-work-out-during-your-vacation/Holiday Workout Infographic.jpeg|holiday workout infographic"
+->}}
 
 
 

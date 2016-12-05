@@ -103,6 +103,7 @@ Take your arms down again while breathing out. Put your palms together in front 
   "col-xs-12|img/posts/good-morning-yoga-at-lago-sul-trasimeno/IMG_5777.jpg|good morning yoga sun salutation"
 ->}}
 
+By the way, there is an infographic with the whole sun salutation flow [at the end of the post](#infographic). I hope you'll enjoy it!
 
 {{% chapter_header "Origin of the Sun Salutation" "OriginOfSunSalutation" %}}
 The Sanksrit word *Namaskar* derives from the word *namas*. This means “to bow to” or “to adore”. Each Sun Salutation begins and also ends with your joined hands in front of your chest, touching your heart. This gesture means, only the heart can know the truth. Yogis believe that in the heart lies the consciousness and higher wisdom (*jnana*).
@@ -126,3 +127,9 @@ There are several types of yoga breathing.  There would be *Ujjayi pranayama*, w
 
 
 Also, I couldn't stop reading Rachel Brathen's {{% a_blank "Yoga Girl" "https://www.amazon.com/gp/product/1501106767/ref=as_li_tl?ie=UTF8&tag=21moves-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1501106767&linkId=aaf2482787662f48d706b8b030dffc13" %}}. It's such an inspirational story about how she has come to Yoga.
+
+{{% chapter_header "Infographic" "infographic" %}}
+
+{{< fluid_pin_it_images
+  "col-xs-12|img/posts/good-morning-yoga-at-lago-sul-trasimeno/infographic-sun-salutation.jpg|good morning yoga sun salutation"
+->}}
