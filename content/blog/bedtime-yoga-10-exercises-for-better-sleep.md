@@ -1,7 +1,7 @@
 +++
 title = "Bedtime Yoga: 10 exercises for a better sleep"
 description = "Sometimes there are things causing us sleepless nights. Maybe it's stress, anxiety or just the moon. Bedtime Yoga might help you overcome insomnia and get you a good night's sleep. Try out these 10 yoga moves before going to bed."
-date = "2016-12-05T10:50:46+02:00"
+date = "2016-12-06T10:50:46+02:00"
 tags = ["Fitness", "Wanderlust"]
 categories = ["Fitness", "Wanderlust"]
 keyword = "bedtime Yoga, evening Yoga"
@@ -44,7 +44,7 @@ There is a lot of evidence that evening Yoga can help to improve your ability to
 
 A study by {{% a_blank "Jonathan Halpern, Ph.D. et al." "https://www.ncbi.nlm.nih.gov/pubmed/24755569" %}} also found significant improvements in sleep quality, sleep efficiency, and sleep duration among older participants (age ≥ 60 years) suffering from insomnia who then attended yoga classes and practiced meditative yoga at home. Additionally, there were improvements in the level of stress, depression, and general well-being. 
 
-{{% package_box "It's St. Nicholas' Day!" "... and our dear friend is coming with a yoga mat. Subscribe to my newsletter to have the chance to win an <a target='blank' href='http://amzn.to/2gZmPSE'>eco-friendly yoga mat.</a>" "Subscribe Now" %}}
+{{% package_box "It's St. Nicholas' Day!" "... and our dear friend is coming with a yoga mat. Subscribe to my newsletter and get the chance to win an <a target='blank' href='http://amzn.to/2gZmPSE'>eco-friendly yoga mat.</a>" "Subscribe Now" %}}
 
 {{% chapter_header "Building up a bedtime Yoga routine" "bedtimeYogaRoutine" %}}
 
