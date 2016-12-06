@@ -104,12 +104,14 @@ Thinking back to this holiday I must say that even though it was totally differe
 
 I am wearing: Pants by Freddy (similar {{% a_blank "here" "https://www.amazon.com/gp/product/B01DSHDM4C/ref=as_li_tl?ie=UTF8&tag=21moves-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01DSHDM4C&linkId=3320288425aea050fd9be8cec414ee78" %}}), Bra: old (similar {{% a_blank "here" "https://www.amazon.com/gp/product/B00U9C1L2A/ref=as_li_tl?ie=UTF8&tag=21moves-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00U9C1L2A&linkId=54206d9c0f9865639193e02ac13c43f1" %}}) and Top by {{% a_blank "Adidas" "https://www.amazon.com/gp/product/B019HPANGE/ref=as_li_tl?ie=UTF8&tag=21moves-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B019HPANGE&linkId=757e35e142b5bb5f4c67088d513c32a3" %}}
 
-{{% chapter_header "Infographic" "infographic" %}}
-
-{{< fluid_pin_it_images
-  "col-xs-12|img/posts/how-to-work-out-during-your-vacation/Holiday Workout Infographic.jpeg|holiday workout infographic"
-->}}
-
+{{% chapter_header "The whole workout at a glance" "infographic" %}}
+<div class="row">
+  <div class="col-md-7 col-centered">
+    {{< fluid_pin_it_images
+      "col-xs-12|img/posts/how-to-work-out-during-your-vacation/Holiday Workout Infographic.jpeg|holiday workout infographic"
+    ->}}
+  </div>
+</div>
 
 
 

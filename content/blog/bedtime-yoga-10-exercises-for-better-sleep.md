@@ -130,11 +130,15 @@ If you want to read a little bit more about this topic, here are some recommenda
 * {{% a_blank "Yoga Therapy for Overcoming Insomnia" "https://www.amazon.com/Therapy-Overcoming-Insomnia-Peter-Houten/dp/1565891740/ref=sr_1_2?s=books&ie=UTF8&qid=1478355399&sr=1-2&keywords=yoga+insomnia" %}}
 * {{% a_blank "The Yoga of Sleep" "https://www.amazon.com/gp/product/159179918X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=21moves-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=159179918X&linkId=ccb60e323fedfad7b71e95c486f10f38" %}}
 
-{{% chapter_header "Infographic" "infographic" %}}
+{{% chapter_header "The whole workout at a glance" "infographic" %}}
+<div class="row">
+  <div class="col-md-7 col-centered">
+    {{< fluid_pin_it_images
+      "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/Goodnight Yoga for better Sleep.jpg|infographic"
+    ->}}
+  </div>
+</div>
 
-{{< fluid_pin_it_images
-  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/Goodnight Yoga for better Sleep.jpg|infographic"
-->}}
 
 
 

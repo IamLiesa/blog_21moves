@@ -128,8 +128,11 @@ There are several types of yoga breathing.  There would be *Ujjayi pranayama*, w
 
 Also, I couldn't stop reading Rachel Brathen's {{% a_blank "Yoga Girl" "https://www.amazon.com/gp/product/1501106767/ref=as_li_tl?ie=UTF8&tag=21moves-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1501106767&linkId=aaf2482787662f48d706b8b030dffc13" %}}. It's such an inspirational story about how she has come to Yoga.
 
-{{% chapter_header "Infographic" "infographic" %}}
-
-{{< fluid_pin_it_images
-  "col-xs-12|img/posts/good-morning-yoga-at-lago-sul-trasimeno/infographic-sun-salutation.jpg|good morning yoga sun salutation"
-->}}
+{{% chapter_header "The whole sequence at a glance" "infographic" %}}
+<div class="row">
+  <div class="col-md-7 col-centered">
+    {{< fluid_pin_it_images
+      "col-xs-12|img/posts/good-morning-yoga-at-lago-sul-trasimeno/infographic-sun-salutation.jpg|good morning yoga sun salutation"
+    ->}}
+  </div>
+</div>
