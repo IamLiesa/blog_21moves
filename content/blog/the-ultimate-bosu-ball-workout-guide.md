@@ -45,7 +45,7 @@ With its combination of stable/unstable surface it offers a wide range of possib
 * [Calories burnt with a BOSU Ball workout](#caloriesBurntWithBosu)
 * [Where to buy the Bosu Ball](#WhereToBuyBosu)
 * [BOSU Ball Test](#bosuTest)
-* [Further supplements for a BOSU Ball workout](#furtherSupplementsBosu)
+* [Further equipments for a BOSU Ball workout](#furtherSupplementsBosu)
 
 
 {{% chapter_header "Why work out with a Bosu Ball?" "whyWorkoutWithBosu" %}}
@@ -406,7 +406,7 @@ With a price of almost 250 Euro, the Bosu Balance Trainer Elite is the most expe
 The BOSU Trainer “Sport” is with 50 cm diameter the smallest of the three. This is extremely practical if you want to take your Bosu Ball with you on vacation. When not inflated, the BOSU Trainer "Sport" fits easily into a suitcase. However, because it's so small, the product is rather recommended for vertical workouts or very petite individuals, rather than e.g. Pilates. When it comes to the pump, reviews for the BOSU Trainer "Sport" aren't as good. Some refer to it as a "piece of junk". So you'd better get a new one. This, however, is affordable with a price of around 80 Euros.  
 I personally think that when it comes to price-performance ratio, the BOSU Trainer "Pro" is a perfect choice. With a price of around 135 Euro, this BOSU is a nice compromise between the BOSU "Elite" and BOSU "Sport". It is very sturdy and even if you're more than a 100-kilo, you can still jump on it. Also, the handling was complimented by a lot of users. However, as with the BOSU Trainer "Sport", the included pump is criticized.
 
-{{% chapter_header "Further supplements for a BOSU Ball workout" "furtherSupplementsBosu" %}}
+{{% chapter_header "Further equipments for a BOSU Ball workout" "furtherSupplementsBosu" %}}
 
 To add an extra challenge to your Bosu Ball Workout, you can always opt for further supplements to get your muscles burning even more. 
 

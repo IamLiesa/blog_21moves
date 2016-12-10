@@ -44,8 +44,6 @@ There is a lot of evidence that evening Yoga can help to improve your ability to
 
 A study by {{% a_blank "Jonathan Halpern, Ph.D. et al." "https://www.ncbi.nlm.nih.gov/pubmed/24755569" %}} also found significant improvements in sleep quality, sleep efficiency, and sleep duration among older participants (age ≥ 60 years) suffering from insomnia who then attended yoga classes and practiced meditative yoga at home. Additionally, there were improvements in the level of stress, depression, and general well-being. 
 
-{{% package_box "It's St. Nicholas' Day!" "... and our dear friend is coming with a yoga mat. Subscribe to my newsletter and get the chance to win an <a target='blank' href='http://amzn.to/2gZmPSE'>eco-friendly yoga mat.</a>" "Subscribe Now" %}}
-
 {{% chapter_header "Building up a bedtime Yoga routine" "bedtimeYogaRoutine" %}}
 
 If Yoga before going to bed really that good, I cannot stop but wonder why we don’t do it a lot more regularly. As I stressed before, building a habit can help you so much to really do what’s good for you. So why don’t we just take 15 minutes of our time before going to bed to calm down and do some goodnight Yoga? For a starter, these ten poses can help you cool down after a stressful day.
