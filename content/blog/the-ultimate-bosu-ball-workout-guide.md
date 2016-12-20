@@ -426,15 +426,13 @@ There are tons of further really great Bosu Ball Workouts out there. I personall
 * {{% a_blank "nataliejillfitness" "https://www.nataliejillfitness.com/best-bosu-ball-exercises-for-abs-and-core/" %}}
 
 {{% chapter_header "All the great Workouts at a glance" "atAGlance" %}}
-
 <div class="row">
   <div class="col-md-7 col-centered">
     {{< fluid_pin_it_images
-      "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/BOSU-workout-guide.png|BOSU Ball Workout Infographic"
+      "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/bosu-ball-workout-guide.jpg|BOSU Ball Workout Infographic"
     ->}}
   </div>
 </div>
-
 
 
 
