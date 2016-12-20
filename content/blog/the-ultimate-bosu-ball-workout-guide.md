@@ -429,7 +429,7 @@ There are tons of further really great Bosu Ball Workouts out there. I personall
 <div class="row">
   <div class="col-md-7 col-centered">
     {{< fluid_pin_it_images
-      "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/bosu-ball-workout-guide.jpg|BOSU Ball Workout Infographic"
+      "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/bosu-workout-guide.jpg|BOSU Ball Workout Infographic"
     ->}}
   </div>
 </div>
