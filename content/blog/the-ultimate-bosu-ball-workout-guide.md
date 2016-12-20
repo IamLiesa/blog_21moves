@@ -1,16 +1,14 @@
 +++
 title = "The ultimate BOSU Ball workout guide"
 description = "The BOSU Ball is an effective workout tool. Read all about my favorite moves and challenging exercises and BOSU Ball workouts for abs, legs, butt and upper body here!"
-date = "2016-11-06T10:50:46+02:00"
+date = "2016-12-20T10:50:46+02:00"
 tags = ["Fitness"]
 categories = ["Fitness"]
 keyword = "Bosu Ball, Bosu Ball workout, Bosu Ball exercises, Bosu Ball workout for abs, Bosu Ball workout for upper body, Bosu Ball cardio workout, Bosu Ball butt workout, osu Ball workout for legs"
 news_keywords = ["Bosu Ball, Bosu Ball workout, Bosu Ball exercises, Bosu Ball workout for abs, Bosu Ball workout for upper body, Bosu Ball cardio workout, Bosu Ball butt workout, Bosu Ball workout for legs"]
-banner = "img/posts/the-ultimate-bosu-ball-workout-guide/twisting plank.jpg"
+banner = "img/posts/the-ultimate-bosu-ball-workout-guide/twisting-plank.jpg"
 
 summary = "I just recently discovered a new workout tool: the BOSU Ball. Working out with the Bosu Ball is fun and challenging at the same time. It's a great change from my usual workout routine. I collected all my favorite workouts and exercises for you here. Hope you enjoy them!"
-
-type = "promo"
 
 +++
 
@@ -46,6 +44,8 @@ With its combination of stable/unstable surface it offers a wide range of possib
 * [Where to buy the Bosu Ball](#WhereToBuyBosu)
 * [BOSU Ball Test](#bosuTest)
 * [Further equipments for a BOSU Ball workout](#furtherSupplementsBosu)
+* [Further Bosu Ball Workouts](#furtherWorkouts)
+* [All the great Workouts at a glance](#atAGlance)
 
 
 {{% chapter_header "Why work out with a Bosu Ball?" "whyWorkoutWithBosu" %}}
@@ -112,11 +112,11 @@ Another fitness classic is the squat. It is a very effective exercise as it trai
   "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/squat.jpg|squat on BOSU Ball"
 ->}} 
 
-Although squats on a Bosu Ball are already pretty challenging, we can always do more. For example with **Bosu Ball jumping side squats**. Place your foot in the middle of the Bosu Ball and get down into a squat. In a quick motion jump sideways over the Bosu Ball and land with your other foot on the Bosu. Your feet should be parallel to each other. Keep your body in a squat position and jump back over the Bosu. Squat jump 1.jpeg squat jump 2.jpeg 
+Although squats on a Bosu Ball are already pretty challenging, we can always do more. For example with **Bosu Ball jumping side squats**. Place your foot in the middle of the Bosu Ball and get down into a squat. In a quick motion jump sideways over the Bosu Ball and land with your other foot on the Bosu. Your feet should be parallel to each other. Keep your body in a squat position and jump back over the Bosu. 
 
 {{< fluid_pin_it_images
-  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/squat-jump-1.jpg|squat jump with BOSU Ball"
-  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/squat-jump-2.jpg|squat jump with BOSU Ball"
+  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/squat-jump_1.jpg|squat jump with BOSU Ball"
+  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/squat-jump_2.jpg|squat jump with BOSU Ball"
 ->}}
 
 If you also want to work on your upper body while performing a squat on a Bosu Ball, simply add a shoulder press. For that lift your weights just to shoulder level with the palms facing outward and then squat downward on the dome-side of the BOSU, come up again and push those dumb-bells up overhead.
@@ -128,14 +128,15 @@ If you also want to work on your upper body while performing a squat on a Bosu B
 If you want to target your arms, chest and shoulders there is no better exercise than a push-up. Performing a push-up with a Bosu Ball, however, is even more challenging. Place the ball dome-side down and grab the sides of the Bosu Ball. Then get down and perform a push-up. Pay attention to your whole body, it should be in a straight line. 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/push-up.jpg|push-up on BOSU Ball"
+  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/push-up.jpg|push-up on BOSU Ball"
+  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/push-up-down.jpg|push-up on a BOSU ball"
 ->}}
 
 If you're looking for an extra challenge, try the BOSU **alternating push-ups**. This time, place the Bosu Ball dome-side up, put your hands flat on the ball and get down into a push-up position. Take your right hand off the BOSU and onto the floor. Then get down into the push-up. Press back up and place your hand on the BOSU again, keeping the plank position. Repeat this on the other side. 
 
 {{< fluid_pin_it_images
-  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/alternating push up 1.jpg|alternating push-up with BOSU ball"
-  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/alternating push up 2.jpg|alternating push-up with BOSU ball"
+  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/alternating-push-up_1.jpg|alternating push-up with BOSU ball"
+  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/alternating-push-up_2.jpg|alternating push-up with BOSU ball"
 ->}}
 
 When working on your arms and shoulders, why not also do something for your butt with a combination of **push-up and glute lift**? Place your BOSU dome-side down and grab the sides of the Bosu with both hands. Then come into a push-up position. Make sure that your head is slightly over your hands and not even with them, your abs should be tight. If this is too hard you can also perform the push-up on your knees. Get down into the push-up, come back up and lift your leg. Make sure to really stabilize the movement of the ball. You will feel your arms and butt burning! Push up.jpeg push up with leg lift.jpeg
@@ -159,7 +160,7 @@ Start with some good old push-ups on the Bosu Ball to work on your core, triceps
 
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/push-up.jpg|push-up with BOSU Ball"
-  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/push up down.jpg| push-up with BOSU Ball"
+  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/push-up-down.jpg| push-up with BOSU Ball"
 ->}}
 
 **Side Plank:**
@@ -226,43 +227,43 @@ Place the Bosu dome side up. Put your hands on the ball, come into a push-up pos
 
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/push-up.jpg|Push-up on a BOSU Ball"
-  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/push up down.jpg|Push-up on a BOSU Ball"
+  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/push-up-down.jpg|Push-up on a BOSU Ball"
 ->}} 
 
 **Squat with Bosu press:**
 Grab the Bosu Ball on both sides, your feet are hip-width apart and remain proportional, knees are bent slightly, glutes squeezed and shoulders back and down. Perform a squat and while doing so, press the Bosu straight out in front of you, arms are straight. Press the Bosu up overhead, as you get back to a stand. 
 
 {{< fluid_pin_it_images
-  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/Squat-Press.jpg|Squat Press with a BOSU Ball"
-  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/Burpee 1.jpg|Squat Press with a BOSU Ball"
+  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/squat-press.jpg|Squat Press with a BOSU Ball"
+  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/Burpee_1.jpg|Squat Press with a BOSU Ball"
 ->}} 
 
 **Burpee with Bosu Ball:**
 First, come into a deep squat holding the Bosu at chest hight. Place the Bosu dome side down on the ground, your hands are positioned flat on the top of the Bosu and jump back into a plank position. Then do a push-up. Jump forward and come into a deep squat again. Get up and lift the Bosu overhead. Pay attention to your core to prevent arching your back. Stay strong. Then repeat. 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/Burpee-1.jpg|Burpee with a BOSU Ball"
+  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/Burpee_1.jpg|Burpee with a BOSU Ball"
 ->}} 
 
 {{< fluid_pin_it_images
-  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/Burpee 2.jpg|Burpee with a BOSU Ball"
-  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/Burpee 3.jpg|Burpee with a BOSU Ball"
+  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/Burpee_2.jpg|Burpee with a BOSU Ball"
+  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/Burpee_3.jpg|Burpee with a BOSU Ball"
 ->}} 
 
 {{< fluid_pin_it_images
-  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/Burpee 4.jpg|Burpee with a BOSU Ball"
-  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/Burpee 5.jpg|Burpee with a BOSU Ball"
+  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/Burpee_4.jpg|Burpee with a BOSU Ball"
+  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/Burpee_5.jpg|Burpee with a BOSU Ball"
 ->}} 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/Burpee-6.jpg|Burpee with BOSU ball"
+  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/Burpee_6.jpg|Burpee with BOSU ball"
 ->}} 
 
 **Overhead BOSU triceps extension:**
 Grab the BOSU on both sides, feet are hip-width apart and remain proportional, knees are bent slightly, glutes squeezed and shoulders are back and down. Press the BOSU up over your head with your shoulders still down. Then bend at the elbows and bring the BOSU down to the middle of your back. Use your triceps to bring the Bosu Ball back up. Always keep your biceps close to your ears. 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/Triceps-extension.jpg|Triceps Extension with a BOSU ball"
+  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/triceps-extension.jpg|Triceps Extension with a BOSU ball"
 ->}} 
 
 {{% sub_chapter_header "Bosu Ball Butt Workouts" "ButtWorkout" %}}
@@ -280,14 +281,14 @@ Place your Bosu Ball dome-side down before you, lie down, back on the floor with
 Roll over the Bosu Ball, face down and with your hips on the dome.  Keep your arms down in front for stability and then lift your legs off the floor, extend through the hip, and then drop down again. If you want this exercise to be even more challenging, you can also lift your arms while lifting the legs off the ground.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/Prone hip extension.jpg|Prone Hip Extension on a BOSU Ball"
+  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/prone-hip-extension.jpg|Prone Hip Extension on a BOSU Ball"
 ->}} 
 
 **BOSU Heel Kick:**
 This exercise is great for the hamstrings and the butt. Place your knees in the center of the dome-side of the Bosu Ball, get down into an all-four position with your hands before your knees on the BOSU. Slowly lift your right knee and stretch your leg backward so that it is parallel to the ground. Then get back on the BOSU again. After you've repeated that exercise 12 to 15 times, change the leg. 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/Heel Kick.jpg|Heel Kick on a BOSU Ball"
+  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/heel-kick.jpg|Heel Kick on a BOSU Ball"
 ->}} 
 
 **BOSU single Leg Glute Bridge:**
@@ -301,7 +302,7 @@ This exercise targets your buttocks and your hamstrings. Lie down on the back an
 Place your knees in the center of the dome-side of the Bosu Ball, get down into an all-four position with your hands before your knees on the BOSU. Slowly lift your right knee. But instead of stretching it backward, lift it up to the side and then kick it out straight. After your repetitions do the same with your other leg. 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/Side Glute Kick-outs.jpg|Side-Glute Kick-outs on a BOSU Ball"
+  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/side-glute-kick-outs.jpg|Side-Glute Kick-outs on a BOSU Ball"
 ->}} 
 
 {{% sub_chapter_header "Bosu Ball Abs Workout" "AbsWorkout" %}}
@@ -319,28 +320,28 @@ Lie down on the dome-side of the Bosu ball with your bottom relatively close to 
 Sit in the middle of the dome-side of the Bosu Ball and put your hands behind the ball for support. Extend your legs straight in front of you at about a 45-degree angle. Keep your stomach muscles tight and your legs straight. Then cross your right leg over the left one. Before repeating this with your other leg, separate your legs in the middle.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/scissor kicks.jpg|Scissor Kicks on a BOSU Ball"
+  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/scissor-kicks.jpg|Scissor Kicks on a BOSU Ball"
 ->}}   
 
 **Russian Twist on a Bosu Ball:**
 Place yourself on the dome-side of the BOSU and bring your knees towards your chest. Hold a medicine ball in both of your hands. Then twist to the left with your upper body and the medicine ball. The lower body should be stable. Then change to the other side.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/russian twist.jpg|Russian Twist on a BOSU Ball"
+  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/russian-twist.jpg|Russian Twist on a BOSU Ball"
 ->}}  
 
 **BOSU Side Crunches:**
 Lay with your hip and side on the BOSU, your waistline should be on top of the dome side. Place your hand behind your head just like you do with a classic crunch. Now lift your upper body. Your oblique muscles will be burning.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/side crunches.jpg|Side Crunches on a BOSU Ball"
+  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/side-crunches.jpg|Side Crunches on a BOSU Ball"
 ->}}  
 
 **Twisting Plank:**
 Place your hands at the side of the flat side of the BOSU and come into a push-up position. Now bring your right knee to your left elbow. Also twist your upper body accordingly. 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/twisting plank.jpg|Twisting Plank on a BOSU Ball"
+  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/twisting-plank.jpg|Twisting Plank on a BOSU Ball"
 ->}}  
 
 {{% sub_chapter_header "Bosu Ball Cardio Exercises" "cardioExercises" %}}
@@ -349,7 +350,7 @@ Place your hands at the side of the flat side of the BOSU and come into a push-u
 For this Bosu Ball cardio workout place, the BOSU dome-side down in front of you. Come into a push-up position, hands underneath your shoulders grabbing the outside of the ball. Now drive one knee up towards your chest, hands always in place. Bring the leg back down. Now bring the other knee up. Alternate between both legs quickly as if you were running. 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/mountain climber.jpg|Mountain Climber on a BOSU Ball"
+  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/mountain-climber.jpg|Mountain Climber on a BOSU Ball"
 ->}}  
 
 **Bosu Ball Burpee:**
@@ -359,8 +360,8 @@ Stand with the BOSU in your hands, holding it on the outside. The flat side shou
 Place the Bosu Ball dome-side up and stand behind it with your feet hip-width apart. Now take a jump on top of the Bosu Ball and come into a squat position. Hold it for just a brief moment, then jump back behind the BOSU. Repeat this Bosu Ball cardio exercise for as long you have breath.  
 
 {{< fluid_pin_it_images
-  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/jump squat 1.jpg|Jump Squat with a BOSU Ball"
-  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/jump squat 2.jpg|Jump Squat with a BOSU Ball"
+  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/jump-squat_1.jpg|Jump Squat with a BOSU Ball"
+  "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/jump-squat_2.jpg|Jump Squat with a BOSU Ball"
 ->}} 
 
 {{% chapter_header "Be careful when using a BOSU Ball" "carefulWithBosu" %}}
@@ -415,7 +416,24 @@ To add an extra challenge to your Bosu Ball Workout, you can always opt for furt
 * {{% a_blank "Further workouts" "https://www.amazon.com/gp/product/1569755892/ref=as_li_tl?ie=UTF8&tag=21moves-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1569755892&linkId=9063b37a98016b6a5927875d856ae129" %}}
 * {{% a_blank "dumbbells" "https://www.amazon.com/gp/product/B008DSK434/ref=as_li_tl?ie=UTF8&tag=21moves-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B008DSK434&linkId=cbb31a2676e0cbb09f0a63e42af0aac0" %}}
 
+{{% chapter_header "Further Bosu Ball Workouts" "furtherWorkouts" %}}
+There are tons of further really great Bosu Ball Workouts out there. I personally totally love these ones:
 
+* {{% a_blank "thelivefitgirls" "http://thelivefitgirls.com/2015/10/the-best-bosu-ab-workout/" %}} 
+* {{% a_blank "jillconyers" "http://jillconyers.com/2015/09/11-bosu-strong-workouts/" %}}
+* {{% a_blank "paleohacks" "http://blog.paleohacks.com/bosu-ball-exercises/" %}}
+* {{% a_blank "thefitfoodiemama" "http://thefitfoodiemama.com/bosustrong-6-ways-i-stay-balanced/" %}}
+* {{% a_blank "nataliejillfitness" "https://www.nataliejillfitness.com/best-bosu-ball-exercises-for-abs-and-core/" %}}
+
+{{% chapter_header "All the great Workouts at a glance" "atAGlance" %}}
+
+<div class="row">
+  <div class="col-md-7 col-centered">
+    {{< fluid_pin_it_images
+      "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/BOSU-workout-guide.png|BOSU Ball Workout Infographic"
+    ->}}
+  </div>
+</div>
 
 
 
