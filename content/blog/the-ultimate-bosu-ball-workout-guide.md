@@ -21,6 +21,10 @@ The BOSU Ball is a balance trainer that can be used on both sides. That’s wher
 David Weck invented the Bosu Ball in 1999. By this time it was mainly used in physiotherapy and by sport medicine specialists. Nowadays it found its way into most gyms and home gyms.
 With its combination of stable/unstable surface it offers a wide range of possibilities for the daily workout. It can be used for the functional training, balance training, stabilization workouts and for strength training. With these exercises, you will improve your posture and body control and you'll also strengthen the back- and ab muscles.
 
+{{< fluid_pin_it_images
+  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/twisting-plank.jpg|Twisting Plank on a BOSU ball"
+->}} 
+
 {{% chapter_header "Table of Contents" "toc" %}}
 
 * [Why work out with a Bosu Ball?](#whyWorkoutWithBosu)
