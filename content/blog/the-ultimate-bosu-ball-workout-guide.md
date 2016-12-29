@@ -424,7 +424,6 @@ To add an extra challenge to your Bosu Ball Workout, you can always opt for furt
 There are tons of further really great Bosu Ball Workouts out there. I personally totally love these ones:
 
 * {{% a_blank "thelivefitgirls" "http://thelivefitgirls.com/2015/10/the-best-bosu-ab-workout/" %}} 
-* {{% a_blank "jillconyers" "http://jillconyers.com/2015/09/11-bosu-strong-workouts/" %}}
 * {{% a_blank "paleohacks" "http://blog.paleohacks.com/bosu-ball-exercises/" %}}
 * {{% a_blank "thefitfoodiemama" "http://thefitfoodiemama.com/bosustrong-6-ways-i-stay-balanced/" %}}
 * {{% a_blank "nataliejillfitness" "https://www.nataliejillfitness.com/best-bosu-ball-exercises-for-abs-and-core/" %}}

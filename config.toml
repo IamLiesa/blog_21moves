@@ -51,6 +51,15 @@ pygmentsstyle = "paraiso-dark"
     enabled = true
     code = "54b03297ea0fac0091f96e64ed5b326d"
 
+# Package Box under each single post
+[params.package_box]
+    enabled = true
+    header = "Get things done"
+    text = "The secret to success? Writing things down. Commit to a healthy life, make a plan, cross things off the list and get things done! <strong>Get the free fitness and health planner now</strong>."
+    img = "img/page/fitness_calendar.png"
+    cta = "Get the Calendar"
+    url = "http://eepurl.com/coQ_Vn"
+
 # Feedback and share under each single post
 [params.follow_and_share]
     enabled = true

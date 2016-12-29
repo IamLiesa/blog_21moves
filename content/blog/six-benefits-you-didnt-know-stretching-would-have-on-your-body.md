@@ -1,6 +1,6 @@
 +++
 title = "Six Benefits you didn't know stretching would have on your Body"
-description = "You might feel that stretching only steals time from your 'real' workout. But there actually are many benefits that come from properly stretch your body."
+description = "You might feel that stretching only steals time from your 'real' workout. But there actually are many benefits that come from properly stretching your body."
 date = "2016-12-12T13:50:46+02:00"
 tags = ["Fitness", "Wanderlust"]
 categories = ["Fitness", "Wanderlust"]
