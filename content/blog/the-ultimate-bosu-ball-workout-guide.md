@@ -109,14 +109,8 @@ To work on your leg muscles and improve your balance, lunges on a Bosu Ball are 
   "col-xs-4|img/posts/the-ultimate-bosu-ball-workout-guide/side-lunge.jpg|Side Lunge on a Bosu Ball"
 ->}} 
 
-**Bosu Ball Squats:**
-Another fitness classic is the squat. It is a very effective exercise as it trains your whole body, focusing primarily on the thighs, hips and buttocks, the quadriceps and the hamstrings. To make squats even more effective, you can perform them on the Bosu Ball with the dome-side down:
-
-{{< fluid_pin_it_images
-  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/squat.jpg|squat on BOSU Ball"
-->}} 
-
-Although squats on a Bosu Ball are already pretty challenging, we can always do more. For example with **Bosu Ball jumping side squats**. Place your foot in the middle of the Bosu Ball and get down into a squat. In a quick motion jump sideways over the Bosu Ball and land with your other foot on the Bosu. Your feet should be parallel to each other. Keep your body in a squat position and jump back over the Bosu. 
+**Bosu Ball jumping side squats**
+Place your foot in the middle of the Bosu Ball and get down into a squat. In a quick motion jump sideways over the Bosu Ball and land with your other foot on the Bosu. Your feet should be parallel to each other. Keep your body in a squat position and jump back over the Bosu. 
 
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/squat-jump_1.jpg|squat jump with BOSU Ball"
@@ -193,13 +187,6 @@ For the **Single-Leg Romanian Deadlift** stand with one leg on the dome-side of 
   "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/one-legged-bridge.jpg|One-legged Bridge on a BOSU Ball"
   "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/Deadlift.jpg|Single Leg Romanian Deadlift on a BOSU Ball"
 ->}}
-
-**Squats for butt and legs:**
-Place your Bosu Ball dome-side down and stand on the flat side with your legs hip-width apart. Slowly squat down and hold this position for a few seconds. 
-
-{{< fluid_pin_it_images
-  "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/squat.jpg|Squat on a BOSU Ball"
-->}} 
 
 **Front Lunge for the legs:**
 The Bosu Ball is placed dome-side up in front of you. Step onto it with one leg and slowly get down into a lunge position. Drive off the BOSU, pushing through your front leg. Stand back and repeat with the other leg. 
