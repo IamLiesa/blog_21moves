@@ -1,4 +1,4 @@
-baseurl = "http://www.21moves.com/"
+baseurl = "https://www.21moves.com/"
 title = "21Moves"
 description = "Fitness, Health and Lifestyle"
 theme = "hugo-minimal"
