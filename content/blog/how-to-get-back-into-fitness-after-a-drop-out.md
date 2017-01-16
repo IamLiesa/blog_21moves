@@ -6,7 +6,7 @@ tags = ["Fitness"]
 categories = ["Fitness"]
 keyword = "comeback workout"
 news_keywords = ["comeback workout"]
-banner = "img/posts/six-benefits-you-didnt-know-stretching-would-have-on-your-body/Mermaid-Pose.jpeg"
+banner = "img/posts/how-to-get-back-into-working-out-after-a-break-from-fitness/IMG_5208-neu.jpg"
 
 summary = "During holiday season a lot of people skip their workout routine. However, from skipping it once it can easily get to skipping it all together. If that happens, your cardio fitness and strength gains start to decrease pretty quickly. I want to explain to you what happens to your muscles and cardio and how you can get back into fitness after a drop-out."
 
@@ -39,7 +39,7 @@ That sounds unfair, doesn’t it? The reason why signs of detraining show much s
 {{% chapter_header "Better squeeze in a few short, high intensity workouts than totally skip your workout" "squeezInWorkout" %}}
 You know it: doing a little is always better than doing nothing at all. If you stop working out all together, the losses can be significant and it’s much harder to gain back your fitness. Instead of skipping your workout all together, maybe it’s wiser to cut back the days of workout and intensify the workouts on those days when you train. Short high intensity interval trainings are a great option. They are short, they are intense and they are fun. Also just a little stretching here and then is already better than nothing. 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/how-to-get-back-into-working-out-after-a-break-from-fitness/italy-side-situp.jpg|squeezing in a workout"
+  "col-xs-12|img/posts/how-to-get-back-into-working-out-after-a-break-from-fitness/Italy-side-situp.jpg|squeezing in a workout"
 ->}}
 
 {{% chapter_header "How long will it take to get the fitness back?" "gettingFitnessBack" %}}
@@ -53,12 +53,14 @@ As with everything, the key to success is consistency. I also have those days wh
 When preparing for your comeback workout, always remember that you’re not in as good of a shape as you were before your fitness break. Thus, take it slow and don’t beat yourself up if you’re not getting back your old fitness just as quickly as you would like it.
 
 **Starting out with flexibility workouts is a good idea**
+
 For the beginning of a comeback workout, some flexibility exercises would be a good idea. This increases the blood flow and circulation and improves the range of motion and joint mobility. I often have the impression that a good flexibility training is highly underrated these days. The benefits of a good stretch a manifold. A flexibility at the beginning of your comeback workout will allow your body to readjust to new demands. A yoga workout really helps to build up flexibility as well. You can check out some of my favorite yoga stretches {{% a_blank "here" "https://www.21moves.com/six-benefits-you-didnt-know-stretching-would-have-on-your-body/" %}}.
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/how-to-get-back-into-working-out-after-a-break-from-fitness/Ardha-Matsyendrasana.jpeg|comeback workout light strething"
 ->}}
 
 **Light cardio after the stretching**
+
 Next, you can incorporate some light cardio into your workout. A 20 minute walk for example is a good idea. The fresh air is good for you and your body will get into moving mode again. Good indoor alternatives are the treadmill, a stationary bike or the elliptical. 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/how-to-get-back-into-working-out-after-a-break-from-fitness/IMG_5214.jpg|cardio outside"
@@ -66,15 +68,17 @@ Next, you can incorporate some light cardio into your workout. A 20 minute walk 
 
 
 **And finally some strength workouts**
+
 After light cardio and stretching, you can start with a strength workout again. At the beginning, focus on improving your posture, on developing core strength, and on activating muscles throughout your gluten and hamstring region. Good exercises that activate those areas are squats, bridges, lunges or {{% a_blank "stability ball mobility" "https://www.21moves.com/the-ultimate-bosu-ball-workout-guide/" %}}. 
 
 I would also suggest starting with compound movements and workouts that focus on working out large muscle groups e.g. squats, deadlift, pull-ups or row. Start light with three sets of 10 to 15 repetitions with weight that you could lift 25 to 30 times. At the end, however, you must listen to your body. You know best what weight feels right and how many repetitions you are able to do. Always take care and try to build up a habit again.
 
 {{% chapter_header "Recommendations" "recommendations" %}}
 If you're looking for gentle workouts to get back into the fitness routine, I can highly recommend these:
-*{{% a_blank "Yoga, Pilates plus Cardio" "https://www.amazon.com/Yoga-Pilates-Cardio-Fusion-Full-Body/dp/B01JKAKSIO/ref=as_li_ss_tl?ie=UTF8&qid=1484581879&sr=8-3&keywords=cardio+workout&linkCode=ll1&tag=21moves-20&linkId=59d59bb7b04d9455c9831d23d4bee8bb" %}}
-*{{% a_blank "Gentle Yoga" "https://www.amazon.com/Jessica-Smith-Flexibility-Relaxation-Stretching/dp/B01GKKXXG6/ref=as_li_ss_tl?ie=UTF8&qid=1484581025&sr=8-24-spons&keywords=easy+fitness+workout&psc=1&linkCode=ll1&tag=21moves-20&linkId=c40c87b572e03debb3917dba6cfaa137" %}}
-*{{% a_blank "Getting back on your Feet" "https://www.amazon.com/Getting-Back-Your-Feet-Mobility/dp/0930031385/ref=as_li_ss_tl?ie=UTF8&qid=1484581418&sr=8-4&keywords=fitness+after+injury&linkCode=ll1&tag=21moves-20&linkId=1dfa37cce088f9b6e0ebdf9409c417a8" %}}
+
+* {{% a_blank "Yoga, Pilates plus Cardio" "https://www.amazon.com/Yoga-Pilates-Cardio-Fusion-Full-Body/dp/B01JKAKSIO/ref=as_li_ss_tl?ie=UTF8&qid=1484581879&sr=8-3&keywords=cardio+workout&linkCode=ll1&tag=21moves-20&linkId=59d59bb7b04d9455c9831d23d4bee8bb" %}}
+* {{% a_blank "Gentle Yoga" "https://www.amazon.com/Jessica-Smith-Flexibility-Relaxation-Stretching/dp/B01GKKXXG6/ref=as_li_ss_tl?ie=UTF8&qid=1484581025&sr=8-24-spons&keywords=easy+fitness+workout&psc=1&linkCode=ll1&tag=21moves-20&linkId=c40c87b572e03debb3917dba6cfaa137" %}}
+* {{% a_blank "Getting back on your Feet" "https://www.amazon.com/Getting-Back-Your-Feet-Mobility/dp/0930031385/ref=as_li_ss_tl?ie=UTF8&qid=1484581418&sr=8-4&keywords=fitness+after+injury&linkCode=ll1&tag=21moves-20&linkId=1dfa37cce088f9b6e0ebdf9409c417a8" %}}
 
 
 
