@@ -16,6 +16,9 @@ paginate = 10
 # Code Style
 pygmentsstyle = "paraiso-dark"
 
+[params.google_search]
+    verify = "6cUVHKq1ibKSj_P2OnE3JGR7Bx3dj0KySyHzn21yIJs"
+
 # Pinterest Pin It Button
 [params.pin_it_button]
     enabled = true
@@ -54,6 +57,7 @@ pygmentsstyle = "paraiso-dark"
 # Package Box under each single post
 [params.package_box]
     enabled = true
+    enabled_popover = false
     header = "Get things done"
     text = "The secret to success? Writing things down. Commit to a healthy life, make a plan, cross things off the list and get things done! <strong>Get the free fitness and health planner now</strong>."
     img = "img/page/fitness_calendar.png"
