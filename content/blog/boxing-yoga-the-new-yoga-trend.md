@@ -80,7 +80,7 @@ Boxingyoga was developed in London, thus the UK is of course pioneer when it com
 ->}}
 
 {{% chapter_header "Chimosa and Somuchmore BoxingYoga Event" "event" %}}
-One of my favorite fitness events last year was the {{% a_blank "Somuchmore" "https://somuchmore.de/" %}} X Chimose BoxingYoga event. During that event they offered a trial lesson and I was eager to learn about the new fitness trend. 
+One of my favorite fitness events last year was the {{% a_blank "Somuchmore" "https://somuchmore.de/" %}} X {{% a_blank "Chimosa" "https://chimosa.de/" %}} BoxingYoga event. During that event they offered a trial lesson and I was eager to learn about the new fitness trend. 
 
 We started with a boxing class and let me tell you, it was intense. Boxing is such a good cardio workout and it trains your upper body alongside. I was already sweating after just a few minutes. During that lesson, we learned how to move, punch and get back in a defensive position in a very playful way. 
 
