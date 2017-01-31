@@ -14,12 +14,12 @@ summary = "I just recently discovered a new workout tool: the BOSU Ball. Working
 
 {{% header "The ultimate Bosu Ball Workout Guide" %}}
 
-If you’re anything like me you’ve probably seen a BOSU Ball at your gym, wondering what that strange “half-ball thingy” is. I had never really known what to do with it until I saw a great Bosu Ball workout. That’s when I started researching what workouts to do with it. 
+If you’re anything like me you’ve probably seen a BOSU Ball at your gym, wondering what that strange “half-ball thingy” is. I had never really known what to do with it until I saw a great Bosu Ball workout. That’s when I started researching what workouts to do with it and collected the best BOSU Ball workouts here. 
 
-The BOSU Ball is a balance trainer that can be used on both sides. That’s where it got its name from: Both sides utilized. On the one side, it is completely flat and it can lie on the ground while on the other side it is essentially an exercise ball cut in half. The ball provides different challenges for your muscles, no matter which side you use.
+A little bit on the history of the BOSU Ball first: The BOSU Ball is a balance trainer that can be used on both sides. That’s where it got its name from: Both sides utilized. On the one side, it is completely flat and it can lie on the ground while on the other side it is essentially an exercise ball cut in half. The ball provides different challenges for your muscles, no matter which side you use.
 
-David Weck invented the Bosu Ball in 1999. By this time it was mainly used in physiotherapy and by sport medicine specialists. Nowadays it found its way into most gyms and home gyms.
-With its combination of stable/unstable surface it offers a wide range of possibilities for the daily workout. It can be used for the functional training, balance training, stabilization workouts and for strength training. With these exercises, you will improve your posture and body control and you'll also strengthen the back- and ab muscles.
+David Weck is the inventor of the Bosu Ball. He invented it in 1999. By this time it was mainly used in physiotherapy and by sport medicine specialists. Nowadays, it found its way into most gyms and home gyms.
+With its combination of stable/unstable surface it offers a wide range of possibilities for the daily workout. The BOSU Ball can be used for functional training, balance training, stabilization workouts and for strength training. With these exercises, you will improve your posture and body control and you'll also strengthen the back- and ab muscles.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/twisting-plank.jpg|Twisting Plank on a BOSU ball"
@@ -52,14 +52,14 @@ With its combination of stable/unstable surface it offers a wide range of possib
 * [All the great Workouts at a glance](#atAGlance)
 
 
-{{% chapter_header "Why work out with a Bosu Ball?" "whyWorkoutWithBosu" %}}
+{{% chapter_header "Benefits of Bosu Ball exercises" "whyWorkoutWithBosu" %}}
 
 The Bosu Ball is a robust, varied training tool, which can be combined with many classic exercises. Thus, its possible application is very versatile and every part of the body can be trained.
 Because of the unstable surface of the Bosu Ball, the muscles, ligaments and tendons have to always carry out little compensatory movements. This additional challenge intensifies the workout and even the deep muscles are trained through the balancing act. Many professional athletes use the Bosu Ball because strengthening the micro muscles and increasing their stability can prevent serious injuries.
 
 {{% sub_chapter_header "Bosu Ball workout in sports rehab" "sportsRehab" %}}
 
-When having problems with the ankle joint, knee, hip or back, the Bosu Ball is the perfect workout partner. In sports rehab the strengthening of the deep muscles is extremely important, this is exactly what the Bosu Ball does. Because of its size, the "half-ball" offers a very good basic stability. This makes it very suitable for re-building ones coordinating. That’s why the Bosu Ball is very famous in the field of sports medicine.
+When having problems with the ankle joint, knee, hip or back, the Bosu Ball is the perfect workout partner. In sports rehab, the strengthening of the deep muscles is extremely important, this is exactly what the Bosu Ball does. Because of its size, the "half-ball" offers a very good basic stability. This makes it very suitable for re-building ones coordinating. That’s why the Bosu Ball is very famous in the field of sports medicine.
 
 
 {{% sub_chapter_header "Balance exercises" "balanceExercises" %}}
@@ -76,7 +76,7 @@ The Bosu Ball is a great fitness tool if you feel bored from your classic fitnes
 
 {{% sub_chapter_header "Bosu Ball for runners" "bosuRunner" %}}
 
-Also, a runner can benefit from a good Bosu Ball workout and improve performance and speed. In addition to that, addressing muscular imbalances and training muscles and joints with a Bosu Ball can prevent the risk of serious injuries that easily happen while running. 
+Also runners benefit from a good Bosu Ball workout and improve performance and speed. In addition to that, addressing muscular imbalances and training muscles and joints with a Bosu Ball can prevent the risk of serious injuries that easily happen while running. 
 
 {{% chapter_header "Classic exercises on a Bosu Ball" "classicExercisesBosu" %}}
 
@@ -93,7 +93,7 @@ Most of you are familiar with a simple plank. The bodyweight exercise is very ef
 
 To target your obliques and your shoulders you can also try to do a **side plank** and a **plank with a leg lift** on the Bosu Ball: 
 
-{{< fluid_pin_it_images
+{{< fluid_pin_it_images 
   "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/side-plank-bosu.jpg|Side Plank on a BOSU Ball"
   "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/plank-with-leg-lift.jpg|Plank with a Leg Lift on a BOSU Ball"
 ->}}
@@ -137,7 +137,7 @@ If you're looking for an extra challenge, try the BOSU **alternating push-ups**.
   "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/alternating-push-up_2.jpg|alternating push-up with BOSU ball"
 ->}}
 
-When working on your arms and shoulders, why not also do something for your butt with a combination of **push-up and glute lift**? Place your BOSU dome-side down and grab the sides of the Bosu with both hands. Then come into a push-up position. Make sure that your head is slightly over your hands and not even with them, your abs should be tight. If this is too hard you can also perform the push-up on your knees. Get down into the push-up, come back up and lift your leg. Make sure to really stabilize the movement of the ball. You will feel your arms and butt burning! Push up.jpeg push up with leg lift.jpeg
+When working on your arms and shoulders, why not also do something for your butt with a combination of **push-up and glute lift**? This BOSU exercise for glutes is a perfect butt-maker. Place your BOSU dome-side down and grab the sides of the Bosu with both hands. Then come into a push-up position. Make sure that your head is slightly over your hands and not even with them, your abs should be tight. If this is too hard you can also perform the push-up on your knees. Get down into the push-up, come back up and lift your leg. Make sure to really stabilize the movement of the ball. You will feel your arms and butt burning! Push up.jpeg push up with leg lift.jpeg
 
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/the-ultimate-bosu-ball-workout-guide/push-up.jpg|push-up with BOSU Ball and leg lift"
@@ -147,9 +147,9 @@ When working on your arms and shoulders, why not also do something for your butt
 
 {{% chapter_header "Bosu Ball workout routine" "workoutRoutine" %}}
 
-A Bosu Ball is the perfect tool to train every part of your body. In this section, I want to present five different type of Bosu Ball workouts: a Bosu Ball full body workout, a Bosu Ball cardio workout, an upper body Bosu Ball workout, a workout for your glutes and a Bosu Ball workout for abs.
+A Bosu Ball is the perfect tool to train every part of your body. In this section, I want to present five different type of Bosu Ball workouts: a Bosu Ball full body workout, a Bosu Ball cardio workout, a Bosu Ball upper body workout, a Bosu Ball workout for your glutes and a Bosu Ball workout for abs.
 
-{{% sub_chapter_header "Bosu Ball full body workout exercises" "fullBodyWorkout" %}}
+{{% sub_chapter_header "Bosu Ball total body workout exercises" "fullBodyWorkout" %}}
 
 If you only have 30 minutes of time to complete your workout, use the Bosu Ball full body workout to burn calories. You may even want to include a few cardio sequences like burpees or skipping into your workout to really get your heart rate up. Do three sets of each move and repeat them 12 to 15 times.
  
