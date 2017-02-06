@@ -104,8 +104,8 @@ Slowly rotate in a 90-degree-angle, curl the back and crunch the abdominals. Now
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0492.JPG|Boxingyoga Side Crunch Sequence 1"
   "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0490.JPG|Boxingyoga Side Crunch Sequence 2"
-  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0567.JPG|Boxingyoga Side Crunch Sequence 3"
-  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0556.JPG|Boxingyoga Side Crunch Sequence 4"
+  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0609.JPG|Boxingyoga Side Crunch Sequence 3"
+  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0610.JPG|Boxingyoga Side Crunch Sequence 4"
   "col-xs-12|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0557.JPG|Boxingyoga Side Crunch Sequence 5"
 ->}}
 
