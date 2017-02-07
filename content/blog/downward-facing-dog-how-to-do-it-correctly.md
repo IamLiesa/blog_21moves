@@ -1,5 +1,5 @@
 +++
-title = "Downward-Facing Dog: How to do it correctly, common mistakes and variations"
+title = "Downward-Facing Dog: How to do it correctly"
 description = "Though Downward-Facing Dog is a reguallarly practiced Yoga pose, many students still make mistakes. Learn how to do it correctly and what to watch out for."
 date = "2017-02-07T11:50:46+02:00"
 tags = ["Fitness"]
@@ -13,7 +13,7 @@ summary = "Though Downward-Facing Dog is propably the yoga pose you practice mos
 
 +++
 
-{{% header "Downward-Facing Dog: How to do it correctly, common mistakes and variations" "downwardFacingDog" %}}
+{{% header "Downward-Facing Dog: How to do it correctly" "downwardFacingDog" %}}
 
 Downward-Facing Dog or Down Dog (Adho Much Svanasana in sanskrit) is one of the most famous, if not the most famous, yoga pose. It’s probably the pose you do most often in yoga classes. Therefore, it’s important to perform the Downward-Facing Dog correctly, not only to avoid injuries but also in order to make it as effective and as comfortable as possible. Although practiced so often, the Down Dog is often not carried out correctly as it is more complex than it may look. There is a lot to think about in this pose and I want to show you what exactly that is.
 
