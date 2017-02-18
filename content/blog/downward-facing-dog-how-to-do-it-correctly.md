@@ -19,7 +19,7 @@ Downward-Facing Dog or Down Dog (Adho Much Svanasana in sanskrit) is one of the 
 Also, a lot of people don’t know how many benefits the Downward-Facing Dog offers. Apart from the obvious ones such as stretching and strengthening, it offers manifold other benefits. In this post, I want to present you the benefits of Downward-Facing Dog and show you how to do the pose correctly. I also want to make you attentive for some common mistakes in the carry-out of this pose and show you some of my favourite Downward-Facing Dog variations. 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/downward_dog_how_to.jpg|Downward-Facing Dog"
+  "col-xs-12|img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/IMG_0644.JPG|Downward-Facing Dog"
 ->}}
 
 {{% chapter_header "5 benefits from Downward-Facing Dog" "benefitsDownDog" %}}
