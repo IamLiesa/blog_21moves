@@ -6,21 +6,20 @@ tags = ["Fitness"]
 categories = ["Fitness"]
 keyword = "yoga, downward facing dog"
 news_keywords = ["yoga, downward facing dog"]
-banner = "img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/IMG_0630.JPG"
+banner = "img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/IMG_0644.JPG"
+
+headline = "Downward-Facing Dog: How to do it correctly"
 
 summary = "Though Downward-Facing Dog is propably the yoga pose you practice most often during class, it's still a pose that so many do wrong. That's why today's pose is all about the Downward-Facing Dog, how to do it correctly, what the common mistakes are and what variations are out there. I also share with you some beginners tips that have helped me a lot when I started doing yoga."
 
-
 +++
-
-{{% header "Downward-Facing Dog: How to do it correctly" "downwardFacingDog" %}}
 
 Downward-Facing Dog or Down Dog (Adho Much Svanasana in sanskrit) is one of the most famous, if not the most famous, yoga pose. It’s probably the pose you do most often in yoga classes. Therefore, it’s important to perform the Downward-Facing Dog correctly, not only to avoid injuries but also in order to make it as effective and as comfortable as possible. Although practiced so often, the Down Dog is often not carried out correctly as it is more complex than it may look. There is a lot to think about in this pose and I want to show you what exactly that is.
 
 Also, a lot of people don’t know how many benefits the Downward-Facing Dog offers. Apart from the obvious ones such as stretching and strengthening, it offers manifold other benefits. In this post, I want to present you the benefits of Downward-Facing Dog and show you how to do the pose correctly. I also want to make you attentive for some common mistakes in the carry-out of this pose and show you some of my favourite Downward-Facing Dog variations. 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/IMG_0588.JPG|Downward-Facing Dog"
+  "col-xs-12|img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/IMG_0644|Downward-Facing Dog"
 ->}}
 
 {{% chapter_header "5 benefits from Downward-Facing Dog" "benefitsDownDog" %}}
@@ -30,7 +29,7 @@ Before we jump into how to carry out Downward-Facing Dog correctly, let me first
 1. It boosts circulation:
 With the heart being higher than the head, Downward-Facing Dog counts as a mild **inversion**. Any of these exercises are good for the **circulatory system**, because it encourages **blood flow** throughout the body. An active circulatory system helps you to keep your **immune system in shape**, it helps regulate the **blood pressure**, and it **flushes toxins from your body**. Furthermore, the flow of blood to the brain **calms the nervous system**, improves the **memory and concentration**, and is a great **stress reliever**. It also holds all the other benefits of inversions such as **relieving you from headaches**, **insomnia**, **fatigue**, and **mild depression**.
 
-2. Eliminates stiffness and back paine:
+2. Eliminates stiffness and back pain:
 By performing Downward-Facing Dog the upper back becomes **more flexible** and **less likely to store so much tension**. It also **lengthens the spine** and creates space between the vertebrae. 
 
 3. It stretches your body:
@@ -49,7 +48,7 @@ When practiced regularly, Downward-Facing Dog can also improve the **digestion**
 Now let’s dive into the practice. As I already said, a lot of people see the Downward-Facing Dog as a very basic and easy posture when actually there is a lot to think about. That’s why I want to give you these 10 alignment tips to improve your Downward Dog.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/IMG_0629.JPG|Downward-Facing Dog Alignment Tips"
+  "col-xs-12|img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/IMG_0643.JPG|Downward-Facing Dog Alignment Tips"
 ->}}
 
 1. **Hands:** Your hands should be **shoulder distance apart** with your fingers spread wide. Really root the whole hand into the mat for stability.
@@ -67,7 +66,7 @@ Now let’s dive into the practice. As I already said, a lot of people see the D
 5. **Spine:** When doing the Downward-Facing Dog we always want our spine to be nice and long in a **V-shape** rather than rounded. 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/IMG_0593.JPG|Downward-Facing Dog Spine"
+  "col-xs-12|img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/IMG_0646.JPG|Downward-Facing Dog Spine"
 ->}}
 
 6. **Rips:** The rips should be soft. Often, people start sending the rips outwards to get the arch in the spine. Don’t do that. Draw the belly towards the spine and leave the rips nice and soft.
@@ -176,6 +175,14 @@ For your further practice you might also be interested in:
 
 * {{% a_blank "Anatomy, Stretching & Yoga Training" "https://www.amazon.com/Anatomy-Stretching-Training-Step-Step/dp/1628736372/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1481387313&sr=1-2&keywords=yoga+stretching&linkCode=ll1&tag=21moves-20&linkId=e25c07f904b741ba1623d899381c1de1" %}}
 
+{{% chapter_header "Please Pin for later if you like the Article" "Pin" %}}
+
+
+<div class="row">
+  <div class="col-md-7 col-centered">
+      <a data-pin-do="embedPin" data-pin-lang="de" data-pin-width="medium" href="https://www.pinterest.com/pin/488570259561985928/"></a>
+  </div>
+</div>
 
 
 

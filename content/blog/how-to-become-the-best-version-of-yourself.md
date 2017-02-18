@@ -8,12 +8,11 @@ keyword = "self transformation"
 news_keywords = ["self transformation"]
 banner = "img/posts/how-to-become-the-best-version-of-yourself/freedom.jpeg"
 
+headline = "How to become the best Version of Yourself"
+
 summary = "When you close your eyes and imagine the very best version of yourself, what do you see? At the end of a year, it is always good to reflect on what you have achieved, on what was good and what wasn't about the year. It's natural to think of some new years resolutions, however, it's important to have a realistic goal for the next year.One, that is feasible And good for your."
 
-
 +++
-
-{{% header "How to become the best Version of Yourself" "bestVersion" %}}
 
 When you close your eyes and imagine the very best version of yourself, what do you see? 
 

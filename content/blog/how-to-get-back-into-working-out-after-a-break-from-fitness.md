@@ -8,12 +8,11 @@ keyword = "comeback workout"
 news_keywords = ["comeback workout"]
 banner = "img/posts/how-to-get-back-into-working-out-after-a-break-from-fitness/IMG_5208-neu.jpg"
 
+headline = "How to get back into working out after a break from fitness"
+
 summary = "During holiday season a lot of people skip their workout routine. However, from skipping it once it can easily get to skipping it all together. If that happens, your cardio fitness and strength gains start to decrease pretty quickly. I want to explain to you what happens to your muscles and cardio and how you can get back into fitness after a drop-out."
 
-
 +++
-
-{{% header "How to get back into working out after a break from fitness" %}}
 
 Christmas holidays were probably the best excuse to take a little time off your workout routine. However, if you feel you have completely fallen off your fitness track now, it might be pretty intimidating starting all over again. We all know how easily three days of stopping to workout become two weeks of not training. Lifting weights again after a long time can feel like lifting weights for the very first time. Still, it’s important to get on the fitness waggon again. In this article I will tell you how to do it and what to consider when starting again.
 

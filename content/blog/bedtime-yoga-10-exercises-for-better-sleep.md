@@ -8,11 +8,11 @@ keyword = "bedtime Yoga, evening Yoga"
 news_keywords = ["bedtime Yoga, evening Yoga"]
 banner = "img/posts/bedtime-yoga-10-exercises-for-better-sleep/seated_forward_fold.jpeg"
 
+headline = "Bedtime Yoga: 10 exercises for a better sleep"
+
 summary = "Sometimes there are things causing us sleepless nights. Maybe it's stress, anxiety or just the moon. To really function during the day however, we nee a good night's sleep. Yoga right before going to bed really helps me to cool down at the end of the day and call it a night. Today I want to show you my ten favorite yoga exercises before going to bed."
 
 +++
-
-{{% header "Bedtime Yoga: 10 exercises for a better sleep" "top10ExercisesForBetterSleep" %}}
 
 Sometimes there are things causing you sleepless nights. We all have them - it’s totally normal. We all have responsibilities, deadlines, fears and stressful days and it is absolutely understandable that those things can even cost us our well-deserved sleep.
 

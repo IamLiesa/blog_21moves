@@ -8,11 +8,11 @@ keyword = "holiday workout, workout motivation"
 news_keywords = ["holiday workout, workout motivation"]
 banner = "img/posts/how-to-work-out-during-your-vacation/Italy-side-situp.jpg"
 
+headline = "How to work out during your Vacation"
+
 summary = "Working out during the vacation can be hard. Jetlag, not enough equipment and the 'I'm-on-holiday'-mode can make a training really challenging. However, I want to show you an easy way of how to integrate your workout into your holiday schedule and show you how I worked out during my vacation in Italy."
 
 +++
-
-{{% header "How to work out during your Vacation" %}}
 
 After more than a year of not having gone on any vacation, I was really looking forward to my seven-days-trip to Italy. All I wanted to do was enjoy the sun, have a swim in the pool and do some nice outdoor workouts. Of course, I also wouldn't say no to a nice glass of vino ;)
 

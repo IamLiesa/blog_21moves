@@ -8,12 +8,12 @@ keyword = "yoga stretching"
 news_keywords = ["yoga, boxingyoga"]
 banner = "img/posts/boxing-yoga-the-new-yoga-trend/IMG_0486.JPG"
 
+headline = "BoxingYoga: The new Yoga Trend"
+
 summary = "Until a recent Fitness event I had never heard of BoxingYoga. I guess this is the case for most of you. However, when I first tried it out, I was hooked. Before, I couldn't imagine how boxing and yoga could work together but in practice it totally worked. I actually really enjoyed the power that was behind all the moves. That's why today I want to introduce you to this new yoga trend."
 
 
 +++
-
-{{% header "BoxingYoga: The new Yoga Trend" "newYogaTrend" %}}
 
 Have you ever heard of Boxingyoga? Just until a little while ago neither have I. Then I got the chance to participate in an event organized by {{% a_blank "Somuchmore" "http://somuchmore.de/" %}} and {{% a_blank "Chimosa" "http://chimosa.de/" %}}, which introduced me to the new fitness trend. Today I want to tell you about this new form of yoga and show you some of the exercises we peformed.
 

@@ -8,12 +8,11 @@ keyword = "yoga stretching"
 news_keywords = ["yoga stretching"]
 banner = "img/posts/six-benefits-you-didnt-know-stretching-would-have-on-your-body/Mermaid-Pose.jpeg"
 
+headline = "Six Benefits you didn't know Stretching would have on your Body"
+
 summary = "When starting to practice yoga, you inevitably also start to stretch your body more. I have never really paid attention to stretching. It always worked out for me without and I felt like it would only steal time for my 'real' workout. Nowadays, I am stretching my body on a daily basis and I can't tell you often enough how good it feels. That's why today I want to share with you my favorite yoga stretches and all the benefits it has on your body today."
 
-
 +++
-
-{{% header "Six Benefits you didn't know Stretching would have on your Body" "stretchingBenefits" %}}
 
 Right now I am sitting on my balcony, enjoying the last ray of sun and wishing I could go back to Italy. I already started complaining about what had gone wrong this week but then I stopped myself. I want this blog to be super positive and get rid of any negative vibe whatsoever. Instead, let me tell you about my new Yoga stretching philosophy, about all the benefits stretching has on your body and let me guide you through my favorite Yoga Stretches. 
 

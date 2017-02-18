@@ -8,11 +8,11 @@ keyword = "Bosu Ball, Bosu Ball workout, Bosu Ball exercises, Bosu Ball workout 
 news_keywords = ["Bosu Ball, Bosu Ball workout, Bosu Ball exercises, Bosu Ball workout for abs, Bosu Ball workout for upper body, Bosu Ball cardio workout, Bosu Ball butt workout, Bosu Ball workout for legs"]
 banner = "img/posts/the-ultimate-bosu-ball-workout-guide/twisting-plank.jpg"
 
+headline = "The ultimate Bosu Ball Workout Guide"
+
 summary = "I just recently discovered a new workout tool: the BOSU Ball. Working out with the Bosu Ball is fun and challenging at the same time. It's a great change from my usual workout routine. I collected all my favorite workouts and exercises for you here. Hope you enjoy them!"
 
 +++
-
-{{% header "The ultimate Bosu Ball Workout Guide" %}}
 
 If you’re anything like me you’ve probably seen a BOSU Ball at your gym, wondering what that strange “half-ball thingy” is. I had never really known what to do with it until I saw a great Bosu Ball workout. That’s when I started researching what workouts to do with it and collected the best BOSU Ball workouts here. 
 

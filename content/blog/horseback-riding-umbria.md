@@ -8,11 +8,11 @@ keyword = "horseback riding"
 news_keywords = ["horseback riding, benefits horseback riding"]
 banner = "img/posts/horseback-riding-umbria/IMG_5911.jpg"
 
+headline = "Horseback Riding in Umbria"
+
 summary = "During our vacation in Italy I had the chance to finally go horseback riding in Umbria. Something I had wanted to do for so long. The surroundings made this trip really special and also the fitness benefits from horseback riding! I hadn't thought that it would be so exhausting!"
 
 +++
-
-{{% header "Horseback Riding in Umbria" "horsebackRidingUmbria" %}}
 
 I always wanted to go horse riding through the countryside. I had never even really been on a horse and still I thought that it must be magical, riding through the countryside and seeing the things from an upper level. Especially riding through the vineyards had always been a dream of mine.
 

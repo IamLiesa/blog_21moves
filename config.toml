@@ -72,6 +72,16 @@ pygmentsstyle = "paraiso-dark"
     share_enabled = true
     share_text = """If you like the content you just read, feel free to share it with your people."""
 
+# Twitter Follow Button Post Header
+[params.twitter_follow_post]
+    enabled = true
+    handle = "iamliesamaria"
+
+# Instagram Follow Button Post Header
+[params.instagram_follow_post]
+    enabled = true
+    handle = "iamliesamaria"
+
 # Social Media Handles
 [params.social_handles]
     twitter = "@iamliesamaria"

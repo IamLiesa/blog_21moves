@@ -8,13 +8,13 @@ keyword = "horseback riding"
 news_keywords = ["letting go"]
 banner = "img/posts/horseback-riding-umbria/IMG_5911.jpg"
 
+headline = "Letting go"
+
 summary = "There are a lot of things that hold us off from where we want to be, who we want to become or how we want to live. Sometimes it feels like the more we try to remove those negative thoughts and energies out of our life, the more obstinate they become. We have learned to function in this state for a pretty long time. But there comes the time when you realise that you just don't want to live like that anymore."
 
 type = "promo"
 
 +++
-
-{{% header "Letting go" "horsebackRidingUmbria" %}}
 
 Sometimes life is like a balloon ride. We have to get rid of old ballast first before we can fly, live and dream again. 
 I actually didn't want to start this post with this cheesy greeting-card-like quote but it was totally fitting. This post today is not really fitness related, yet I wanted to share it with you. It sort of explains how I got to where I am today and why I started this blog.   
