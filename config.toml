@@ -45,9 +45,11 @@ pygmentsstyle = "paraiso-dark"
 
 # MailChimp
 [params.mailchimp]
+    enabled = true
     action = "//21moves.us14.list-manage.com/subscribe/post?u=fc10e790dcd5847160c8be6c6&amp;id=deaf797697"
     id = "b_fc10e790dcd5847160c8be6c6_deaf797697"
     signup_url = "http://eepurl.com/coQ_Vn"
+
 
 # Pinterest Verification
 [params.pinterest_verfiy]
