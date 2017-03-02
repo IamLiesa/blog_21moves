@@ -24,9 +24,9 @@ Now I am already pretty routined and I can see that getting started with running
   "col-xs-12|img/posts/how-to-get-started-with-running-beginners-guide/IMG_5211.jpg|get started with running"
 ->}}
 
-{{% chapter_header "How to get started with Running?" "getStarted" %}}
+{{% chapter_header "6 Tips on how to get started with Running" "getStarted" %}}
 
-1. Start slow: You don’t have to win a marathon or be the queen of sprints when you start running. How fast you can run depends on your own body schedule. Don’t be frustrated if you take a little longer for those first k’s. Keep in mind that every run provides health benefits. You should rather concentrate on going further, not faster in the beginning. And of course you also don’t have to run every day, start with three times a week, that’s a pretty good start. 
+1. Start slow: You don’t have to win a marathon or be the queen of sprints when you start running. How fast you can run depends on your own body schedule. Don’t be frustrated if you take a little longer for those first kilometers. Keep in mind that every run provides health benefits. You should rather concentrate on going further, not faster in the beginning. And of course you also don’t have to run every day, start with three times a week, that’s a pretty good start. 
 
 2. Run slower:  If you’re feeling out of breath or sick you can be sure that you have run to fast. In the beginning your training can even include quick walking. Try two minutes running and one minute walking to catch your breath. You’ll see, soon you’ll be able to stick to running only. 
 
@@ -54,11 +54,14 @@ Though we know we should, it’s often so hard to get into our gym clothes, leav
 1. Treat a run for chocolate 
 I admit, it’s not the best motivation because if consumed too much it kills the effect of the run, but for me it works every time. My motto is: I am doing sports so that I can eat more chocolate. Just kidding, though it is part of my motivation. In the end of course I don’t really have that piece of chocolate all the time, but the thought alone keeps me running.  
 
-2. Look for the most stylish sportswear  Lately stores are packed with stylish sportswear. Some of it is so pretty, I would even love to wear it on the streets. If you chose an outfit that you’re excited about to wear the next morning, it will get you in your running tights so much easier.  
+2. Look for the most stylish sportswear   
+Lately stores are packed with stylish sportswear. Some of it is so pretty, I would even love to wear it on the streets. If you chose an outfit that you’re excited about to wear the next morning, it will get you in your running tights so much easier.  
 
-3. Put on some good tunes  Good music always gets me up from the chair and makes me want to move. Before the run I listen to it as a motivator, and while running the right beats make me run so much quicker and I will be much more energetic. Maybe I’ll even finish the run with some squats then! 
+3. Put on some good tunes  
+Good music always gets me up from the chair and makes me want to move. Before the run I listen to it as a motivator, and while running the right beats make me run so much quicker and I will be much more energetic. Maybe I’ll even finish the run with some squats then! 
 
-4. Use the right app  There is nothing worse and at the same time better than snoozing in the morning. I must admit it: I never get up on the first ring of my alarm watch. But at the same time I never feel any fitter when having snoozed for a couple of minutes. If you want to get up and running in the morning, don’t fall into the trap of snoozing for too long. I am now using the app Kiwake. It costs 3 Dollars and it’s totally worth it. The night before you go to sleep you need to take a picture of something very far away, for example the coffee maker in the kitchen and the alarm clock won’t get off the next morning until you’ve taken the exact same picture again. It’s magic, isn’t it?! 
+4. Use the right app  
+There is nothing worse and at the same time better than snoozing in the morning. I must admit it: I never get up on the first ring of my alarm watch. But at the same time I never feel any fitter when having snoozed for a couple of minutes. If you want to get up and running in the morning, don’t fall into the trap of snoozing for too long. I am now using the app {{% a_blank "Kiwake" "https://itunes.apple.com/us/app/kiwake-alarm-clock-take-back/id951876055?mt=8" %}}. It costs 3 Dollars and it’s totally worth it. The night before you go to sleep you need to take a picture of something very far away, for example the coffee maker in the kitchen and the alarm clock won’t get off the next morning until you’ve taken the exact same picture again. It’s magic, isn’t it?! 
 
 5. Do a *little* Instagram stalking 
 Whenever you’re lacking motivation to go running, just scroll through your Instagram feed and look at all these sporty girls who are actually sweating it out. Your FOMO will surely get you out of bed. 
@@ -66,7 +69,7 @@ Whenever you’re lacking motivation to go running, just scroll through your Ins
 And if that wasn’t motivation enough, let's talk about the benefits of running. 
 
 
-{{% chapter_header "Benefits of Running" "benefitsRunning" %}}
+{{% chapter_header "Top 6 Benefits of Running" "benefitsRunning" %}}
 Sometimes all we need is the right benefit to start with a new routine such as going for a run of the weekends. As running has a lot of benefits, it won’t be hard for you to pick your most important one that motivates you the most to get into your running shoes.
 
 {{< fluid_pin_it_images
@@ -80,6 +83,12 @@ Sometimes all we need is the right benefit to start with a new routine such as g
 3. You’ll lose Weight: If you want to lose and maintain a consistent weight, running is your kind of workout to do. It is the second most effective exercise in terms of calories burned per minute. Only cross country skiing burns more. 
 
 4. Running eliminates Depression: Running is probably the last thing you want to do when feeling depressed, yet it is such a valuable medicine. Only after a few minutes your brain will start to secrete hormones that naturally improve your mood. It’s not without a reason that sport is considered a great help for people suffering from depression.
+
+5. Clear your Head: During the day, especially during your work day, you need to be fully focused on what you're doing. That's exhausting. In order to be able to continue performing the best way possible, you need to give your head a break now and then. The author of the book {{% a_blank "Deep Work" "https://www.amazon.com/gp/product/1455586692/ref=as_li_tl?ie=UTF8&tag=21moves-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1455586692&linkId=5e5fa3dfaf97cdee67afd013145cd5e7" %}}, Cal Newport (I can only recommend reading that book!), says that working out physically is the perfect compensation for a hard day of performing deep work.   
+
+6. Get into a State of Flow: Flow is a state where everything you do comes easily to you. You are so focused on what you're doing that you're not thinking about anything else. Nothing distracts you. The author Mihaly Csikszentmihalyi, who wrote the book {{% a_blank "Flow" "https://www.amazon.com/gp/product/0061339202/ref=as_li_tl?ie=UTF8&tag=21moves-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0061339202&linkId=8b06c0f461e84d7de34ffcf705159800" %}} explains that if you only concentrate on (e.g.)running and channel your thoughts you will get into a state of flow. Being in this state will give you absolute satisfaction with what you're doing right in this moment. That is the point then where running will be totally enjoyable for you.
+
+Whenever I am lacking motivation to get into my running shoes, I think of these benefits and try to get motivated using my five tips mentioned above. Try it out and see if it works for you. I would love to hear your feedback on how you're getting started with running!
 
 
 
