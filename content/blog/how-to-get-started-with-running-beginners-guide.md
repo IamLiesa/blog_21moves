@@ -92,6 +92,15 @@ Sometimes all we need is the right benefit to start with a new routine such as g
 
 Whenever I am lacking motivation to get into my running shoes, I think of these benefits and try to get motivated using my five tips mentioned above. Try it out and see if it works for you. I would love to hear your feedback on how you're getting started with running!
 
+{{% chapter_header "Please Pin for later if you like the Article" "Pin" %}}
+
+
+<div class="row">
+  <div class="col-md-7 col-centered">
+     <a data-pin-do="embedPin" data-pin-lang="de" data-pin-width="large" href="https://de.pinterest.com/pin/488570259562180739/"></a>
+  </div>
+</div>
+
 
 
 
