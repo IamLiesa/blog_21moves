@@ -1,7 +1,7 @@
 +++
 title = "10 things I wish I had known before starting to workout"
 description = "To see results from your workout it is not enough to go to the gym now and then. If I had known all the things about fitness I know today, I would probably have seen results earlier. Here is what I wish I had known."
-date = "2017-03-17T13:50:46+02:00"
+date = "2017-03-08T13:50:46+02:00"
 tags = ["Fitness"]
 categories = ["Fitness"]
 keyword = "workout"
