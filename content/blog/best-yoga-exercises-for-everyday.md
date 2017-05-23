@@ -1,14 +1,14 @@
 +++
-title = "Top 10 Yoga Exercises that you should do every day"
+title = "Top 10 Yoga Exercises that you should do everyday"
 description = "If you only have 15 minutes for your daily yoga routine, you should definitely include these 10 yoga exercises into your workout. Read here what yoga poses I am talking about and why they are so good for you."
 date = "2017-05-23T10:50:46+02:00"
 tags = ["Fitness"]
 categories = ["Fitness"]
-keyword = "yoga every day, top yoga exercises, daily yoga, yoga poses"
-news_keywords = ["yoga every day, top yoga exercises, daily yoga, yoga poses"]
+keyword = "yoga everyday, top yoga exercises, daily yoga, yoga poses"
+news_keywords = ["yoga everyday, top yoga exercises, daily yoga, yoga poses"]
 banner = "img/posts/best-yoga-exercises-for-everyday/daily_yoga_poses.JPG"
 
-headline = "Top 10 Yoga Exercises that you should do every day"
+headline = "Top 10 Yoga Exercises that you should do everyday"
 
 summary = "There are thousands of different yoga poses out there. But with all our busy lifes chances are that you are too busy to even do some of them on a daily basis. However, there are certain yoga poses that are so beneficial for your body, that you should consider taking those 15 minutes a day to practice them. Read here what exercises I am talking about and why they are so good for your body."
 
