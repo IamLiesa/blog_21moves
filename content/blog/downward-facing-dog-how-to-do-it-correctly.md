@@ -10,7 +10,7 @@ banner = "img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-a
 
 headline = "Downward-Facing Dog: How to do it correctly"
 
-summary = "Though Downward-Facing Dog is propably the yoga pose you practice most often during class, it's still a pose that so many do wrong. That's why today's pose is all about the Downward-Facing Dog, how to do it correctly, what the common mistakes are and what variations are out there. I also share with you some beginners tips that have helped me a lot when I started doing yoga."
+summary = "Though Downward-Facing Dog is propably the yoga pose you practice most often during class, it's still a pose that so many do wrong. That's why today's post is all about the Downward-Facing Dog: How to do it correctly, what the common mistakes are and what variations exsist out there. I also share with you some beginners alignment tips that have helped me a lot when I started doing yoga."
 
 +++
 
