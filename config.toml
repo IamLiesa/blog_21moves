@@ -23,6 +23,10 @@ pygmentsstyle = "paraiso-dark"
 [params.pin_it_button]
     enabled = true
 
+# Instagram Image
+[params.instagram_image]
+    enabled = true
+
 # Business Logo
 [params.business_logo]
     enabled = true
