@@ -73,7 +73,7 @@ And if that wasn’t motivation enough, let's talk about the benefits of running
 Sometimes all we need is the right benefit to start with a new routine such as going for a run of the weekends. As running has a lot of benefits, it won’t be hard for you to pick your most important one that motivates you the most to get into your running shoes.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/how-to-get-started-with-running-beginners-guide/IMG_5798.jpg|benefits of running"
+  "col-xs-12|img/posts/how-to-get-started-with-running-beginners-guide/get_started_with_running.JPG|benefits of running"
 ->}}
 
 1. **Running makes you happy:** That’s really true, I discovered it myself! Whenever I am feeling blue or stressed, a run is what helps me snap out of it. Only running for 30 minutes can instantly lift your mood. 

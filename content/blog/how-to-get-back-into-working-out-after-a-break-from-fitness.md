@@ -62,7 +62,7 @@ For the beginning of a comeback workout, some flexibility exercises would be a g
 
 Next, you can incorporate some light cardio into your workout. A 20 minute walk for example is a good idea. The fresh air is good for you and your body will get into moving mode again. Good indoor alternatives are the treadmill, a stationary bike or the elliptical. 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/how-to-get-back-into-working-out-after-a-break-from-fitness/IMG_5214.jpg|cardio outside"
+  "col-xs-12|img/posts/how-to-get-back-into-working-out-after-a-break-from-fitness/IMG_5211.jpg|cardio outside"
 ->}}
 
 
