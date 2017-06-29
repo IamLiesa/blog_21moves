@@ -1,7 +1,7 @@
 +++
 title = "Yoga at Utopia Bar in Luang Prabang, Laos"
 description = "Yoga in Laos at Utopia bar was an amazing experience. The view was one of a kind and the teacher did a great job. Read here what you can expect if you go there."
-date = "2017-06-20T10:50:46+02:00"
+date = "2017-06-27T10:50:46+02:00"
 tags = ["Fitness", "Wanderlust"]
 categories = ["Fitness", "Wanderlust"]
 keyword = "yoga laos, yoga utopia bar, yoga luang prabang"
