@@ -6,6 +6,7 @@ tags = ["Fitness"]
 categories = ["Fitness"]
 keyword = "Running"
 news_keywords = ["Running"]
+card = "img/posts/how-to-get-started-with-running-beginners-guide/IMG_3636_640.jpg"
 banner = "img/posts/how-to-get-started-with-running-beginners-guide/IMG_3636.jpg"
 
 headline = "How to get started with Running – a Beginner’s Guide"

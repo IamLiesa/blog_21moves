@@ -6,6 +6,7 @@ tags = ["Fitness", "Wanderlust"]
 categories = ["Fitness", "Wanderlust"]
 keyword = "horseback riding"
 news_keywords = ["horseback riding, benefits horseback riding"]
+card = "img/posts/horseback-riding-umbria/IMG_5911_640.jpg"
 banner = "img/posts/horseback-riding-umbria/IMG_5911.jpg"
 
 headline = "Horseback Riding in Umbria"
@@ -18,7 +19,7 @@ I always wanted to go horse riding through the countryside. I had never even rea
 
 When we were on vacation in Umbria I finally had the chance to make this dream come true. We were staying in a lovely Airbnb apartment with a little farm. There were sheeps and rabbits and pigs and horses. So even though my riding experience was close to zero, I really wanted to try give it a try.  
 
-{{% pin_it_image "horseback riding in umbria" "img/posts/horseback-riding-umbria/IMG_5904.jpg" %}}
+{{% pin_it_image "horseback riding in umbria" "img/posts/horseback-riding-umbria/IMG_5904.jpg" "is-src-set" %}}
 
 {{% chapter_header "Horseback riding through the tranquil countryside of Umbria" "ridingThroughCountryside" %}}
 
@@ -26,7 +27,7 @@ We started our horseback riding tour at a little farm, where we first had to pas
 
 When we finally arrived at the vineyard, I was in total aw. This was exactly how I had imagined the ride to be. It was only ten o’clock in the morning, the sun was shining, everything was so calm and the grapes were sparkling in the sun. 
 
-{{% pin_it_image "horseback riding in umbria" "img/posts/horseback-riding-umbria/IMG_5909.jpg" %}}
+{{% pin_it_image "horseback riding in umbria" "img/posts/horseback-riding-umbria/IMG_5909.jpg" "is-src-set" %}}
 
 {{% chapter_header "Passing beautiful Lago Trasimeno" "passingLagoTrasimeno" %}}
 
@@ -39,7 +40,7 @@ Another cool thing to do at the lake is Stand Up Paddling.  Unfortunately I didn
 
 Passing Lago Trasimeno by horse was pretty amazing. Of course I had seen the lake before my horse ride. But somehow you get a totally different view from the saddle. Everything looks totally calm and peaceful. Feeling the horse underneath you and seeing this beautiful nature gives you a feeling of total inner balance. I can honestly just suggest everybody to try out horseback riding for himself, especially if you have such great nature around. 
 
-{{% pin_it_image "horseback riding in umbria" "img/posts/horseback-riding-umbria/IMG_5920.jpg" %}}
+{{% pin_it_image "horseback riding in umbria" "img/posts/horseback-riding-umbria/IMG_5920.jpg" "is-src-set" %}}
 
 {{% chapter_header "Horseback riding is indeed fitness" "horsebackRidingFitness" %}}
 
@@ -75,13 +76,13 @@ The benefits from horseback riding are not only physical, but also mental. From 
 
 Of course horse riding is also a very calming and relaxing experience. You can really forget about everyday life and recharge your batteries. It is totally grounding. The connection with the horse and the peace of mind that you experience while riding are the true benefits of horseback riding. 
 
-{{% pin_it_image "horseback riding in umbria" "img/posts/horseback-riding-umbria/IMG_5917.jpg" %}}
+{{% pin_it_image "horseback riding in umbria" "img/posts/horseback-riding-umbria/IMG_5917.jpg" "is-src-set" %}}
 
 {{% chapter_header "Horseback riding in the countryside – give it a try" "tryIt" %}}
 
 As I said I am not experienced with horses at all. Still the ride was such a magical experience for me. Connecting with the horse and with nature gave me a feeling of total inner peace that I hadn’t experienced for a long time. And even though I am a firm believer in the physical benefits from horseback riding, what really makes it dear to me is the feeling I get while sitting on the horse. So if you have the chance to go horseback riding don’t be scared and try it out for yourself.
 
-{{% pin_it_image "horseback riding in umbria" "img/posts/horseback-riding-umbria/IMG_5914.jpg" %}}
+{{% pin_it_image "horseback riding in umbria" "img/posts/horseback-riding-umbria/IMG_5914.jpg" "is-src-set" %}}
 
 
 

@@ -6,7 +6,8 @@ tags = ["Wanderlust"]
 categories = ["Wanderlust"]
 keyword = "new lifestyle"
 news_keywords = ["new lifestyle"]
-banner = "img/posts/testing-out-new-lifestyle/new_lifestyle.JPG"
+card = "img/posts/testing-out-new-lifestyle/new_lifestyle_640.jpg"
+banner = "img/posts/testing-out-new-lifestyle/new_lifestyle.jpg"
 
 headline = "Testing out a new Lifestyle"
 
@@ -37,7 +38,7 @@ While the structure of my day worked out perfectly, my constant struggle was the
  
 Also, I wanted to create a lot more visual content for the blog but was missing certain props. I didn’t bring a Yoga mat or blocks or a strap and for certain exercises I just needed these. Still, you definitely have the most beautiful scenery to record your exercises.
 
-{{% pin_it_image "working remotely in Bali, Canggu" "img/posts/testing-out-new-lifestyle/new_lifestyle.JPG" %}}
+{{% pin_it_image "working remotely in Bali, Canggu" "img/posts/testing-out-new-lifestyle/new_lifestyle.jpg" "is-src-set" %}}
 
  
 {{% chapter_header "My new Life, my new Love, and my new Freedom" "newLifeLoveFreedom" %}}

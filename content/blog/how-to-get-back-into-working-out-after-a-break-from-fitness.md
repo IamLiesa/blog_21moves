@@ -6,6 +6,7 @@ tags = ["Fitness"]
 categories = ["Fitness"]
 keyword = "comeback workout"
 news_keywords = ["comeback workout"]
+card = "img/posts/how-to-get-back-into-working-out-after-a-break-from-fitness/IMG_5208-neu_640.jpg"
 banner = "img/posts/how-to-get-back-into-working-out-after-a-break-from-fitness/IMG_5208-neu.jpg"
 
 headline = "How to get back into working out after a break from fitness"
@@ -55,7 +56,7 @@ When preparing for your comeback workout, always remember that you’re not in a
 
 For the beginning of a comeback workout, some flexibility exercises would be a good idea. This increases the blood flow and circulation and improves the range of motion and joint mobility. I often have the impression that a good flexibility training is highly underrated these days. The benefits of a good stretch a manifold. A flexibility at the beginning of your comeback workout will allow your body to readjust to new demands. A yoga workout really helps to build up flexibility as well. You can check out some of my {{% a_blank "favorite yoga stretches" "https://www.21moves.com/six-benefits-you-didnt-know-stretching-would-have-on-your-body/" %}}.
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/how-to-get-back-into-working-out-after-a-break-from-fitness/Ardha-Matsyendrasana.jpeg|comeback workout light strething"
+  "col-xs-12|img/posts/how-to-get-back-into-working-out-after-a-break-from-fitness/Ardha-Matsyendrasana.jpg|comeback workout light strething"
 ->}}
 
 **Light cardio after the stretching**

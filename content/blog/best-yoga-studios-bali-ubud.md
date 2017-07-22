@@ -6,6 +6,7 @@ tags = ["Fitness", "Wanderlust"]
 categories = ["Fitness", "Wanderlust"]
 keyword = "yoga ubud, yoga Bali, yoga studio ubud"
 news_keywords = ["yoga ubud", "yoga Bali", "yoga studio ubud"]
+card = "img/posts/best-yoga-studios-bali-ubud/radiantly_alive_yoga_640.jpg"
 banner = "img/posts/best-yoga-studios-bali-ubud/radiantly_alive_yoga.jpg"
 
 headline = "My favorite Yoga Studios in Ubud, Bali"
@@ -23,7 +24,7 @@ Today I want to share with you a little bit about my yoga practice in Bali and i
 {{% chapter_header "Yoga at The Yoga Barn" "yogaBarn" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/best-yoga-studios-bali-ubud/yoga_barn_studio_outside.JPG|Outside of Yoga Barn in Ubud, Bali"
+  "col-xs-12|img/posts/best-yoga-studios-bali-ubud/yoga_barn_studio_outside.jpg|Outside of Yoga Barn in Ubud, Bali"
 ->}}
 
 I guess, as a yogi, you can’t come to Bali and not practice at {{% a_blank "the Yoga Barn Ubud" "http://www.theyogabarn.com/" %}} at least once during your stay.
@@ -37,7 +38,7 @@ I remember the first time that I walked into this huge space I was totally overw
 {{% sub_chapter_header "The Yoga Barn Studio" "yogaBarnStudio" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/best-yoga-studios-bali-ubud/yoga_barn_studio_inside.JPG|Yoga Barn in Ubud, Bali, from the inside"
+  "col-xs-12|img/posts/best-yoga-studios-bali-ubud/yoga_barn_studio_inside.jpg|Yoga Barn in Ubud, Bali, from the inside"
 ->}}
 
 Yoga Barn in Ubud actually has two studios: one that is upstairs, accommodating up to 30 students, and one that is downstairs. Here, another 25 students can take part in a yoga class. I had classes in both studios, though I actually prefered the one downstairs. Entering the studio made you feel like you were in a greenhouse. There was this huge glass front with all kinds of green plants in front of it. As this studio was so huge, you felt really liberated and free during your practice although it could get quite stuffed from time to time.
@@ -57,7 +58,7 @@ Most of the time, classes are suitable for every level. If this is not the case,
 {{% chapter_header "Taksu Yoga Studio" "taksu" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/best-yoga-studios-bali-ubud/taksu.JPG|Yoga Studio Taksu in Ubud, Bali"
+  "col-xs-12|img/posts/best-yoga-studios-bali-ubud/taksu.jpg|Yoga Studio Taksu in Ubud, Bali"
 ->}}
 
 {{% a_blank "Taksu" "http://www.taksuyoga.com/" %}} is Balinese and means “the indescribable essence of Spirit. Walking into Taksu I could feel this spirit. It’s such a beautiful place. Just like The Yoga Barn it’s not only a yoga studio. You can also come here to get some delicious and healthy food or to get a Spa treatment.
@@ -67,7 +68,7 @@ There are several smaller yoga studios at Taksu and they are all beautifully loc
 {{% sub_chapter_header "The Classes at Taksu" "taksuClasses" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/best-yoga-studios-bali-ubud/taksu_yoga.JPG|Yoga Studio in Ubud, Bali"
+  "col-xs-12|img/posts/best-yoga-studios-bali-ubud/taksu_yoga.jpg|Yoga Studio in Ubud, Bali"
 ->}}
 
 I only took a few classes at Taksu, still I have to say that they were all excellent. Taksu offers three to four classes a day, including Hatha Yoga, Yin Yoga, Vinyasa, Power Vinyasa, Vinyasa Flow, Restorative and Gentle Yoga. During my classes, we were really only three people taking the class which was great to escape the crowdedness at Yoga Barn. Sometimes with so few people you might lose the “vibe” at a class because there is always such an exceptional ambience with other committed yogis. And that’s actually what I was afraid of. But it definitely wasn’t the case as the teacher created such an amazing flow that it was easy to get into the spirit.
@@ -75,7 +76,7 @@ I only took a few classes at Taksu, still I have to say that they were all excel
 The instructor was very attentive and adjusted postures whenever necessary. The postures themselves were quite strong, but there was no pressure to do too much at all. Actually, the postures were so well explained and fitted into the flow perfectly, that they sometimes even seem to come naturally. I learned some amazing new poses during these classes.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/best-yoga-studios-bali-ubud/taksu_yoga_studio.JPG|Yoga Class Taksu in Ubud, Bali"
+  "col-xs-12|img/posts/best-yoga-studios-bali-ubud/taksu_yoga_studio.jpg|Yoga Class Taksu in Ubud, Bali"
 ->}}
 
 One class takes 1.5 hours and it costs 120.000 IDR, which is 9 USD and you even get a delicious Jamu or a green smoothie for free after class. As always, there is a discount if you buy multiple tickets. You don’t have to bring a mat or any prop, they provide everything.

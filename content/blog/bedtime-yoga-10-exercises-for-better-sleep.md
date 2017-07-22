@@ -6,7 +6,8 @@ tags = ["Fitness", "Wanderlust"]
 categories = ["Fitness", "Wanderlust"]
 keyword = "bedtime Yoga, evening Yoga"
 news_keywords = ["bedtime Yoga, evening Yoga"]
-banner = "img/posts/bedtime-yoga-10-exercises-for-better-sleep/seated_forward_fold.jpeg"
+card = "img/posts/bedtime-yoga-10-exercises-for-better-sleep/seated_forward_fold_640.jpg"
+banner = "img/posts/bedtime-yoga-10-exercises-for-better-sleep/seated_forward_fold.jpg"
 
 headline = "Bedtime Yoga: 10 exercises for a better sleep"
 
@@ -19,7 +20,7 @@ Sometimes there are things causing you sleepless nights. We all have them - it�
 Whenever I’m having a hard time sleeping, some goodnight yoga exercises are my go to in order to calm myself down before going to bed. Today I want to show you my favorite Yoga moves before going to bed. By the way, there is a whole infographic with all the poses [at the end of the post](#infographic). I hope you like it!
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/bedtime yoga.jpeg|yoga poses for a better sleep"
+  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/bedtime_yoga.jpg|yoga poses for a better sleep"
 ->}}
 
 {{% chapter_header "What kind of Yoga is best before going to bed?" "whatYogaIsBestBeforeBedtime" %}}
@@ -35,7 +36,7 @@ Since your goal is to calm your mind and body and not to activate them, 15 minut
 Having a sort of ritual before going to bed can be very helpful to find better sleep. Soon it will become a habit and you will feel how good it is for you and your sleep. Routines help us to soothe our minds, which is exactly why we’re doing Yoga before going to bed. However, if you’re feeling way too tired to practice Yoga, there is no harm in breaking the routine for one night.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/the tree.jpeg|tree pose"
+  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/the_tree.jpg|tree pose"
 ->}}
 
 {{% chapter_header "Benefits of yoga before going to bed" "benefitsBedtimeYoga" %}}
@@ -52,42 +53,42 @@ If Yoga before going to bed really that good, I cannot stop but wonder why we do
 Start out in a kneeling pose and pay attention to your breathing. Breathing in Yoga is considered to have a huge effect on our brain and body. Before starting with physical poses, it’s good to take a moment to yourself and to just focus on your in and out breathing. Breathe through your nostrils and try to lengthen the exhalation as long as possible.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/kneeling_pose.jpeg|kneeling pose"
+  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/kneeling_pose.jpg|kneeling pose"
 ->}}
 
 *  **2. Standing Forward Bend** (*Uttanasana*):
 Now get up and stand with your feet hip-distance apart. Fold your hips forward and reach your fingertips toward the ground. Rest your rips on your thighs and bend both arms at the elbows, grabbing them with the opposite hand. Let your upper body relax. This part was especially difficult for me and I think in the picture you can still see that my upper body is not totally relaxed. Sometimes it’s just hard to really let loose. 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/forward_bend.jpeg|standing forward bend"
+  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/forward_bend.jpg|standing forward bend"
   ->}}
 
 *  **3. Cat-Cow Pose** (*Marjaryasana* and *Bitilasana*)
 This pose is all about relaxing and extending the spine. Get into a quadruped position, wrists directly under your shoulders, and knees under your hips. While inhaling, gently drop your belly towards the floor and lift your head and tailbone up towards the ceiling. Then exhale deeply, round your spine and tuck your chin towards your chest. Try to really sync your breathing with your movement. 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/cat_cow_pose.jpeg|cat-cow pose"
+  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/cat_cow_pose.jpg|cat-cow pose"
 ->}}
 
 * **4. Plow Pose** (*Halasana*):
 Lie on your back and gently bring your legs up and over your torso so that your feet touch the ground behind your head. Pay attention to your shoulders, they should be firmly on the floor. The center of your back is where the focus of your weight should be. This is an important pressure point, which, if opened, creates deeper breathing and relaxation. 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/plow_pose.jpeg|plow pose"
+  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/plow_pose.jpg|plow pose"
 ->}}
 
 * **5. Child’s Pose** (*Balasana*):
 Everyone who has ever been in the child’s pose knows how comforting and relaxing this position can be. Sit in Japanese-style and open your knees very wide. Your big toes should be touching. Lower your torso and rest your forehead on the floor. Pressing down the head like that really soothes the nervous system. Extend your arms in front of you but don’t lift your buttocks; they should be touching your heels.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/child's_pose.jpeg|child's pose"
+  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/child's_pose.jpg|child's pose"
 ->}}
 
 * **6. Extended Corpse Pose** (*Savasana*):
 This pose may look simple, but the effect on your sleep will be great. Simply lie on your back and extend your arms overhead, making yourself really long. Bring your index fingers together and really stretch them. This helps relax your upper body, especially the shoulder part. Continue with your natural breathing and focus on relaxing your arms.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/extended_corpse_pose.jpeg|extended corpse pose"
+  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/extended_corpse_pose.jpg|extended corpse pose"
 ->}}
 
 * **7. Reclined Spinal Twist** (*Supta Matsyendrasana*)
@@ -95,21 +96,21 @@ This twist can be performed to compress the spleen, as in Traditional Chinese Me
 Lie on your back and extend your arms out to the sides. Pull your knees to your chest and then drop them over to the right side as you turn your head in the opposite direction. Your shoulders should be on the ground the whole time. Breathe in and out a couple of times, then switch the sides. 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/reclined_spinal_twist.jpeg|reclined spinal twist"
+  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/reclined_spinal_twist.jpg|reclined spinal twist"
 ->}}
 
 * **8. Seated Forward Fold** (*Paschimottanasana*):
 This is one of my favorite exercises as it helps to unwind a distracted mind – and the hamstrings. Sit on the ground keeping your back straight and the legs together and stretched out in front of you. The feet should be flexed. Now bend forward with your hands reaching for your toes. Only go as far as you can; there mustn’t be any severe pain. Hold this position for 15 seconds.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/seated_forward_fold.jpeg|seated forward fold"
+  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/seated_forward_fold.jpg|seated forward fold"
 ->}}
 
 * **9. Knee Hug** (*Apanasana*)
 This yoga posture helps to relieve tension and pressure in the digestive system and back. Lie on your back and gently pull your knees up to your chest and hold them, rocking slowly side to side. Let your whole body relax.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/knee_hug.jpeg|knee hug"
+  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/knee_hug.jpg|knee hug"
 ->}}
 
 * **10. Camel Pose** (*Ustrasana*):
@@ -117,7 +118,7 @@ The camel pose is a great exercise for the back and also for your digestion afte
 Kneel on the floor and keep your knees in line with the shoulders and sole of the feet facing the ceiling. Hands should be rested on your thighs. Now inhale and arch your back and place your palms on the heels of your feet keeping the arms straight. Don’t strain your neck: just hold it naturally. Stay in this position for a couple of breaths.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/camel_pose.jpeg|camel pose"
+  "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/camel_pose.jpg|camel pose"
 ->}}
 
 {{% chapter_header "A few book recommendations for more infos on this topic" "bookRecommendations" %}}
@@ -129,14 +130,12 @@ If you want to read a little bit more about this topic, here are some recommenda
 * {{% a_blank "The Yoga of Sleep" "https://www.amazon.com/gp/product/159179918X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=21moves-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=159179918X&linkId=ccb60e323fedfad7b71e95c486f10f38" %}}
 
 {{% chapter_header "The whole workout at a glance" "infographic" %}}
+
 <div class="row">
   <div class="col-md-7 col-centered">
-    {{< fluid_pin_it_images
-      "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/Goodnight Yoga for better Sleep.jpg|infographic"
-    ->}}
+    {{% pin_it_image "infographic" "img/posts/bedtime-yoga-10-exercises-for-better-sleep/Goodnight Yoga for better Sleep.jpg" "" %}}
   </div>
 </div>
-
 
 
 

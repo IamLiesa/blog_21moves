@@ -6,6 +6,7 @@ tags = ["Fitness"]
 categories = ["Fitness"]
 keyword = "workout"
 news_keywords = ["workout"]
+card = "img/posts/10-things-known-before-starting-workout/seeing-results_640.jpg"
 banner = "img/posts/10-things-known-before-starting-workout/seeing-results.jpg"
 
 headline = "10 things I wish I had known before starting to workout"

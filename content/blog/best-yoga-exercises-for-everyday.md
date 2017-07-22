@@ -6,7 +6,8 @@ tags = ["Fitness"]
 categories = ["Fitness"]
 keyword = "yoga everyday, top yoga exercises, daily yoga, yoga poses"
 news_keywords = ["yoga everyday, top yoga exercises, daily yoga, yoga poses"]
-banner = "img/posts/best-yoga-exercises-for-everyday/daily_yoga_poses.JPG"
+card = "img/posts/best-yoga-exercises-for-everyday/daily_yoga_poses_640.jpg"
+banner = "img/posts/best-yoga-exercises-for-everyday/daily_yoga_poses.jpg"
 
 headline = "Top 10 Yoga Exercises that you should do everyday"
 
@@ -17,13 +18,13 @@ summary = "There are thousands of different yoga poses out there. But with all o
 There are thousands of different yoga exercises that you could do each day. However, many of us struggle to even do half an hour of yoga a day although there are so many benefits to it. If your schedule is busy and you simply cannot spare half an hour to workout, you can always go for the light version of yoga. I am sure, everyone has ten minutes to do a few yoga exercises. You don’t have to spend a lot of time exercising to experience the benefits of it. Even these ten yoga exercises are a great benefit to your body and you should definitely consider building them into your timetable.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/seated_spinal_twist.JPG|Yoga poses for everyday"
+  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/seated_spinal_twist.jpg|Yoga poses for everyday"
 ->}} 
 
 {{% chapter_header "1. Downward-facing Dog" "1" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/downward_facing_dog.JPG|Yoga exercises for everyday - downward facing dog"
+  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/downward_facing_dog.jpg|Yoga exercises for everyday - downward facing dog"
 ->}} 
 
 **How to do it:**
@@ -41,7 +42,7 @@ Press your heels into the ground and activate your arms. Rotate your elbows towa
 {{% chapter_header "2. Warrior I" "2" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/warrior_1.JPG|Yoga exercises for everyday - warrior 1"
+  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/warrior_1.jpg|Yoga exercises for everyday - warrior 1"
 ->}} 
 
 **How to do it:**
@@ -59,7 +60,7 @@ Turn your left foot in a 45 to 60 degree angle to the right foot and align the r
 {{% chapter_header "3. Camel Pose" "3" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/camel_pose.JPG|Yoga poses for everyday - camel pose"
+  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/camel_pose.jpg|Yoga poses for everyday - camel pose"
 ->}} 
 
 **How to do it:**
@@ -75,8 +76,8 @@ Kneel down on your knees with your heels and knees hip-distance apart. Place you
 {{% chapter_header "4. Cat-Cow Pose" "4" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-6|img/posts/best-yoga-exercises-for-everyday/cat_cow_pose_1.JPG|Yoga poses for everyday - cat-cow-pose 1"
-  "col-xs-6|img/posts/best-yoga-exercises-for-everyday/cat_cow_pose_2.JPG|Yoga poses for everyday - cat-cow-pose 2"
+  "col-xs-6|img/posts/best-yoga-exercises-for-everyday/cat_cow_pose_1.jpg|Yoga poses for everyday - cat-cow-pose 1"
+  "col-xs-6|img/posts/best-yoga-exercises-for-everyday/cat_cow_pose_2.jpg|Yoga poses for everyday - cat-cow-pose 2"
 ->}}
 
 **How to do it:**
@@ -92,7 +93,7 @@ Cat-Cow is also a very relaxing yoga pose that creates emotional balance.
 {{% chapter_header "5. Seated Spinal Twist" "5" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/seated_spinal_twist.JPG|Yoga exercises for everyday - seated spinal twist"
+  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/seated_spinal_twist.jpg|Yoga exercises for everyday - seated spinal twist"
 ->}} 
 
 **How to do it:**
@@ -107,7 +108,7 @@ Sit down on the floor with your legs extended in front of you. Bend your left kn
 {{% chapter_header "6. Forward Bend" "6" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/forward_fold.JPG|Daily yoga exercises - forward bend"
+  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/forward_fold.jpg|Daily yoga exercises - forward bend"
 ->}} 
 
 **How to do it:**
@@ -123,7 +124,7 @@ Stand straight with your feet hip-distance apart. Fold forwards at the hips, kee
 {{% chapter_header "7. Garland Pose" "7" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/garland_pose.JPG|Daily yoga poses - garland pose"
+  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/garland_pose.jpg|Daily yoga poses - garland pose"
 ->}} 
 
 **How to do it:**
@@ -138,7 +139,7 @@ Your feet should be wider than hip-width apart with your toes turned out slightl
 {{% chapter_header "8. Child’s Pose" "8" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/childs_pose.JPG|best yoga exercises for everyday - child's pose"
+  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/childs_pose.jpg|best yoga exercises for everyday - child's pose"
 ->}} 
 
 **How to do it:**
@@ -154,7 +155,7 @@ Start with your knees on your mat, either knees touching or about hip-width apar
 {{% chapter_header "9. Extended Triangle Pose" "9" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/extended_triangle_pose.JPG|Daily yoga poses - extended triangle pose"
+  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/extended_triangle_pose.jpg|Daily yoga poses - extended triangle pose"
 ->}} 
 
 **How to do it:**
@@ -170,7 +171,7 @@ Stand with your feet on the floor and take a big step to the side with your righ
 {{% chapter_header "10. Upward Facing Dog" "10" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/upward_facing_dog.JPG|Best yoga exercises to do everyday - upward facing dog"
+  "col-xs-12|img/posts/best-yoga-exercises-for-everyday/upward_facing_dog.jpg|Best yoga exercises to do everyday - upward facing dog"
 ->}} 
 
 **How to do it:**
@@ -201,22 +202,10 @@ If you are interested in reading more about yoga and how to practice it, I found
 * {{% a_blank "The Yoga Bible" "http://amzn.to/2r9t2U3" %}}
 * {{% a_blank "Yoga and Mind Handbook" "http://amzn.to/2r9dLCr" %}}
 
-
 {{% chapter_header "Pin to workout later if you liked the Exercises" "pinForLater" %}}
+
 <div class="row">
   <div class="col-md-7 col-centered">
-    {{< fluid_pin_it_images
-      "col-xs-12|img/posts/best-yoga-exercises-for-everyday/yoga_exercises_everyday.jpg|Daily Yoga Exercises"
-    ->}}
+    {{% pin_it_image "Daily Yoga Exercises" "img/posts/best-yoga-exercises-for-everyday/yoga_exercises_everyday.jpg" "" %}}
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-

@@ -6,6 +6,7 @@ tags = ["Fitness"]
 categories = ["Fitness"]
 keyword = "Bosu Ball, Bosu Ball workout, Bosu Ball exercises, Bosu Ball workout for abs, Bosu Ball workout for upper body, Bosu Ball cardio workout, Bosu Ball butt workout, osu Ball workout for legs"
 news_keywords = ["Bosu Ball, Bosu Ball workout, Bosu Ball exercises, Bosu Ball workout for abs, Bosu Ball workout for upper body, Bosu Ball cardio workout, Bosu Ball butt workout, Bosu Ball workout for legs"]
+card = "img/posts/the-ultimate-bosu-ball-workout-guide/twisting-plank_640.jpg"
 banner = "img/posts/the-ultimate-bosu-ball-workout-guide/twisting-plank.jpg"
 
 headline = "The ultimate Bosu Ball Workout Guide"
@@ -416,20 +417,9 @@ There are tons of further really great Bosu Ball Workouts out there. I personall
 * {{% a_blank "nataliejillfitness" "https://www.nataliejillfitness.com/best-bosu-ball-exercises-for-abs-and-core/" %}}
 
 {{% chapter_header "All the great Workouts at a glance" "atAGlance" %}}
+
 <div class="row">
   <div class="col-md-7 col-centered">
-    {{< fluid_pin_it_images
-      "col-xs-12|img/posts/the-ultimate-bosu-ball-workout-guide/bosu-workout-guide.jpg|BOSU Ball Workout Infographic"
-    ->}}
+    {{% pin_it_image "BOSU Ball Workout Infographic" "img/posts/the-ultimate-bosu-ball-workout-guide/bosu-workout-guide.jpg" "" %}}
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-

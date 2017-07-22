@@ -6,7 +6,8 @@ tags = ["Fitness"]
 categories = ["Fitness"]
 keyword = "self transformation"
 news_keywords = ["self transformation"]
-banner = "img/posts/how-to-become-the-best-version-of-yourself/freedom.jpeg"
+card = "img/posts/how-to-become-the-best-version-of-yourself/freedom_640.jpg"
+banner = "img/posts/how-to-become-the-best-version-of-yourself/freedom.jpg"
 
 headline = "How to become the best Version of Yourself"
 
@@ -23,7 +24,7 @@ I know myself that the way is pretty hard. It usually means you have to skip des
 I thought that this topic fits perfectly at the end of a year when everybody seems to be motivated to start into the new year better than they ended the last one. However, often those new years resolutions are unrealistic and leave us unsattisfied with ourselves. That's why it is so important to have a realistic view on what's feasible and what's good for us. 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/how-to-become-the-best-version-of-yourself/freedom.jpeg|feeling good"
+  "col-xs-12|img/posts/how-to-become-the-best-version-of-yourself/freedom.jpg|feeling good"
 ->}}
 
 {{% chapter_header "The five components to become the best version of yourself" "fiveComponents" %}}

@@ -6,6 +6,7 @@ tags = ["Fitness"]
 categories = ["Fitness"]
 keyword = "horseback riding"
 news_keywords = ["letting go"]
+card = "img/posts/horseback-riding-umbria/IMG_5911_640.jpg"
 banner = "img/posts/horseback-riding-umbria/IMG_5911.jpg"
 
 headline = "Letting go"

@@ -6,7 +6,8 @@ tags = ["Fitness"]
 categories = ["Fitness"]
 keyword = "yoga stretching"
 news_keywords = ["yoga, boxingyoga"]
-banner = "img/posts/boxing-yoga-the-new-yoga-trend/IMG_0486.JPG"
+card = "img/posts/boxing-yoga-the-new-yoga-trend/IMG_0486_640.jpg"
+banner = "img/posts/boxing-yoga-the-new-yoga-trend/IMG_0486.jpg"
 
 headline = "BoxingYoga: The new Yoga Trend"
 
@@ -21,7 +22,7 @@ There are so many different Yoga styles, but Boxingyoga sounds really strange in
 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0508-1.JPG|Boxingyoga - The new Yoga Trend"
+  "col-xs-12|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0508-1.jpg|Boxingyoga - The new Yoga Trend"
 ->}}
 
 {{% chapter_header "Opposing forces: It’s all about contrasts" "oposingForces" %}}
@@ -39,7 +40,7 @@ By systematically stretching your body, you can prevent muscle tension and short
 Boxingyoga utilizes the whole body in a kinetic chain reaction with the power of the core and spiral dynamics of the spine in order to maximize performance. The goal is to stretch the whole body, thus Boxingyoga looks at the whole pattern of movement in the musculoskeletal system.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0507.JPG|Boxingyoga"
+  "col-xs-12|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0507.jpg|Boxingyoga"
 ->}}
 
 {{% chapter_header "Benefits of Boxingyoga" "benefitsBoxingyoga" %}}
@@ -76,7 +77,7 @@ With a cool-down, the Boxingyoga class comes to an end.
 Boxingyoga was developed in London, thus the UK is of course pioneer when it comes to classes. The popularity of Boxingyoga spread quickly throughout boxing gyms in Europe, especially Scandinavia and The Netherlands, and even Asia. In the USA it’s particularly famous in San Francisco, with {{% a_blank "Yoga Garden" "http://www.yogagardensf.com/" %}} offering Boxingyoga classes as an alternative to traditional yoga. In Germany, boxing gym {{% a_blank "Chimosa" "http://chimosa.de/" %}} in Berlin is one of the first to offer the boxing and yoga hybrid class.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0506-1.JPG|Boxingyoga at Chimosa"
+  "col-xs-12|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0506-1.jpg|Boxingyoga at Chimosa"
 ->}}
 
 {{% chapter_header "Chimosa and Somuchmore BoxingYoga Event" "event" %}}
@@ -102,11 +103,11 @@ Come into a side plank position, and then bend the elbow and upper knee to make 
 Slowly rotate in a 90-degree-angle, curl the back and crunch the abdominals. Now lower the raised hand to the floor next to your other hand and extend your lifted leg. Exhale, bend the elbows as if you wanted to do a push-up and come into an upward-facing dog. You can also do a push-up here for real to train your arm muscles.
 
 {{< fluid_pin_it_images
-  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0492.JPG|Boxingyoga Side Crunch Sequence 1"
-  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0490.JPG|Boxingyoga Side Crunch Sequence 2"
-  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0609.JPG|Boxingyoga Side Crunch Sequence 3"
-  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0610.JPG|Boxingyoga Side Crunch Sequence 4"
-  "col-xs-12|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0557.JPG|Boxingyoga Side Crunch Sequence 5"
+  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0492.jpg|Boxingyoga Side Crunch Sequence 1"
+  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0490.jpg|Boxingyoga Side Crunch Sequence 2"
+  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0609.jpg|Boxingyoga Side Crunch Sequence 3"
+  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0610.jpg|Boxingyoga Side Crunch Sequence 4"
+  "col-xs-12|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0557.jpg|Boxingyoga Side Crunch Sequence 5"
 ->}}
 
 **Threading the Needle** 
@@ -116,7 +117,7 @@ This pose increases the range of movement by offering a deep twist of the spine.
 Come into a tabletop position; then slide one arm under the torso. The palm is facing up. Shoulder and head are gently rested on the floor. 
  
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0489.JPG|Boxingyoga: Threading the needle"
+  "col-xs-12|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0489.jpg|Boxingyoga: Threading the needle"
 ->}}
 
 **The Boxers’s Lunge II** 
@@ -126,8 +127,8 @@ This exercise combines upper body boxing technique with stretching the hips and 
 Come into a high lunge position and hold it. The front leg is in a 90-degree-angle, the back leg is kept straight. Clench your fists and cover your jaw. Now extend the reach of the lead arm and rotate the torso slightly to the side. 
 
 {{< fluid_pin_it_images
-  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0485.JPG|Boxingyoga: Boxer's Lunge II 1"
-  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0486.JPG|Boxingyoga: Boxer's Lunge II 2"
+  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0485.jpg|Boxingyoga: Boxer's Lunge II 1"
+  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0486.jpg|Boxingyoga: Boxer's Lunge II 2"
 ->}}
 
 **Crunch Punch**
@@ -135,8 +136,8 @@ Come into a high lunge position and hold it. The front leg is in a 90-degree-ang
 This is a perfect exercise for your core. Lie down on the mat and keep both of your fists close to your jaw. Now slightly move up to the left side and move your right fist between your knees.  Repeat the same on the other side. 
 
 {{< fluid_pin_it_images
-  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0487.JPG|Boxingyoga: Crunch Punch 1"
-  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0488.JPG|Boxingyoga: Crunch Punch 2"
+  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0487.jpg|Boxingyoga: Crunch Punch 1"
+  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0488.jpg|Boxingyoga: Crunch Punch 2"
 ->}}
 
 **Downward-Facing Dog Variation**
@@ -146,18 +147,17 @@ This pose is really good to open your hips and makes killer side abs.
 Come into a downward-facing dog and lift up your leg until you can feel your hip opening. Then bend your knee and bring it to your elbow. Now rotate your hip and move the raised leg under your body to the opposite site; then straighten it.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0493.JPG|Boxingyoga: Downward-Facing Dog Variation 1"
-  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0494.JPG|Boxingyoga: Downward-Facing Dog Variation 2"
-  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0565.JPG|Boxingyoga: Downward Facing Dog Variation 3"
+  "col-xs-12|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0493.jpg|Boxingyoga: Downward-Facing Dog Variation 1"
+  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0494.jpg|Boxingyoga: Downward-Facing Dog Variation 2"
+  "col-xs-6|img/posts/boxing-yoga-the-new-yoga-trend/IMG_0565.jpg|Boxingyoga: Downward Facing Dog Variation 3"
 ->}} 
 
 What I am wearing: leggings by {{% a_blank "Next NX Sport" "http://de.nextdirect.com/de/g50160s3#722636" %}}, shirt and bra by H&M
 
 {{% chapter_header "The whole sequence at a glance" "infographic" %}}
+
 <div class="row">
   <div class="col-md-7 col-centered">
-    {{< fluid_pin_it_images
-      "col-xs-12|img/posts/boxing-yoga-the-new-yoga-trend/BoxingYoga_Infographic.jpg|Boxingyoga: Infographic - The new Yoga Trend Series of Five for toned Abs"
-    ->}}
+    {{% pin_it_image "Boxingyoga: Infographic - The new Yoga Trend Series of Five for toned Abs" "img/posts/boxing-yoga-the-new-yoga-trend/BoxingYoga_Infographic.jpg" "" %}}
   </div>
 </div>

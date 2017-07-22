@@ -6,7 +6,8 @@ tags = ["Fitness", "Wanderlust"]
 categories = ["Fitness", "Wanderlust"]
 keyword = "traveling yoga teacher"
 news_keywords = ["yoga stretching"]
-banner = "img/posts/traveling-yoga-teacher-interview/traveling_yoga_teacher.JPG"
+card = "img/posts/traveling-yoga-teacher-interview/traveling_yoga_teacher_640.jpg"
+banner = "img/posts/traveling-yoga-teacher-interview/traveling_yoga_teacher.jpg"
 
 headline = "What it's like to be a traveling Yoga Teacher - An Interview with Tasha from Tasha plus Yoga"
 
@@ -17,7 +18,7 @@ While I was traveling in Luang Prabang, Laos, I had the pleasure to meet Tasha f
 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/traveling-yoga-teacher-interview/traveling_yoga_teacher.JPG|traveling yoga teacher Tasha in headstand"
+  "col-xs-12|img/posts/traveling-yoga-teacher-interview/traveling_yoga_teacher.jpg|traveling yoga teacher Tasha in headstand"
 ->}}
 
 {{% chapter_header "Getting to know Tasha" "getToKnowTasha" %}}
@@ -46,7 +47,7 @@ Including one other trip to Europe a few years ago, 12 in total!
 It has changed massively! It's a very alternative lifestyle, how I live, but I can now say that I am truly living each and every day, pursuing something so dear to me, cultivating my own happiness and joy, rather than filling someone else's pockets with cash!
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/traveling-yoga-teacher-interview/yoga_and_traveling.JPG|traveling yogini in yoga pose"
+  "col-xs-12|img/posts/traveling-yoga-teacher-interview/yoga_and_traveling.jpg|traveling yogini in yoga pose"
 ->}}
 
 {{% chapter_header "Tasha and Yoga" "tashaAndYoga" %}}
@@ -78,7 +79,7 @@ It happened by accident! I moved to London to do the TTC, but due to visa issues
 Every yoga class and teacher is unique, but yoga is a universal practice. Modalities and styles may vary, but the underlying current and parallels exist amongst all yoga. 
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/traveling-yoga-teacher-interview/traveling_yogini.JPG|traveling yoga teacher with view on the ocean"
+  "col-xs-12|img/posts/traveling-yoga-teacher-interview/traveling_yogini.jpg|traveling yoga teacher with view on the ocean"
 ->}}
 
 {{% chapter_header "Traveling and Working as a Yoga Teacher" "travelingWorking" %}}
@@ -98,7 +99,7 @@ The majority of my work is volunteering in exchange for accommodation and food. 
 Typically, I will find local guest houses or bungalows/flats in the area, and negotiate weekly or monthly rentals. Tip: if you teach early in the morning, stay close to your center! You'll be glad you did!
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/traveling-yoga-teacher-interview/yoga_luang_prabang.JPG|traveling yogini teaching yoga in Laos"
+  "col-xs-12|img/posts/traveling-yoga-teacher-interview/yoga_luang_prabang.jpg|traveling yogini teaching yoga in Laos"
 ->}}
 
 **How often do you have to teach? Do you only ever teach at one place?**
@@ -120,7 +121,7 @@ I honestly don't think so... the idea of a corporate job is actually quite nause
 This is a question I both contemplate and avoid. I am not about future planning, as circumstances of life are so unpredictable. Planning can lead to too much distraction for a future happiness rather than being immersed in your present state, and cultivating happiness here and now. But I could potentially see myself with a spiritual partner, perhaps another teacher or someone involved in the spiritual and holistic world, perhaps a family, perhaps my own retreat center or yoga studio, perhaps I stay free and floating about the universe with no strings attached...Lots of "perhaps" and no plans is how I like it! I allow the universe to unfold for me.
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/traveling-yoga-teacher-interview/yoga_teacher_travel.png|traveling yogini teaching yoga in Laos"
+  "col-xs-12|img/posts/traveling-yoga-teacher-interview/yoga_teacher_travel.jpg|traveling yogini teaching yoga in Laos"
 ->}}
 
 **Do you ever think about a lack of security e.g. with regards to your pension? Do you have any financial precautions while working remotely?**

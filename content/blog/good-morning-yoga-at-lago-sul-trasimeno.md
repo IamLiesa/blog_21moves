@@ -6,6 +6,7 @@ tags = ["Fitness", "Wanderlust"]
 categories = ["Fitness", "Wanderlust"]
 keyword = "sun salutation, good morning yoga"
 news_keywords = ["sun salutation good morning yoga"]
+card = "img/posts/good-morning-yoga-at-lago-sul-trasimeno/banner1_640.jpg"
 banner = "img/posts/good-morning-yoga-at-lago-sul-trasimeno/banner1.jpg"
 
 headline = "Good morning Yoga at Lago sul Trasimeno"
@@ -21,7 +22,7 @@ As work was pretty stressful the weeks before my vacation, I was really looking 
 {{% chapter_header "The most beautiful place" "beautifulPlace" %}}
 When we arrived at Lago sul Trasimeno I immediately felt that this place would be good for me. The apartment was located on a hill with a breathtaking view on the Trasimeno Lake. It wasn’t very spacious or even luxurious, yet still it was this simplicity that made the place even more special.  A few steps up the hill there was a huge pool with an even more beautiful view. It was the perfect spot for me to workout and to seriously start my morning Yoga routine. 
 
-{{% pin_it_image "goodmorning yoga sun salutation" "img/posts/good-morning-yoga-at-lago-sul-trasimeno/IMG_5893.jpg" %}}
+{{% pin_it_image "goodmorning yoga sun salutation" "img/posts/good-morning-yoga-at-lago-sul-trasimeno/IMG_5893.jpg" "is-src-set" %}}
 
 {{% chapter_header "A place just to ourselves" "placeToOurselves" %}}
 There weren’t many other people around our accommodation. We also didn’t have a TV or a radio and of course I didn’t bring my laptop with me. In the evenings when we were sitting outside with a glass of wine it was so quiet, all you could hear were the mosquitos and the crickets. It was my first vacation after nine months of nonstop working. To get a little distance from my life at home this was exactly what I had needed. 
@@ -30,12 +31,12 @@ There weren’t many other people around our accommodation. We also didn’t hav
 {{% chapter_header "Working out in the morning with a spectacular view" "workoutWithAView" %}}
 The view from up the hill where the pool was had such a soothing effect on me. I felt like I was finally able to breath freely again, to calm my mind and to forget what was troubling me. Working out on top of the hill, the most beautiful view below and the noise of some horses above, definitely motivated me to try out some new things in Yoga.  I tried out the crow and guess what, I finally succeeded. I also took my holiday workout routine to the poolside. 
 
-{{% pin_it_image "good-morning yoga sun salutation" "img/posts/good-morning-yoga-at-lago-sul-trasimeno/IMG_5899.jpg" %}}
+{{% pin_it_image "good-morning yoga sun salutation" "img/posts/good-morning-yoga-at-lago-sul-trasimeno/IMG_5899.jpg" "is-src-set" %}}
 
 {{% chapter_header "Trying to incorporate this clarity and calmness into my everyday life" "incorporateCalmnessInLife" %}}
 The hardest part however, is always getting back from a holiday. Suddenly you are in the real world again. Here it is again, the hassle that you thought you had left behind. And now everything feels even louder than before. To keep this calmness and incorporate it into your everyday life is challenging. I’ve been struggling to find my inner balance for a long time. However, now that I work out on a regular basis, I finally feel like I have a way to release all this tension and stress. Of course, building up a routine needs time and work but I definitely feel that it is worth it. I never thought that I would find Yoga for me. It never felt like actual sport to me and I actually didn't want to pursue it. Now I am happy that I didn't quit on it.
 
-{{% pin_it_image "good morning yoga sun salutation" "img/posts/good-morning-yoga-at-lago-sul-trasimeno/IMG_5797.jpg" %}}
+{{% pin_it_image "good morning yoga sun salutation" "img/posts/good-morning-yoga-at-lago-sul-trasimeno/IMG_5797.jpg" "is-src-set" %}}
 
 {{% chapter_header "I finally understood what Yoga was about" "WhatYogaIsAbout" %}}
 As I said I was never really able to identify myself with the practice of Yoga. Now I’ve finally understood that it is all about the balance; body and mind work together in Yoga. And if I manage to incorporate my everyday Yoga into my life, I am sure I can also incorporate some of the clarity and calmness into my life. The same calmness that I felt in Italy. 
@@ -128,10 +129,9 @@ There are several types of yoga breathing.  There would be *Ujjayi pranayama*, w
 Also, I couldn't stop reading Rachel Brathen's {{% a_blank "Yoga Girl" "https://www.amazon.com/gp/product/1501106767/ref=as_li_tl?ie=UTF8&tag=21moves-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1501106767&linkId=aaf2482787662f48d706b8b030dffc13" %}}. It's such an inspirational story about how she has come to Yoga.
 
 {{% chapter_header "The whole sequence at a glance" "infographic" %}}
+
 <div class="row">
   <div class="col-md-7 col-centered">
-    {{< fluid_pin_it_images
-      "col-xs-12|img/posts/good-morning-yoga-at-lago-sul-trasimeno/infographic-sun-salutation.jpg|good morning yoga sun salutation"
-    ->}}
+    {{% pin_it_image "good morning yoga sun salutation" "img/posts/good-morning-yoga-at-lago-sul-trasimeno/infographic-sun-salutation.jpg" "" %}}
   </div>
 </div>

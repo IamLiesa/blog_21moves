@@ -6,6 +6,7 @@ tags = ["Fitness, Wanderlust"]
 categories = ["Fitness", "Wanderlust"]
 keyword = "workout while traveling, workout while on travel, how to workout when traveling"
 news_keywords = ["workout while traveling, workout while on travel, how to workout when traveling"]
+card = "img/posts/how-to-workout-while-traveling/traveling_with_bike_cropped_640.jpg"
 banner = "img/posts/how-to-workout-while-traveling/traveling_with_bike_cropped.jpg"
 
 headline = "How to workout while Traveling"
@@ -23,7 +24,7 @@ I hope that my 10 tips on working out while traveling will be helpful for you. F
 {{% chapter_header "1. Book an Airbnb or a Hotel with a Gym" "1" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/how-to-workout-while-traveling/airbnb_with_gym.JPG|Airbnb Apartment with Gym and Pool"
+  "col-xs-12|img/posts/how-to-workout-while-traveling/airbnb_with_gym.jpg|Airbnb Apartment with Gym and Pool"
 ->}} 
 
 Most hotel chains and even some Airbnbs have a gym nowadays. Especially in Thailand, where they have a lot of resorts you can book via airbnb, offer one. Sure you won't find all the equipment you know from your hometown gym, but they have the most necessary machines and equipments such as treadmills and dumbbells.
@@ -31,7 +32,7 @@ Most hotel chains and even some Airbnbs have a gym nowadays. Especially in Thail
 {{% chapter_header "2. Visit local Fitness Classes" "2" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/how-to-workout-while-traveling/local_yoga_class.JPG|Visiting local Yoga Classes while traveling"
+  "col-xs-12|img/posts/how-to-workout-while-traveling/local_yoga_class.jpg|Visiting local Yoga Classes while traveling"
 ->}} 
 
 Visiting local fitness classes doesn’t only help you to continue your workout routine, it's also a great way to get to know people and to see what classes abroad are like. When I traveled through South East Asia, I visited a lot of local yoga classes and they helped me so much in my personal yoga practice. Although yoga poses are pretty much the same all over the world, the approach to the exercises can be different, as I experienced myself. 
@@ -47,7 +48,7 @@ Sometimes small hotels don't leave you with a lot of space for your workout. Sti
 {{% chapter_header "4. Use convenient Equipment" "4" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/how-to-workout-while-traveling/handy_workout_equipment.JPG|Bringing convenient Workout Equipment when traveling"
+  "col-xs-12|img/posts/how-to-workout-while-traveling/handy_workout_equipment.jpg|Bringing convenient Workout Equipment when traveling"
 ->}} 
 
 Of course you won't be able to bring all of your workout equipment on your travel. Still there is some you can easily bring with you. I for example never travel without my jump rope, my tubes, and my rubber band. It's super light weighted and small so you can just squeeze it into any corner of your suitcase. 
@@ -65,7 +66,7 @@ There are so many great exercises you can do with your bodyweight. Of course eve
 {{% chapter_header "6. Explore your Place with a Bike" "6" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/how-to-workout-while-traveling/traveling_with_bike.JPG|Exploring new Places by Bike"
+  "col-xs-12|img/posts/how-to-workout-while-traveling/traveling_with_bike.jpg|Exploring new Places by Bike"
 ->}} 
 
 Exploring a place via bike is a great way to combine working out and sightseeing. You will get everywhere much faster than if you're walking, it's much cheaper than going everywhere by cab or by train, plus it's a lot of fun.
@@ -73,7 +74,7 @@ Exploring a place via bike is a great way to combine working out and sightseeing
 {{% chapter_header "7. Do a lot of Walking" "7" %}}
 
 {{< fluid_pin_it_images
-  "col-xs-12|img/posts/how-to-workout-while-traveling/walking.JPG|Do a lot of walking to stay fit while traveling"
+  "col-xs-12|img/posts/how-to-workout-while-traveling/walking.jpg|Do a lot of walking to stay fit while traveling"
 ->}} 
 
 If you don't want to explore a place by bike, just opt for walking. Doing a sightseeing tour for a whole day burns tons of calories as you're up on your feet almost the whole time. You might not feel it right away, as you'll probably be distracted by all the new things you'll see, but in the evening you'll surely see that even walking can replace your daily workout and still count as one.
