@@ -9,7 +9,7 @@ news_keywords = ["core workout", "best core exercises", "exercises for abs", "wo
 card = "img/posts/core-workout-routine-best-core-exercises-for-abs/core_workout_exercises_640.jpg"
 banner = "img/posts/core-workout-routine-best-core-exercises-for-abs/core_workout_exercises.jpg"
 
-headline = "My Core Workout Routine: The best Core Exercises for toned Abs"
+headline = "My Core Workout Routine: The best Core Exercises for a strong upper Body"
 
 summary = "A strong core is super important in your day to day life. It will improve your posture and prevent you from having backpain. Especially if you travel a lot, like I do, and have to carry a heavy backpack, a strong core is even more important as it has to work hard to stabilize your spine to keep you in an upright position. Because the core is such an important part of your body and there is a lot of confusion as to the core being just a synonyme for abs, I created this article along with some great core exercises."
 
