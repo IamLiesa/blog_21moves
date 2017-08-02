@@ -6,7 +6,7 @@ tags = ["Fitness"]
 categories = ["Fitness"]
 keyword = "core workout, best core exercises, exercises for abs, workout for abs"
 news_keywords = ["core workout", "best core exercises", "exercises for abs", "workout for abs"]
-card = "img/posts/yoga-luang-prabang-laos-utopia/yoga_utopia_bar_640.jpg"
+card = "img/posts/core-workout-routine-best-core-exercises-for-abs/core_workout_exercises_640.jpg"
 banner = "img/posts/core-workout-routine-best-core-exercises-for-abs/core_workout_exercises.jpg"
 
 headline = "My Core Workout Routine: The best Core Exercises for toned Abs"
