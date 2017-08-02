@@ -1,5 +1,5 @@
 +++
-title = "My Core Workout Routine: The best Core Exercises for toned Abs"
+title = "My Core Workout Routine: The best Core Exercises for a strong upper Body"
 description = "A strong core is the basis for a healthy body. Try these nine core exercises to train your upper and lower abs and obliques, and to strengthen your core."
 date = "2017-08-01T10:50:46+02:00"
 tags = ["Fitness"]
