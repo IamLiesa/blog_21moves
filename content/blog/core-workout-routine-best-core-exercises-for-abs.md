@@ -57,7 +57,7 @@ The best way to improve your posture is to strengthen your core. Additionally to
 **4. A strong core helps you getting rid of back pain**
 A common side effect of a weak core is back pain. As explained before, if your core isn’t strong enough, your spine doesn’t have enough support to maintain a perfect posture. Now your other muscles have to compensate to help you stand tall. This can lead to neck and shoulder tension, lower back pain, and injuries. A strong core can thus help you stay injury- and pain-free. 
 
-{{% chapter_header "Core Exercises for toned Abs and a strong Core" "coreExercises" %}}
+{{% chapter_header "Core Exercises for toned Abs and a strong upper Body" "coreExercises" %}}
 
 These nine exercises will help you get a strong core and a flat tummy. Try to do around ten to 15 reps of each exercise.
 
