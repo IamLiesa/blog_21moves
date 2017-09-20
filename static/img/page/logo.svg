@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="44px" viewBox="0 0 128 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>iPhone 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iPhone-6" sketch:type="MSArtboardGroup" font-weight="normal" font-family="Helvetica Neue" fill="#000000">
+            <text id="21" sketch:type="MSTextLayer" transform="translate(11.500000, 19.500000) rotate(-90.000000) translate(-11.500000, -19.500000) " font-size="24">
+                <tspan x="-2" y="28">21</tspan>
+            </text>
+            <text id="MOVES" sketch:type="MSTextLayer" font-size="30">
+                <tspan x="21" y="32">MOVES</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
