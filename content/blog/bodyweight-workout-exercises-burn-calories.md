@@ -6,7 +6,7 @@ tags = ["Fitness"]
 categories = ["Fitness"]
 keyword = "bodyweight workout, bodyweight exercises"
 news_keywords = ["bodyweight workout, bodyweight exercises"]
-card = "img/posts/img/posts/bodyweight-workout-exercises-burn-calories/plank_exercise_bodyweight_640.jpg"
+card = "img/posts/bodyweight-workout-exercises-burn-calories/plank_exercise_bodyweight_640.jpg"
 banner = "img/posts/bodyweight-workout-exercises-burn-calories/plank_exercise_bodyweight.jpg"
 
 headline = "Bodyweight Exercises: 5 Ways to burn more Calories using only your Body"
