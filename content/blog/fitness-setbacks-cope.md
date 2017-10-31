@@ -4,7 +4,7 @@ description = "We've all hit that bump in the road when it comes to fitness. Wha
 date = "2017-10-05T10:50:46+02:00"
 tags = ["Fitness"]
 categories = ["Fitness"]
-keyword = "fitness setback"
+keywords = ["fitness setback"]
 news_keywords = ["fitness setback"]
 card = "img/posts/fitness-setback-cope/motivation_quote_card_640.jpg"
 banner = "img/posts/fitness-setback-cope/motivation_quote_card.jpg"
@@ -23,7 +23,7 @@ I too have these phases where I feel like quitting and giving up. I have been tr
 
 {{% chapter_header "The right mindset" "mindset" %}}
 
-You might think that working out is only physical so the mental part doesn’t play a big role, but that is actually not true. Sometimes the mindset plays an even bigger role than your actual physical status. Maybe you’re the most flexible person, but if you never stretch it won’t get you anywhere whereas a person that is not so flexible but really willing to give it all he/she can might even surpass you at some point. Therefore, make sure that you have the right mindset whenever you do your workouts. 
+You might think that working out is only physical so the mental part doesn’t play a big role, but that is actually not true. Sometimes the mindset plays an even bigger role than your actual physical status. Maybe you’re the most flexible person, but if you never stretch it won’t get you anywhere whereas a person that is not so flexible but really willing to give it all he/she can might even surpass you at some point. Therefore, make sure that you have the right mindset whenever you do your workouts.
 
 {{% pin_it_image "motivational quote" "img/posts/fitness-setback-cope/motivation_quote.jpg" "is-src-set" %}}
 
@@ -33,11 +33,11 @@ There will always be something you’re not good at. Maybe you’re trying to ge
 
 **2. Keep your eyes on the prize**
 
-Remember that setbacks are temporarily. You will get back into your old routine eventually, just don’t give up. Always remember why you started working out in the first place. Make it really visual and have a picture of your final goal in mind. Don’t lose this picture. So you didn’t make it this time, so what? Keep trying and know why you’re doing it. 
+Remember that setbacks are temporarily. You will get back into your old routine eventually, just don’t give up. Always remember why you started working out in the first place. Make it really visual and have a picture of your final goal in mind. Don’t lose this picture. So you didn’t make it this time, so what? Keep trying and know why you’re doing it.
 
 **3. Set yourself realistic goals**
 
-Sometimes we simply have to admit to ourselves, that our goals aren’t manageable for us. Instead of getting all frustrated about that and giving up, make the adjustments that are necessary to meet your goal. Remember: Goals must be challenging, yet they must also be realistic. Otherwise they will only demotivate you. 
+Sometimes we simply have to admit to ourselves, that our goals aren’t manageable for us. Instead of getting all frustrated about that and giving up, make the adjustments that are necessary to meet your goal. Remember: Goals must be challenging, yet they must also be realistic. Otherwise they will only demotivate you.
 
 **4. Enjoy the ride**
 
@@ -45,8 +45,8 @@ No one will ever start out with fitness and immediately be on top of the world. 
 
 **5. Give it the best you can - A little is always better than nothing**
 
-Keep in mind that no workout whatsoever is a failed workout. Even if you felt like this workout wasn’t as good as the others, you didn’t run your 5 k or you didn’t make it into the splits, you still did *something*. This is always better than doing nothing, so just starting your workout is a win itself! 
- 
+Keep in mind that no workout whatsoever is a failed workout. Even if you felt like this workout wasn’t as good as the others, you didn’t run your 5 k or you didn’t make it into the splits, you still did *something*. This is always better than doing nothing, so just starting your workout is a win itself!
+
 {{% chapter_header "Finding your motivation" "findingMotivation" %}}
 
 Having the right mindset is great, but sometimes we are still lacking motivation to get back in the game after a setback. After all, we’re only humans, right? So after your mindset check you need to find a way to motivate yourself. But how do you do that?
@@ -70,10 +70,10 @@ Do you have fitness role model? Someone who, in your eyes, has the perfect body 
 
 {{% chapter_header "Setbacks are not the opposite of success" "setbacksAndSuccess" %}}
 
-Fitness and setbacks honestly go hand in hand. There is no straight way up to the top, it’s all hard work. Try to remember that from the very start. Setbacks don’t mean that you failed, they simply mean that you have to start over. Only if you don’t do that, you really have failed. It doesn’t matter how often you have to start over. You will get better each time you try anew. These little steps should be your measurement of success. So don’t quit if you don’t get the results you wanted right away. It’s a journey and who knows where it will take you. 
+Fitness and setbacks honestly go hand in hand. There is no straight way up to the top, it’s all hard work. Try to remember that from the very start. Setbacks don’t mean that you failed, they simply mean that you have to start over. Only if you don’t do that, you really have failed. It doesn’t matter how often you have to start over. You will get better each time you try anew. These little steps should be your measurement of success. So don’t quit if you don’t get the results you wanted right away. It’s a journey and who knows where it will take you.
 
 
- 
+
 
 
 
