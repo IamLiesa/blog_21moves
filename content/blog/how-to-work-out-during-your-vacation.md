@@ -4,7 +4,7 @@ description = "Working out during a vacation can be hard. Jetlag, not enough equ
 date = "2016-11-28T10:50:46+02:00"
 tags = ["Fitness", "Wanderlust"]
 categories = ["Fitness", "Wanderlust"]
-keyword = "holiday workout, workout motivation"
+keywords = ["holiday workout", "workout motivation"]
 news_keywords = ["holiday workout, workout motivation"]
 card = "img/posts/how-to-work-out-during-your-vacation/Italy-side-situp_640.jpg"
 banner = "img/posts/how-to-work-out-during-your-vacation/Italy-side-situp.jpg"
@@ -94,9 +94,9 @@ In between each set of exercises, add rope jumping or, alternatively, box jumpin
 
 Most of the time my holidays are pretty active as we do a lot of walking and exploring. Also, we usually don't stay at one place for too long. This vacation, however, was different. This was actually my first vacation where I really stayed at one place. A classic holiday, as you know it, you might say. That's why I wanted to try to work out extra much. 
 
-As I said before, I didn’t find the best running-route so I went for some up-hill running. Usually, I run rather flat routes, so this was quite a challenge for me. I was also absolutely thrilled to find out that they had horses at our little farm, so I really wanted to try out {{% a_blank "horseback riding" "http://www.21moves.com/horseback-riding-umbria/" %}} for the first time ever!  Also, I  made use of our pool and went for a swim in the evening. That was such a perfect way to end the day!  
+As I said before, I didn’t find the best running-route so I went for some up-hill running. Usually, I run rather flat routes, so this was quite a challenge for me. I was also absolutely thrilled to find out that they had horses at our little farm, so I really wanted to try out {{% a_blank "horseback riding" "http://www.21moves.com/horseback-riding-umbria/" %}} for the first time ever!  Also, I  made use of our pool and went for a swim in the evening. That was such a perfect way to end the day!
 
-Thinking back to this holiday I must say that even though it was totally different from our usual holidays, it was a great way to de-stress and try out some new sports and workouts whilst having the perfect surrounding.  
+Thinking back to this holiday I must say that even though it was totally different from our usual holidays, it was a great way to de-stress and try out some new sports and workouts whilst having the perfect surrounding. 
 
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/how-to-work-out-during-your-vacation/running-italy.jpg|holiday workout routine"

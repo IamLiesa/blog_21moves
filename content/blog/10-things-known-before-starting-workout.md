@@ -4,7 +4,7 @@ description = "To see results from your workout it is not enough to go to the gy
 date = "2017-03-08T13:50:46+02:00"
 tags = ["Fitness"]
 categories = ["Fitness"]
-keyword = "workout"
+keywords = ["workout"]
 news_keywords = ["workout"]
 card = "img/posts/10-things-known-before-starting-workout/seeing-results_640.jpg"
 banner = "img/posts/10-things-known-before-starting-workout/seeing-results.jpg"
@@ -15,9 +15,9 @@ summary = "When I first started working out I didn't really have a clue what I w
 
 +++
 
-As a kid you usually do sports just for fun or maybe because your parents want you to learn how to get disciplined. Sometimes, the spark leaps over and you are hooked for fitness forever. Still it’s different when you’re working out for fun or because you have an actual goal, let’s say you want to lose weight, you want to work on your cardio fitness or you want to be leaner. 
+As a kid you usually do sports just for fun or maybe because your parents want you to learn how to get disciplined. Sometimes, the spark leaps over and you are hooked for fitness forever. Still it’s different when you’re working out for fun or because you have an actual goal, let’s say you want to lose weight, you want to work on your cardio fitness or you want to be leaner.
 
-There are a few things I wished I had known before starting my workout routine. Maybe, results would have been visible earlier or maybe I would have taken some types of workouts more seriously. Anyways, I’ve asked some people what they wished they had known before starting to workout and I hope that their insights and mine will help you with your workout routine. 
+There are a few things I wished I had known before starting my workout routine. Maybe, results would have been visible earlier or maybe I would have taken some types of workouts more seriously. Anyways, I’ve asked some people what they wished they had known before starting to workout and I hope that their insights and mine will help you with your workout routine.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/10-things-known-before-starting-workout/seeing-results.jpg|what I wish I had known when working out"
@@ -26,14 +26,14 @@ There are a few things I wished I had known before starting my workout routine. 
 {{% chapter_header "1. When working out, have a plan" "1" %}}
 
 For me, working out has always been fun. When I started, I didn’t really have a plan of what I wanted to do or what I wanted to accomplish. Even when I started going to the gym where they offered to work on a plan for you to start with, I didn’t take this offer. I thought I knew what I had to do and anyways, I just wanted to run on the treadmill, do some exercises on the mat and take a class every now and then. Now that I’ve started to do fitness on a much more serious level, I see how important it is to have a plan. Don’t just go to the gym and do whatever. Go in knowing the exercises you want to do, know at what speed, with which weight and resistance you want to perform and for how many reps and sets. Otherwise you will loose so much time wasting it on thinking about what exercise you want to do next and you will never go to your limits.
- 
+
 {{% chapter_header "2. There will be setbacks and that’s ok" "2" %}}
 
 Tons of programs promise us all kind of success. You will be leaner with this workout, you will be more muscular with that program and more flexible with another. Yeah, it probably won’t work exactly like that. Often, especially when getting started with working out, you don’t start the right program for you immediately. Maybe you start a certain program and realise you hate the sport involved. It’s ok to have changing goalposts. It can be super frustrating when you have a firm idea in your head of what you’ll look like or what you’ll be able to do at a certain time and then not meet it. However, part of the fun of starting fitness is figuring out what works best for you. It’s such a fun process and you may be surprised what you like best. Just try it out and don’t be disappointed from setbacks. Simply try again!
 
 {{% chapter_header "3. Don’t rely on motivation" "3" %}}
 
-Being motivated is amazing. Your will is such a powerful muscle. However, there will be days when you’re not feeling motivated at all. There will be days when all you want is to stay home in front of the TV or doing whatever, just not working out. These are the days when you can’t rely on motivation, but have to focus on your discipline and your routine. While it’s ok to take a day off, it gets really hard to get back into your workout routine once you’ve lost it. Thus, consider fitness as a daily habit, just like brushing your teeth. Don’t rely on motivation. Even if you really love working out, there will be days when you don’t.  
+Being motivated is amazing. Your will is such a powerful muscle. However, there will be days when you’re not feeling motivated at all. There will be days when all you want is to stay home in front of the TV or doing whatever, just not working out. These are the days when you can’t rely on motivation, but have to focus on your discipline and your routine. While it’s ok to take a day off, it gets really hard to get back into your workout routine once you’ve lost it. Thus, consider fitness as a daily habit, just like brushing your teeth. Don’t rely on motivation. Even if you really love working out, there will be days when you don’t. 
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/10-things-known-before-starting-workout/motivation.jpg|don't rely on motivation"
@@ -53,11 +53,11 @@ As a lot of girls I was totally scared of the weights section at the gym. Not on
 
 {{% chapter_header "6. Continually tweaking carbs and calories is a recipe for disaster" "6" %}}
 
-In order to stick to a diet, it’s important to find one that suits you. Not every diet is made for you. Sometimes you see results but actually feel terrible. Continually tweaking carbs and calories is not the way to do it. You will get frustrated eventually which can even lead to the infamous Yo-yo effect. It’s important to know what’s good for you and your body but also to have a little treat now and then. It won’t hurt if you’re working out regularly and pay attention to what you eat on the other days.  
+In order to stick to a diet, it’s important to find one that suits you. Not every diet is made for you. Sometimes you see results but actually feel terrible. Continually tweaking carbs and calories is not the way to do it. You will get frustrated eventually which can even lead to the infamous Yo-yo effect. It’s important to know what’s good for you and your body but also to have a little treat now and then. It won’t hurt if you’re working out regularly and pay attention to what you eat on the other days. 
 
 {{% chapter_header "7. Nutrition is more important than you might think" "7" %}}
 
-When I started working out I didn’t really have a goal in my head. I just did it for fun. Thus, I also didn’t pay attention to nutrition. It was only when I started working out with a personal trainer that I learned how important nutrition is for your body and your health. It really makes all the difference. So if you’re working out but don’t see any results, it might also be your eating habits that prevent you from  being successful.  
+When I started working out I didn’t really have a goal in my head. I just did it for fun. Thus, I also didn’t pay attention to nutrition. It was only when I started working out with a personal trainer that I learned how important nutrition is for your body and your health. It really makes all the difference. So if you’re working out but don’t see any results, it might also be your eating habits that prevent you from  being successful. 
 
 {{% chapter_header "8. Get out of your comfort zone" "8" %}}
 
@@ -69,7 +69,7 @@ It’s so easy to stick to your three sets of 12 reps routine and just finish yo
 
 {{% chapter_header "9. Don’t overcommit" "9" %}}
 
-Once you’re on fire for fitness you might want to workout more often, maybe even more often a day. However, it’s important to listen to your body when it’s telling you it’s time to stop. Know that your nutrition and exercise regimen will change as your body changes. Don’t enter the gym expecting to do an hour of cardio and an hour of weights afterwards. You might be able to do that once or twice but after a while you’ll burn out. 
+Once you’re on fire for fitness you might want to workout more often, maybe even more often a day. However, it’s important to listen to your body when it’s telling you it’s time to stop. Know that your nutrition and exercise regimen will change as your body changes. Don’t enter the gym expecting to do an hour of cardio and an hour of weights afterwards. You might be able to do that once or twice but after a while you’ll burn out.
 From personal experience I know how hard it is to take a rest day. I really love to run because it really clears my head. Sometimes all I want to do is go for a run to get things in order in my head. If I can’t then, this can be really frustrating. Still, don’t overcommit. It will only hurt your body and get you nowhere. 
 
 {{% chapter_header "10. Exercising is not an on/off thing" "10" %}}

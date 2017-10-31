@@ -1,6 +1,5 @@
 baseurl = "https://www.21moves.com/"
 title = "21Moves"
-description = "Fitness, Health and Lifestyle"
 theme = "hugo-minimal"
 languageCode = "en-us"
 
@@ -15,6 +14,10 @@ paginate = 10
 
 # Code Style
 pygmentsstyle = "paraiso-dark"
+
+[params]
+    defaultKeywords = ["Fitness", "Health", "Lifestyle"]
+    defaultDescription = "Fitness, Health and Lifestyle"
 
 [params.google_search]
     verify = "6cUVHKq1ibKSj_P2OnE3JGR7Bx3dj0KySyHzn21yIJs"
@@ -102,36 +105,20 @@ pygmentsstyle = "paraiso-dark"
     # reddit = true
     mail = true
 
-[params]
-    viewMorePostLink = "/"
-    author = "Liesa Huppertz"
-
-    # Since this template is static, the contact form uses www.formspree.io as a
-    # proxy. The form makes a POST request to their servers to send the actual
-    # email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below
-    # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
-    #
-    # Enable the contact form by entering your Formspree.io email
-    email = "iamliesamaria@gmail.com"
-
 [Permalinks]
     blog = "/:filename/"
 
 [[params.menu]]
-    name = "Home"
-    url  = "/"
-    weight = 1
+    name = "Fitness"
+    url  = "/categories/fitness/"
+
+[[params.menu]]
+    name = "Wanderlust"
+    url  = "/categories/wanderlust/"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = true
+    categories = false
     tags = false
     search = false
 

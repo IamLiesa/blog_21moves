@@ -4,7 +4,7 @@ description = "You might feel that stretching only steals time from your 'real' 
 date = "2016-12-12T13:50:46+02:00"
 tags = ["Fitness", "Wanderlust"]
 categories = ["Fitness", "Wanderlust"]
-keyword = "yoga stretching"
+keywords = ["yoga stretching"]
 news_keywords = ["yoga stretching"]
 card = "img/posts/six-benefits-you-didnt-know-stretching-would-have-on-your-body/Mermaid-Pose_640.jpg"
 banner = "img/posts/six-benefits-you-didnt-know-stretching-would-have-on-your-body/Mermaid-Pose.jpg"
@@ -15,9 +15,9 @@ summary = "When starting to practice yoga, you inevitably also start to stretch 
 
 +++
 
-Right now I am sitting on my balcony, enjoying the last ray of sun and wishing I could go back to Italy. I already started complaining about what had gone wrong this week but then I stopped myself. I want this blog to be super positive and get rid of any negative vibe whatsoever. Instead, let me tell you about my new Yoga stretching philosophy, about all the benefits stretching has on your body and let me guide you through my favorite Yoga Stretches. 
+Right now I am sitting on my balcony, enjoying the last ray of sun and wishing I could go back to Italy. I already started complaining about what had gone wrong this week but then I stopped myself. I want this blog to be super positive and get rid of any negative vibe whatsoever. Instead, let me tell you about my new Yoga stretching philosophy, about all the benefits stretching has on your body and let me guide you through my favorite Yoga Stretches.
 
-I have started with stretching a little while ago. My goal was to gain flexibility and ultimately to be able to do splits. So far I am still working on the splits. However, with regards to flexibility, I must say that I have never felt better. I was so inspired by all those Instagram girls that were able to twist their whole body without the slightest hint of pain on their faces. 
+I have started with stretching a little while ago. My goal was to gain flexibility and ultimately to be able to do splits. So far I am still working on the splits. However, with regards to flexibility, I must say that I have never felt better. I was so inspired by all those Instagram girls that were able to twist their whole body without the slightest hint of pain on their faces.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/six-benefits-you-didnt-know-stretching-would-have-on-your-body/yoga-stretches.jpg|yoga stretches"
@@ -48,7 +48,7 @@ When you stretch, your whole body reacts and gets into a relaxation program. A r
 
 **4. Stretching for better physical and mental performance**
 
-Did you know that stretching increases your body’s blood circulation? When you stretch, a high amount of oxygen and nutrients are delivered to your muscles, organs including your heart and also to your brain. Thus, you do not only benefit from a healthier body but also your brainpower gets a boost. Through an increased supply of fresh oxygen and nutrients, brain cells are nourished, which leads to an improved focus and encourages a stable mood. 
+Did you know that stretching increases your body’s blood circulation? When you stretch, a high amount of oxygen and nutrients are delivered to your muscles, organs including your heart and also to your brain. Thus, you do not only benefit from a healthier body but also your brainpower gets a boost. Through an increased supply of fresh oxygen and nutrients, brain cells are nourished, which leads to an improved focus and encourages a stable mood.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/six-benefits-you-didnt-know-stretching-would-have-on-your-body/back-stretch-yoga.jpg|back stretches Yoga"
@@ -58,22 +58,22 @@ Did you know that stretching increases your body’s blood circulation? When you
 
 After a night’s sleep, usually, the first thing we do in the morning is stretching. We all do it unconsciously without even realizing that we’re starting our day with a stretch. Doesn’t that prove how good stretching is for our body and our energy level?
 
-Stretching exercises balance your nervous system. Built up energy is un-blocked once you start stretching and nerve receptors in your muscles are stimulated. 
+Stretching exercises balance your nervous system. Built up energy is un-blocked once you start stretching and nerve receptors in your muscles are stimulated.
 
 Having tight and constricted muscles means that you need more energy to move them. With relaxed muscles, however,  you can move more freely without wasting so much of your energy. By doing a variety of stretches, you can free this built up energy, which can then be used for other important functions in your body.
 
 **6. Regulate your stress hormones and slim down**
 
-We all know this: in situations of stress, we start to eat. But, since stretching calms and relaxes our nervous system, we can finally do something against it. Being less stressed means we produce less stress hormone. And stretching more means fighting tension and stress. This is important because the stress hormone makes us want to eat more, it represses “feel good” hormones and it lowers our energy level. An everyday stretching routine, however, reduces that stress, we produce more of those “feel good” hormones and we are more active throughout the day. All of this has a positive influence on our weight management. 
+We all know this: in situations of stress, we start to eat. But, since stretching calms and relaxes our nervous system, we can finally do something against it. Being less stressed means we produce less stress hormone. And stretching more means fighting tension and stress. This is important because the stress hormone makes us want to eat more, it represses “feel good” hormones and it lowers our energy level. An everyday stretching routine, however, reduces that stress, we produce more of those “feel good” hormones and we are more active throughout the day. All of this has a positive influence on our weight management.
 
 {{% chapter_header "My new Yoga Stretching Routine" "yogaStretchingRoutine" %}}
-Now I want to share with you my favorite yoga stretches. Make sure you hold each of these positions for at least 30 seconds otherwise your muscles won’t have the time to adjust. 
+Now I want to share with you my favorite yoga stretches. Make sure you hold each of these positions for at least 30 seconds otherwise your muscles won’t have the time to adjust.
 
 **Cow Face Pose for arms** (*Gomukhasana Arms*)
 
 This Yoga pose stretches the **shoulders, armpits,** and the **triceps**.
 
-Sit down crossed-legged or in *Dandasana* (staff pose), back straight. Reach the right arm up the sky; left arm comes from below behind your back and reaches up. Now bend your right elbow, let your hand come down behind your back too and start reaching your fingertips toward each other until your hands meet. The right elbow should always point upward, the other down. Stay in this position for 10 breaths and then switch arms.  If you can’t reach your left and with your right hand, use a {{% a_blank "yoga strap" "https://www.amazon.com/Sukhi-Yoga-Stretching-Improving-Flexibility/dp/B010U4UMKI/ref=as_li_ss_tl?s=sports-and-fitness&ie=UTF8&qid=1481382025&sr=1-4&keywords=yoga+straps&linkCode=ll1&tag=21moves-20&linkId=53afb1f75bccfac9b4898758e10f2f44" %}} and slowly start inching your fingers closer towards each other. 
+Sit down crossed-legged or in *Dandasana* (staff pose), back straight. Reach the right arm up the sky; left arm comes from below behind your back and reaches up. Now bend your right elbow, let your hand come down behind your back too and start reaching your fingertips toward each other until your hands meet. The right elbow should always point upward, the other down. Stay in this position for 10 breaths and then switch arms.  If you can’t reach your left and with your right hand, use a {{% a_blank "yoga strap" "https://www.amazon.com/Sukhi-Yoga-Stretching-Improving-Flexibility/dp/B010U4UMKI/ref=as_li_ss_tl?s=sports-and-fitness&ie=UTF8&qid=1481382025&sr=1-4&keywords=yoga+straps&linkCode=ll1&tag=21moves-20&linkId=53afb1f75bccfac9b4898758e10f2f44" %}} and slowly start inching your fingers closer towards each other.
 
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/six-benefits-you-didnt-know-stretching-would-have-on-your-body/Gomukhasana-Arms.jpg|Gomukhasana Arms"
@@ -84,7 +84,7 @@ Sit down crossed-legged or in *Dandasana* (staff pose), back straight. Reach the
 
 This Yoga pose is beneficial for the **elasticity of the spine** and makes it supple. It also **opens the chest** and **increases the oxygen supply to the lunges**.
 
-While being seated, extend both of your legs straight in front of you. Bend your right knee, cross the left leg and place the sole of your right foot on the outer side of your left thigh. Bend the left knee, your heel almost touching your outer hip. Slowly, start twisting your upper body toward the right, bringing the right hand behind you. Now gently press with your left elbow against the outside of the right knee. Gaze over your right shoulder. Stay in this position for five to ten breaths, then repeat it on the other side. 
+While being seated, extend both of your legs straight in front of you. Bend your right knee, cross the left leg and place the sole of your right foot on the outer side of your left thigh. Bend the left knee, your heel almost touching your outer hip. Slowly, start twisting your upper body toward the right, bringing the right hand behind you. Now gently press with your left elbow against the outside of the right knee. Gaze over your right shoulder. Stay in this position for five to ten breaths, then repeat it on the other side.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/six-benefits-you-didnt-know-stretching-would-have-on-your-body/Ardha-Matsyendrasana.jpg|Ardha Matsyendrasana"
@@ -94,7 +94,7 @@ While being seated, extend both of your legs straight in front of you. Bend your
 
 The pigeon pose is a **hip opener that increases the external range of motion of the femur in the hip socket and lengthens the hip flexors**.
 
-Begin the pigeon pose with a downward facing dog. Then raise your right leg straight up to the sky. Slide it forward, bend your right knee so that the outside of your shin is placed under your torso and your foot behind your left wrist. Now slide your left leg back behind you and let the front of your thigh sit on the floor. Next, lower the outside of your right buttock to the floor. The right heel should now be in front of your left hip and both hands on either side of your leg. 
+Begin the pigeon pose with a downward facing dog. Then raise your right leg straight up to the sky. Slide it forward, bend your right knee so that the outside of your shin is placed under your torso and your foot behind your left wrist. Now slide your left leg back behind you and let the front of your thigh sit on the floor. Next, lower the outside of your right buttock to the floor. The right heel should now be in front of your left hip and both hands on either side of your leg.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/six-benefits-you-didnt-know-stretching-would-have-on-your-body/pigeon-pose.jpg|Kapotasana"
@@ -102,16 +102,16 @@ Begin the pigeon pose with a downward facing dog. Then raise your right leg stra
 
 **Mermaid pose** (*Eka Pada Rajakapotasana*)
 
-This pose actually evolves from the pigeon pose. **It strengthens the core and pelvic floor, stretches the lower back, quad muscles, and hip flexors and opens the chest and shoulders**. 
+This pose actually evolves from the pigeon pose. **It strengthens the core and pelvic floor, stretches the lower back, quad muscles, and hip flexors and opens the chest and shoulders**.
 
-Start in a pigeon pose with your right leg forward, hands beside your hips and the right heel in line with your left hip. Look over your left shoulder and bend your left knee. Now reach back and grab your foot with your left hand. Now bend your left elbow around your foot until it lands in the crook of your elbow. Slowly lift your upper body up so you can lift your right hand up the sky. Then bend your right elbow and grab your left hand. 
+Start in a pigeon pose with your right leg forward, hands beside your hips and the right heel in line with your left hip. Look over your left shoulder and bend your left knee. Now reach back and grab your foot with your left hand. Now bend your left elbow around your foot until it lands in the crook of your elbow. Slowly lift your upper body up so you can lift your right hand up the sky. Then bend your right elbow and grab your left hand.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/six-benefits-you-didnt-know-stretching-would-have-on-your-body/Mermaid-Pose.jpg|Eka Pada Rajakapotasana"
 ->}}
 
 **Breathing**
-While doing these poses, never forget to breathe. In tense positions we tend to forget to breathe, making them even harder for us. Always inhale slowly and while exhaling try to get even deeper into your position. 
+While doing these poses, never forget to breathe. In tense positions we tend to forget to breathe, making them even harder for us. Always inhale slowly and while exhaling try to get even deeper into your position.
 
 
 

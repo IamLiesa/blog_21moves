@@ -4,7 +4,7 @@ description = "Last month I travelled to Italy for a long overdue holiday. I was
 date = "2016-11-05T13:50:46+02:00"
 tags = ["Fitness", "Wanderlust"]
 categories = ["Fitness", "Wanderlust"]
-keyword = "sun salutation, good morning yoga"
+keywords = ["sun salutation", "good morning yoga"]
 news_keywords = ["sun salutation good morning yoga"]
 card = "img/posts/good-morning-yoga-at-lago-sul-trasimeno/banner1_640.jpg"
 banner = "img/posts/good-morning-yoga-at-lago-sul-trasimeno/banner1.jpg"
@@ -15,21 +15,21 @@ summary = "Last month I travelled to Italy for a long overdue holiday. I was hap
 
 +++
 
-Last month I travelled to Italy for a long overdue holiday. Although I live in Europe, it was my first time in the country of Pizza, Pasta and Wine. 
-As work was pretty stressful the weeks before my vacation, I was really looking forward to some quiet time. My dream was to work out in the morning, go for a swim, read a good book and pet the animals. Maybe have a good glass of wine in the evening and of course Pizza. 
- 
+Last month I travelled to Italy for a long overdue holiday. Although I live in Europe, it was my first time in the country of Pizza, Pasta and Wine.
+As work was pretty stressful the weeks before my vacation, I was really looking forward to some quiet time. My dream was to work out in the morning, go for a swim, read a good book and pet the animals. Maybe have a good glass of wine in the evening and of course Pizza.
+
 
 {{% chapter_header "The most beautiful place" "beautifulPlace" %}}
-When we arrived at Lago sul Trasimeno I immediately felt that this place would be good for me. The apartment was located on a hill with a breathtaking view on the Trasimeno Lake. It wasn’t very spacious or even luxurious, yet still it was this simplicity that made the place even more special.  A few steps up the hill there was a huge pool with an even more beautiful view. It was the perfect spot for me to workout and to seriously start my morning Yoga routine. 
+When we arrived at Lago sul Trasimeno I immediately felt that this place would be good for me. The apartment was located on a hill with a breathtaking view on the Trasimeno Lake. It wasn’t very spacious or even luxurious, yet still it was this simplicity that made the place even more special.  A few steps up the hill there was a huge pool with an even more beautiful view. It was the perfect spot for me to workout and to seriously start my morning Yoga routine.
 
 {{% pin_it_image "goodmorning yoga sun salutation" "img/posts/good-morning-yoga-at-lago-sul-trasimeno/IMG_5893.jpg" "is-src-set" %}}
 
 {{% chapter_header "A place just to ourselves" "placeToOurselves" %}}
-There weren’t many other people around our accommodation. We also didn’t have a TV or a radio and of course I didn’t bring my laptop with me. In the evenings when we were sitting outside with a glass of wine it was so quiet, all you could hear were the mosquitos and the crickets. It was my first vacation after nine months of nonstop working. To get a little distance from my life at home this was exactly what I had needed. 
+There weren’t many other people around our accommodation. We also didn’t have a TV or a radio and of course I didn’t bring my laptop with me. In the evenings when we were sitting outside with a glass of wine it was so quiet, all you could hear were the mosquitos and the crickets. It was my first vacation after nine months of nonstop working. To get a little distance from my life at home this was exactly what I had needed.
 
 
 {{% chapter_header "Working out in the morning with a spectacular view" "workoutWithAView" %}}
-The view from up the hill where the pool was had such a soothing effect on me. I felt like I was finally able to breath freely again, to calm my mind and to forget what was troubling me. Working out on top of the hill, the most beautiful view below and the noise of some horses above, definitely motivated me to try out some new things in Yoga.  I tried out the crow and guess what, I finally succeeded. I also took my holiday workout routine to the poolside. 
+The view from up the hill where the pool was had such a soothing effect on me. I felt like I was finally able to breath freely again, to calm my mind and to forget what was troubling me. Working out on top of the hill, the most beautiful view below and the noise of some horses above, definitely motivated me to try out some new things in Yoga.  I tried out the crow and guess what, I finally succeeded. I also took my holiday workout routine to the poolside.
 
 {{% pin_it_image "good-morning yoga sun salutation" "img/posts/good-morning-yoga-at-lago-sul-trasimeno/IMG_5899.jpg" "is-src-set" %}}
 
@@ -39,7 +39,7 @@ The hardest part however, is always getting back from a holiday. Suddenly you ar
 {{% pin_it_image "good morning yoga sun salutation" "img/posts/good-morning-yoga-at-lago-sul-trasimeno/IMG_5797.jpg" "is-src-set" %}}
 
 {{% chapter_header "I finally understood what Yoga was about" "WhatYogaIsAbout" %}}
-As I said I was never really able to identify myself with the practice of Yoga. Now I’ve finally understood that it is all about the balance; body and mind work together in Yoga. And if I manage to incorporate my everyday Yoga into my life, I am sure I can also incorporate some of the clarity and calmness into my life. The same calmness that I felt in Italy. 
+As I said I was never really able to identify myself with the practice of Yoga. Now I’ve finally understood that it is all about the balance; body and mind work together in Yoga. And if I manage to incorporate my everyday Yoga into my life, I am sure I can also incorporate some of the clarity and calmness into my life. The same calmness that I felt in Italy.
 
 {{% chapter_header "My every morning Sun Salutation (Surya Namaskar)" "SunSalutation" %}}
 The sun salutation is the perfect exercise to wake up your muscles and to get your circulation flowing. It also gently massages the inner organs and leads to a deep and strong breathing. Do at least two runs of *Surya Namaskar*. Here is how you do the sun salutation:
@@ -51,7 +51,7 @@ Now fold your palms in front of your chest. Keep your shoulders down.
 Tense your glutes and legs. Stretch your arms upwards and bend your upper body back. Inhale while bending back.
 Breath out and bend your upper body forward.
 
-Breath in, bend your legs and do a big lunge back with your right foot. Keep your gaze up. 
+Breath in, bend your legs and do a big lunge back with your right foot. Keep your gaze up.
 
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/good-morning-yoga-at-lago-sul-trasimeno/IMG_5758.jpg|good morning yoga sun salutation"
@@ -63,7 +63,7 @@ Breath in, bend your legs and do a big lunge back with your right foot. Keep you
 
 Bring the left foot to meet the right at the end of your mat, breath out and come into a plank position. Upper body and legs should be in one line, wrists are under the shoulders, keep your back and tummy tight.
 
-Breath in and out again. Place your knees on the mat and bend your arms until forehead and breastbone touch the ground. Elbows should be hugging your ribs. Lift your butt up a little. 
+Breath in and out again. Place your knees on the mat and bend your arms until forehead and breastbone touch the ground. Elbows should be hugging your ribs. Lift your butt up a little.
 
 
 Breath in. Place your whole body on the ground. Now build up tension in your arms. Push your upper body up, the lower ribs should barely touch the ground. Come into a cobra. Put your head into your neck.
@@ -74,14 +74,14 @@ Breath in. Place your whole body on the ground. Now build up tension in your arm
   "col-xs-12|img/posts/good-morning-yoga-at-lago-sul-trasimeno/IMG_5767.jpg|good morning yoga sun salutation"
 ->}}
 
-Breath out and come into a downward facing dog position. 
+Breath out and come into a downward facing dog position.
 
-Breath in, bring your right foot between your hands. Lay your left knee on the ground and raise your upper body. Stretch your arms to the sky, palms together. Push your left hip to the front. 
+Breath in, bring your right foot between your hands. Lay your left knee on the ground and raise your upper body. Stretch your arms to the sky, palms together. Push your left hip to the front.
 
 
-Breathe out, put your left leg next to your right. Extend your legs but don’t force your knees through. Keep your upper body bent over. 
+Breathe out, put your left leg next to your right. Extend your legs but don’t force your knees through. Keep your upper body bent over.
 
-Breathe in deeply and slowly raise your upper body again while stretching your arms up to the sky. 
+Breathe in deeply and slowly raise your upper body again while stretching your arms up to the sky.
 
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/good-morning-yoga-at-lago-sul-trasimeno/IMG_5768.jpg|good morning yoga sun salutation"
@@ -97,7 +97,7 @@ Breathe in deeply and slowly raise your upper body again while stretching your a
 
 
 
-Take your arms down again while breathing out. Put your palms together in front of your chest and keep your shoulders relaxed. 
+Take your arms down again while breathing out. Put your palms together in front of your chest and keep your shoulders relaxed.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/good-morning-yoga-at-lago-sul-trasimeno/IMG_5777.jpg|good morning yoga sun salutation"
@@ -112,10 +112,10 @@ The Surya Namaskar has a long tradition. However, there is some disagreement ove
 
 {{% chapter_header "The Breathing" "Breathing" %}}
 
-Yoga Breathing or *Pranayama*, is the foundation of yoga practice. During challenging positions or movements we tend to hold our breath or use stress induced breathing. Yoga however is supposed to calm us down and create a relaxed body. This is why every Yoga exercise is synchronized with your breathing. 
+Yoga Breathing or *Pranayama*, is the foundation of yoga practice. During challenging positions or movements we tend to hold our breath or use stress induced breathing. Yoga however is supposed to calm us down and create a relaxed body. This is why every Yoga exercise is synchronized with your breathing.
 
 {{% chapter_header "The different types of yoga breathing (Pranayama)" "different types of breathing" %}}
-There are several types of yoga breathing.  There would be *Ujjayi pranayama*, which consist of a gentle breath that is both energized and relaxed, allowing for balance. Then there is *Kapalabhati pranayama*, known as the skull-shining breath for good reason. *Nadhi sodahana pranayama* allows for great expansion of our lungs and equal breath through both nostrils. Finally, there is *Sithali pranayama*, which is a cooling breath with an immediate effect on the temperature of your entire body. 
+There are several types of yoga breathing.  There would be *Ujjayi pranayama*, which consist of a gentle breath that is both energized and relaxed, allowing for balance. Then there is *Kapalabhati pranayama*, known as the skull-shining breath for good reason. *Nadhi sodahana pranayama* allows for great expansion of our lungs and equal breath through both nostrils. Finally, there is *Sithali pranayama*, which is a cooling breath with an immediate effect on the temperature of your entire body.
 
 {{% chapter_header "Recommendations" "Recommend" %}}
 

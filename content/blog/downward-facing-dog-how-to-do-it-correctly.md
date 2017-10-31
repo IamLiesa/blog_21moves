@@ -4,7 +4,7 @@ description = "Though Downward-Facing Dog is a reguallarly practiced Yoga pose, 
 date = "2017-02-07T11:50:46+02:00"
 tags = ["Fitness"]
 categories = ["Fitness"]
-keyword = "yoga, downward facing dog"
+keywords = ["yoga", "downward facing dog"]
 news_keywords = ["yoga, downward facing dog"]
 card = "img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/IMG_0644_640.jpg"
 banner = "img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/IMG_0644.jpg"
@@ -17,7 +17,7 @@ summary = "Though Downward-Facing Dog is propably the yoga pose you practice mos
 
 Downward-Facing Dog or Down Dog (Adho Much Svanasana in sanskrit) is one of the most famous, if not the most famous, yoga pose. It’s probably the pose you do most often in yoga classes. Therefore, it’s important to perform the Downward-Facing Dog correctly, not only to avoid injuries but also in order to make it as effective and as comfortable as possible. Although practiced so often, the Down Dog is often not carried out correctly as it is more complex than it may look. There is a lot to think about in this pose and I want to show you what exactly that is.
 
-Also, a lot of people don’t know how many benefits the Downward-Facing Dog offers. Apart from the obvious ones such as stretching and strengthening, it offers manifold other benefits. In this post, I want to present you the benefits of Downward-Facing Dog and show you how to do the pose correctly. I also want to make you attentive for some common mistakes in the carry-out of this pose and show you some of my favourite Downward-Facing Dog variations. 
+Also, a lot of people don’t know how many benefits the Downward-Facing Dog offers. Apart from the obvious ones such as stretching and strengthening, it offers manifold other benefits. In this post, I want to present you the benefits of Downward-Facing Dog and show you how to do the pose correctly. I also want to make you attentive for some common mistakes in the carry-out of this pose and show you some of my favourite Downward-Facing Dog variations.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/IMG_0644.jpg|Downward-Facing Dog"
@@ -31,7 +31,7 @@ Before we jump into how to carry out Downward-Facing Dog correctly, let me first
 With the heart being higher than the head, Downward-Facing Dog counts as a mild **inversion**. Any of these exercises are good for the **circulatory system**, because it encourages **blood flow** throughout the body. An active circulatory system helps you to keep your **immune system in shape**, it helps regulate the **blood pressure**, and it **flushes toxins from your body**. Furthermore, the flow of blood to the brain **calms the nervous system**, improves the **memory and concentration**, and is a great **stress reliever**. It also holds all the other benefits of inversions such as **relieving you from headaches**, **insomnia**, **fatigue**, and **mild depression**.
 
 2. Eliminates stiffness and back pain:
-By performing Downward-Facing Dog the upper back becomes **more flexible** and **less likely to store so much tension**. It also **lengthens the spine** and creates space between the vertebrae. 
+By performing Downward-Facing Dog the upper back becomes **more flexible** and **less likely to store so much tension**. It also **lengthens the spine** and creates space between the vertebrae.
 
 3. It stretches your body:
 One of the most obvious benefits of practicing Downward-Facing Dog is the fact that it **stretches** your body, particularly your **hamstrings**, **shoulders**, **calves**, **arches**, **hands**, and **spine**.
@@ -64,7 +64,7 @@ Now let’s dive into the practice. As I already said, a lot of people see the D
 
 4. **Neck and Head:** Neck and head should continue along the same line as the spine. As the neck is part of the spine, it should follow the same natural line. The head is between the upper arms. It should neither just hang loosely, nor should it crunch the neck too far up.
 
-5. **Spine:** When doing the Downward-Facing Dog we always want our spine to be nice and long in a **V-shape** rather than rounded. 
+5. **Spine:** When doing the Downward-Facing Dog we always want our spine to be nice and long in a **V-shape** rather than rounded.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/IMG_0646.jpg|Downward-Facing Dog Spine"
@@ -147,28 +147,28 @@ Twists are a great way to detoxify your internal organs and keep your spine nice
   "col-xs-12|img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/downward-facing-dog-twist.jpg|Downward-Facing Dog Twist"
 ->}}
 
-**Three-Legged Down Dog:** 
+**Three-Legged Down Dog:**
 Along with strengthening the arms, thighs, and upper back this variation of the Downward-Facing Dog will bring a great stretch to your hamstrings. Begin in a Downward-Facing Dog position. Your feet should get closer together, your toes should be almost touching. Then shift your weight onto your hands and your right foot equally. Inhale and raise your left leg towards the ceiling. It’s important to keep your shoulders parallel with the ground. In order to stretch the hamstrings try to really press your right heel down toward the mat. Hold this position for a few breaths. To open the hips even more you can then make circles in the air with your lifted leg.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/three-legged-downward-facing-dog.jpg|Three-Legged Downward-Facing Dog"
 ->}}
 
-**Three-Legged Downward-Facing Dog, Hip-Opening Variation:** 
+**Three-Legged Downward-Facing Dog, Hip-Opening Variation:**
 This Downward-Facing Dog variation starts quite similar to the basic Three-Legged Downward-Facing Dog. From the three-legged stance try to really lengthen through the spine and open your hip. Bend the knee of the extended leg and reach to your bum with your heel. Your shoulders should always be even and your belly should be pulled to your spine.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/down-dog-three-legged-hip-opener.jpg|Three-Legged Downward-Facing Dog Hip Opener"
 ->}}
 
-**Quarter Dog:** 
+**Quarter Dog:**
 This pose helps strengthening your upper body and loosens tight hamstrings. Again, you start out in a Down Dog and really spread your fingers wide. Exhale, then lower your forearms to the mat. Your elbows should make a straight line with your middle fingers. As with the Down Dog, try to straighten your legs and lower the heels towards the ground. Keep your head relaxed, your gaze should go between your palms.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/downward-facing-dog-how-to-do-it-correctly-common-mistakes-and-variations/quarter-downward-facing-dog.jpg|Quarter Downward-Facing Dog"
 ->}}
 
-With all this knowledge about the Downward-Facing Dog you should be perfectly prepared for your practice. 
+With all this knowledge about the Downward-Facing Dog you should be perfectly prepared for your practice.
 
 For your further practice you might also be interested in:
 

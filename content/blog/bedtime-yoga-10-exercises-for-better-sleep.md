@@ -4,7 +4,7 @@ description = "Sometimes there are things causing us sleepless nights. Maybe it'
 date = "2016-12-06T10:50:46+02:00"
 tags = ["Fitness", "Wanderlust"]
 categories = ["Fitness", "Wanderlust"]
-keyword = "bedtime Yoga, evening Yoga"
+keywords = ["bedtime Yoga", "evening Yoga"]
 news_keywords = ["bedtime Yoga, evening Yoga"]
 card = "img/posts/bedtime-yoga-10-exercises-for-better-sleep/seated_forward_fold_640.jpg"
 banner = "img/posts/bedtime-yoga-10-exercises-for-better-sleep/seated_forward_fold.jpg"
@@ -29,7 +29,7 @@ As you want to find a routine that relaxes your whole body before going to bed, 
 
 {{% chapter_header "How long should I practice bedtime Yoga?" "yogaPracticeHowLong" %}}
 
-Since your goal is to calm your mind and body and not to activate them, 15 minutes right before going to bed should be an optimum duration for a bedtime yoga routine. In the end however, how long you want to practice is totally up to you. You might want to finish halfway through the planned sequence or maybe stay in your stretches a little longer. Just listen to what your body tells you. 
+Since your goal is to calm your mind and body and not to activate them, 15 minutes right before going to bed should be an optimum duration for a bedtime yoga routine. In the end however, how long you want to practice is totally up to you. You might want to finish halfway through the planned sequence or maybe stay in your stretches a little longer. Just listen to what your body tells you.
 
 {{% chapter_header "Do I have to practice goodnight Yoga every night?" "yogaPracticeEveryNight" %}}
 
@@ -41,9 +41,9 @@ Having a sort of ritual before going to bed can be very helpful to find better s
 
 {{% chapter_header "Benefits of yoga before going to bed" "benefitsBedtimeYoga" %}}
 
-There is a lot of evidence that evening Yoga can help to improve your ability to relax, rest, and get a good night’s sleep. It took the worlds of modern medicines and science some time to even consider things like yoga to be beneficial for healthcare. Nowadays however, the practices of yoga are acknowledged for their health benefits among medics and scientists. Primarily, they see the benefits of practicing yoga in the ability to handle stress better and in an improved general sense of well-being. Also, while practicing yoga we can release stress and tension that accumulate in our body. When letting go of stress and tension our body and mind are able to calm down, which helps us fall asleep more easily. 
+There is a lot of evidence that evening Yoga can help to improve your ability to relax, rest, and get a good night’s sleep. It took the worlds of modern medicines and science some time to even consider things like yoga to be beneficial for healthcare. Nowadays however, the practices of yoga are acknowledged for their health benefits among medics and scientists. Primarily, they see the benefits of practicing yoga in the ability to handle stress better and in an improved general sense of well-being. Also, while practicing yoga we can release stress and tension that accumulate in our body. When letting go of stress and tension our body and mind are able to calm down, which helps us fall asleep more easily.
 
-A study by {{% a_blank "Jonathan Halpern, Ph.D. et al." "https://www.ncbi.nlm.nih.gov/pubmed/24755569" %}} also found significant improvements in sleep quality, sleep efficiency, and sleep duration among older participants (age ≥ 60 years) suffering from insomnia who then attended yoga classes and practiced meditative yoga at home. Additionally, there were improvements in the level of stress, depression, and general well-being. 
+A study by {{% a_blank "Jonathan Halpern, Ph.D. et al." "https://www.ncbi.nlm.nih.gov/pubmed/24755569" %}} also found significant improvements in sleep quality, sleep efficiency, and sleep duration among older participants (age ≥ 60 years) suffering from insomnia who then attended yoga classes and practiced meditative yoga at home. Additionally, there were improvements in the level of stress, depression, and general well-being.
 
 {{% chapter_header "Building up a bedtime Yoga routine" "bedtimeYogaRoutine" %}}
 
@@ -57,21 +57,21 @@ Start out in a kneeling pose and pay attention to your breathing. Breathing in Y
 ->}}
 
 *  **2. Standing Forward Bend** (*Uttanasana*):
-Now get up and stand with your feet hip-distance apart. Fold your hips forward and reach your fingertips toward the ground. Rest your rips on your thighs and bend both arms at the elbows, grabbing them with the opposite hand. Let your upper body relax. This part was especially difficult for me and I think in the picture you can still see that my upper body is not totally relaxed. Sometimes it’s just hard to really let loose. 
+Now get up and stand with your feet hip-distance apart. Fold your hips forward and reach your fingertips toward the ground. Rest your rips on your thighs and bend both arms at the elbows, grabbing them with the opposite hand. Let your upper body relax. This part was especially difficult for me and I think in the picture you can still see that my upper body is not totally relaxed. Sometimes it’s just hard to really let loose.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/forward_bend.jpg|standing forward bend"
   ->}}
 
 *  **3. Cat-Cow Pose** (*Marjaryasana* and *Bitilasana*)
-This pose is all about relaxing and extending the spine. Get into a quadruped position, wrists directly under your shoulders, and knees under your hips. While inhaling, gently drop your belly towards the floor and lift your head and tailbone up towards the ceiling. Then exhale deeply, round your spine and tuck your chin towards your chest. Try to really sync your breathing with your movement. 
+This pose is all about relaxing and extending the spine. Get into a quadruped position, wrists directly under your shoulders, and knees under your hips. While inhaling, gently drop your belly towards the floor and lift your head and tailbone up towards the ceiling. Then exhale deeply, round your spine and tuck your chin towards your chest. Try to really sync your breathing with your movement.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/cat_cow_pose.jpg|cat-cow pose"
 ->}}
 
 * **4. Plow Pose** (*Halasana*):
-Lie on your back and gently bring your legs up and over your torso so that your feet touch the ground behind your head. Pay attention to your shoulders, they should be firmly on the floor. The center of your back is where the focus of your weight should be. This is an important pressure point, which, if opened, creates deeper breathing and relaxation. 
+Lie on your back and gently bring your legs up and over your torso so that your feet touch the ground behind your head. Pay attention to your shoulders, they should be firmly on the floor. The center of your back is where the focus of your weight should be. This is an important pressure point, which, if opened, creates deeper breathing and relaxation.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/plow_pose.jpg|plow pose"
@@ -92,8 +92,8 @@ This pose may look simple, but the effect on your sleep will be great. Simply li
 ->}}
 
 * **7. Reclined Spinal Twist** (*Supta Matsyendrasana*)
-This twist can be performed to compress the spleen, as in Traditional Chinese Medicine it is responsible for digestion. Digestion however, doesn’t only mean digesting food, but also things that are going on in your life. Lying in this position will help your clear your head and shut out all the noises in it. 
-Lie on your back and extend your arms out to the sides. Pull your knees to your chest and then drop them over to the right side as you turn your head in the opposite direction. Your shoulders should be on the ground the whole time. Breathe in and out a couple of times, then switch the sides. 
+This twist can be performed to compress the spleen, as in Traditional Chinese Medicine it is responsible for digestion. Digestion however, doesn’t only mean digesting food, but also things that are going on in your life. Lying in this position will help your clear your head and shut out all the noises in it.
+Lie on your back and extend your arms out to the sides. Pull your knees to your chest and then drop them over to the right side as you turn your head in the opposite direction. Your shoulders should be on the ground the whole time. Breathe in and out a couple of times, then switch the sides.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/bedtime-yoga-10-exercises-for-better-sleep/reclined_spinal_twist.jpg|reclined spinal twist"
@@ -114,7 +114,7 @@ This yoga posture helps to relieve tension and pressure in the digestive system 
 ->}}
 
 * **10. Camel Pose** (*Ustrasana*):
-The camel pose is a great exercise for the back and also for your digestion after eating as it eases stomach problems. As it also reduces the excess of stress hormones it is a good posture to come into before going to bed. 
+The camel pose is a great exercise for the back and also for your digestion after eating as it eases stomach problems. As it also reduces the excess of stress hormones it is a good posture to come into before going to bed.
 Kneel on the floor and keep your knees in line with the shoulders and sole of the feet facing the ceiling. Hands should be rested on your thighs. Now inhale and arch your back and place your palms on the heels of your feet keeping the arms straight. Don’t strain your neck: just hold it naturally. Stay in this position for a couple of breaths.
 
 {{< fluid_pin_it_images

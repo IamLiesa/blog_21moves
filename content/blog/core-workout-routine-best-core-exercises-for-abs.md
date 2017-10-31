@@ -4,7 +4,7 @@ description = "A strong core is the basis of a healthy body. Try these nine core
 date = "2017-08-01T10:50:46+02:00"
 tags = ["Fitness"]
 categories = ["Fitness"]
-keyword = "core workout, best core exercises, exercises for abs, workout for abs"
+keywords = ["core workout", "best core exercises", "exercises for abs", "workout for abs"]
 news_keywords = ["core workout", "best core exercises", "exercises for abs", "workout for abs"]
 card = "img/posts/core-workout-routine-best-core-exercises-for-abs/core_workout_exercises_640.jpg"
 banner = "img/posts/core-workout-routine-best-core-exercises-for-abs/core_workout_exercises.jpg"
@@ -15,23 +15,23 @@ summary = "A strong core is super important in your day to day life. It will imp
 
 +++
 
-A flat tummy and toned abs is what we all wish for, especially in summer. However, when it comes to a healthy body we should rather focus on a strong core. 
+A flat tummy and toned abs is what we all wish for, especially in summer. However, when it comes to a healthy body we should rather focus on a strong core.
 
-Many people don’t know the difference between abs and the core and take it as a synonym. But your core is much more than your abs. It’s a complex series of muscles and it includes so much more than your abs. 
+Many people don’t know the difference between abs and the core and take it as a synonym. But your core is much more than your abs. It’s a complex series of muscles and it includes so much more than your abs.
 
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/core-workout-routine-best-core-exercises-for-abs/seeing-results.jpg|Core Exercises for a Flat tummy"
 ->}}
 
-Having a strong core will support your body in your day to day life, improve your posture and prevent back pain. We use our core every time we move. Thus, it is a vital part of our body and we shouldn’t forget to train it. 
+Having a strong core will support your body in your day to day life, improve your posture and prevent back pain. We use our core every time we move. Thus, it is a vital part of our body and we shouldn’t forget to train it.
 
-Especially if you’re traveling a lot and carry a heavy backpack, it is important to have a strong core as it has to work a lot to stabilize your spine to keep you in an upright position. That’s why today I want to show you some of my favorite core exercises and give you a little detailed information on what the core is and what it does. 
+Especially if you’re traveling a lot and carry a heavy backpack, it is important to have a strong core as it has to work a lot to stabilize your spine to keep you in an upright position. That’s why today I want to show you some of my favorite core exercises and give you a little detailed information on what the core is and what it does.
 
 {{% chapter_header "What is the Core?" "whatIsCore" %}}
 
 People often take “core” as a synonym for abs which is not true. Usually, the core is referred to as the midsection of your body, involving all your muscles in that area. It’s the collective term that is used to describe muscles that control your spine, in particular your waist and lower back as well as your abdominals. The core includes all the muscles that attach to the spine, as well as hips and pelvis, proximal lower limb and abdominal structures.
-Much of your body strength derives from your core. 
+Much of your body strength derives from your core.
 
 {{% chapter_header "What does the Core do?" "whatDoesCore" %}}
 
@@ -48,14 +48,14 @@ It is important that you build core stability as well as core strength. Core sta
 Your core houses your organs and your nervous system as well as your body’s largest veins and arteries. You definitely want to protect these with strong core muscles.
 
 **3. It will help you improve your posture**
-The best way to improve your posture is to strengthen your core. Additionally to your abdominal muscles, your core includes muscles in your hips and back. These work together in order to stabilize your spine. Without strong core muscles your spine doesn’t have adequate support which will eventually result in a weak posture. Thus, a strong core can help you stand tall and confident. 
+The best way to improve your posture is to strengthen your core. Additionally to your abdominal muscles, your core includes muscles in your hips and back. These work together in order to stabilize your spine. Without strong core muscles your spine doesn’t have adequate support which will eventually result in a weak posture. Thus, a strong core can help you stand tall and confident.
 
 {{< fluid_pin_it_images
   "col-xs-12|img/posts/core-workout-routine-best-core-exercises-for-abs/core_workout_exercises.jpg|Core Workout in Action"
 ->}}
 
 **4. A strong core helps you getting rid of back pain**
-A common side effect of a weak core is back pain. As explained before, if your core isn’t strong enough, your spine doesn’t have enough support to maintain a perfect posture. Now your other muscles have to compensate to help you stand tall. This can lead to neck and shoulder tension, lower back pain, and injuries. A strong core can thus help you stay injury- and pain-free. 
+A common side effect of a weak core is back pain. As explained before, if your core isn’t strong enough, your spine doesn’t have enough support to maintain a perfect posture. Now your other muscles have to compensate to help you stand tall. This can lead to neck and shoulder tension, lower back pain, and injuries. A strong core can thus help you stay injury- and pain-free.
 
 {{% chapter_header "Core Exercises for toned Abs and a strong upper Body" "coreExercises" %}}
 
@@ -72,7 +72,7 @@ Start with your feet, your bottom, and your hands on the ground. Slowly push you
 
 {{% sub_chapter_header "Plank Side Crunches" "plankSideCrunches" %}}
 
-From a standard plank position, come into a side plank. Now bend your upper knee and try to bring it together with your top elbow. Whilst doing that, keep yourself strong and don’t lean forward or backward. Do this 15 times, then repeat on the other side. 
+From a standard plank position, come into a side plank. Now bend your upper knee and try to bring it together with your top elbow. Whilst doing that, keep yourself strong and don’t lean forward or backward. Do this 15 times, then repeat on the other side.
 
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/core-workout-routine-best-core-exercises-for-abs/plank_side_crunch_1.jpg|Core Exercises - Plank Side Crunches 1"
@@ -81,7 +81,7 @@ From a standard plank position, come into a side plank. Now bend your upper knee
 
 {{% sub_chapter_header "Hip Dips" "hipDips" %}}
 
-Come into a forearm plank position. Then move your hip from left to right, trying to almost touch the ground. Beware that you only move your hip, not your upper body. 
+Come into a forearm plank position. Then move your hip from left to right, trying to almost touch the ground. Beware that you only move your hip, not your upper body.
 
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/core-workout-routine-best-core-exercises-for-abs/hip_dip_1.jpg|Core Exercises for a flat tummy - Hip Dips 1"
@@ -90,7 +90,7 @@ Come into a forearm plank position. Then move your hip from left to right, tryin
 
 {{% sub_chapter_header "Elbows and Knee Touches" "elbowsKneeTouches" %}}
 
-Start by sitting on the ground with your legs bent and lifted, forming a 90 degree angle. Your elbows should be touching your knees or thighs. Then lower your upper body down but still keeping your head up, extending your arms over your head. At the same time straighten your legs so that they come into a 45 degree angle with the ground. Crunch together again and let your elbows meet your knees. Keep in mind to always keep your abs engaged in order to prevent getting into a hollow back. 
+Start by sitting on the ground with your legs bent and lifted, forming a 90 degree angle. Your elbows should be touching your knees or thighs. Then lower your upper body down but still keeping your head up, extending your arms over your head. At the same time straighten your legs so that they come into a 45 degree angle with the ground. Crunch together again and let your elbows meet your knees. Keep in mind to always keep your abs engaged in order to prevent getting into a hollow back.
 
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/core-workout-routine-best-core-exercises-for-abs/elbows_knee_touches_1.jpg|Abs Workout for a strong Core - Elbows and Knee Touches 1"
@@ -99,7 +99,7 @@ Start by sitting on the ground with your legs bent and lifted, forming a 90 degr
 
 {{% sub_chapter_header "Hip Lift" "hipLift" %}}
 
-Lie with your back flat on the ground and bring your legs straight up into the air until they are directly over your hips, forming an L-shape. Your arms are pushed into the ground next to your body. Now lift your hips off the ground by pushing your feet towards the ceiling. Make sure that the movement is coming from your hips and that you keep your legs straight. 
+Lie with your back flat on the ground and bring your legs straight up into the air until they are directly over your hips, forming an L-shape. Your arms are pushed into the ground next to your body. Now lift your hips off the ground by pushing your feet towards the ceiling. Make sure that the movement is coming from your hips and that you keep your legs straight.
 
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/core-workout-routine-best-core-exercises-for-abs/hip_lift_1.jpg|Core Workout Routine - Hip Lift 1"
@@ -108,7 +108,7 @@ Lie with your back flat on the ground and bring your legs straight up into the a
 
 {{% sub_chapter_header "Arms around Knees" "armsAroundKnees" %}}
 
-This exercise is similar to Elbows and Knee Touches. It also starts with you sitting on the ground with your legs bent and lifted. This time however, you are forming a circle around your knees with your arms. Then straighten the legs and bring them in a 45 degree angle, bring the arms over your head and lower your upper body, just not all the way down. Keep your abs engaged at all time. 
+This exercise is similar to Elbows and Knee Touches. It also starts with you sitting on the ground with your legs bent and lifted. This time however, you are forming a circle around your knees with your arms. Then straighten the legs and bring them in a 45 degree angle, bring the arms over your head and lower your upper body, just not all the way down. Keep your abs engaged at all time.
 
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/core-workout-routine-best-core-exercises-for-abs/arms_around_knee_1.jpg|Exercises for a strong Core - Arms around Knees 1"
@@ -121,7 +121,7 @@ A {{% a_blank "resistance band" "http://amzn.to/2h9m3Gz" %}} is super practical 
 
 {{% sub_chapter_header "Foot taps with Resistance Band" "footTapsResistanceBand" %}}
 
-Sit on the ground with your knees bent, heels touching the ground. Put a resistance band around your thighs to spice this core exercise up a little and to also work your thighs at the same time. Your hands should push into the ground behind you, fingers pointing to your booty. Now start engaging your core muscles and lean your upper body back only as far as it feels comfortable for you but far enough to feel your muscles. Now tap the right heel to the right side and back to the middle. Do the same with the left foot. Repeat 20 times. 
+Sit on the ground with your knees bent, heels touching the ground. Put a resistance band around your thighs to spice this core exercise up a little and to also work your thighs at the same time. Your hands should push into the ground behind you, fingers pointing to your booty. Now start engaging your core muscles and lean your upper body back only as far as it feels comfortable for you but far enough to feel your muscles. Now tap the right heel to the right side and back to the middle. Do the same with the left foot. Repeat 20 times.
 
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/core-workout-routine-best-core-exercises-for-abs/foot_taps_1.jpg|Workout Exercises for a flat tummy - Foot Taps 1"
@@ -130,7 +130,7 @@ Sit on the ground with your knees bent, heels touching the ground. Put a resista
 
 {{% sub_chapter_header "Resistance Band Pull" "resistanceBandPull" %}}
 
-Lie flat on the ground with a resistance band around your feet. Place your hands behind you with your fingers pointing to your butt and lift your upper body up a little, yet still feeling how you have to engage your core muscles. Also, lift up your legs, keeping them straight, in a little less than 45 degree angle. Now pull one knee towards your chest, thus stretching the resistance band. Repeat the same on the other side, always keeping your upper body up. For an extra challenge you can also place your hands behind your head, the way you do it when you do standard crunches. 
+Lie flat on the ground with a resistance band around your feet. Place your hands behind you with your fingers pointing to your butt and lift your upper body up a little, yet still feeling how you have to engage your core muscles. Also, lift up your legs, keeping them straight, in a little less than 45 degree angle. Now pull one knee towards your chest, thus stretching the resistance band. Repeat the same on the other side, always keeping your upper body up. For an extra challenge you can also place your hands behind your head, the way you do it when you do standard crunches.
 
 {{< fluid_pin_it_images
   "col-xs-6|img/posts/core-workout-routine-best-core-exercises-for-abs/resistance_band_pull.jpg|Core Workout Exercise Resistance Band Pull 1"
@@ -181,8 +181,8 @@ This exercise is the extension of the Resistance Band Pull core exercise. Lie fl
 
 
 
- 
- 
+
+
 
 
 

@@ -4,7 +4,7 @@ description = "If you're traveling a lot but don't know how to stay fit with all
 date = "2017-09-12T10:50:46+02:00"
 tags = ["Fitness"]
 categories = ["Fitness"]
-keyword = "fit while traveling"
+keywords = ["fit while traveling"]
 news_keywords = ["fit while traveling"]
 card = "img/posts/minimalist-guide-workout-while-travel/fresh_air_640.jpg"
 banner = "img/posts/minimalist-guide-workout-while-travel/fresh_air.jpg"
@@ -20,7 +20,7 @@ This guide on how to stay in shape while traveling was written by {{% a_blank "M
 If you’re anything like me, when you’re traveling, whether for work or for fun, your main goal is to relax. Hitting the gym or going for a run are the furthest things from your mind. And choosing a light, healthy meal over the delicious local cuisine? Forget about it! On the other hand, (again, if you’re like me) altering your routine, even for a few days, can completely throw off your groove. It doesn’t matter how dedicated or focused you are; skipping out on your routine for more than a couple of days means starting over from scratch and giving yourself pep talks just to put your sweats on and think about heading to the gym. It’s an evasive balance to find. So how, you might ask, can I find that balance and stay fit while traveling? I’m going to give you the five most effective (and simplest) ways to stay fit while on the move.
 
 {{% chapter_header "1. Take the (un)easy way out" "1" %}}
-If you’re planning a tour, exploring the neighborhood, or just heading off to work for the day, rather than grabbing a taxi or renting a car, WALK! It’s as simple as that! You don’t have to lace up your sneakers and go for an intense run. Studies show that walking, even for just a short distance, every day can improve your mood, strengthen your bones and muscles, help with weight loss and/or maintenance, and decrease your risk for heart disease and diabetes. 
+If you’re planning a tour, exploring the neighborhood, or just heading off to work for the day, rather than grabbing a taxi or renting a car, WALK! It’s as simple as that! You don’t have to lace up your sneakers and go for an intense run. Studies show that walking, even for just a short distance, every day can improve your mood, strengthen your bones and muscles, help with weight loss and/or maintenance, and decrease your risk for heart disease and diabetes.
 
 Perhaps you’re planning on going for a longer distance. Well, the answer is simple: rent a bike! Biking is a great form of exercise and can get you from point A to point B quickly and easily. It is also a pleasurable way to get around town, as you can take alternate roots, enjoy the fresh air, and revel in the beauty of nature. Biking is also a lot faster than walking, which is great for impatient people like me.
 
@@ -51,13 +51,13 @@ Now, sometimes we are not in a place where there is a nice hiking trail readily 
 {{% pin_it_image "Hikes in the forest are worth the dreaded early morning alarm." "img/posts/minimalist-guide-workout-while-travel/fresh_air.jpg" "is-src-set" %}}
 
 {{% chapter_header "5. Make it a plan" "5" %}}
-If I make a set plan to work out or go on a daily walk, I am much more likely to do so. I already have the idea in my head, and setting a plan in stone to do something every day (or maybe every other day) gives me more of a drive to actually do it. I like to go into my trip with the goal of keeping somewhat of a routine going as far as staying fit and being active. That way, I'm much more likely to follow through. 
+If I make a set plan to work out or go on a daily walk, I am much more likely to do so. I already have the idea in my head, and setting a plan in stone to do something every day (or maybe every other day) gives me more of a drive to actually do it. I like to go into my trip with the goal of keeping somewhat of a routine going as far as staying fit and being active. That way, I'm much more likely to follow through.
 
-Also, using tools like Google Calendar or writing it in my desk planner helps, because then I see if in writing and feel obligated to follow through. I mean, who can argue when your calendar tells you what to do? 
+Also, using tools like Google Calendar or writing it in my desk planner helps, because then I see if in writing and feel obligated to follow through. I mean, who can argue when your calendar tells you what to do?
 
 {{% pin_it_image "Google Calendar tells me how to live my life, and I let it." "img/posts/minimalist-guide-workout-while-travel/google_calendar.jpg" "is-src-set" %}}
 
-So, you see? Staying fit while living the life of a nomad IS possible! You just need to bring the right attitude and work with what you've got! 
+So, you see? Staying fit while living the life of a nomad IS possible! You just need to bring the right attitude and work with what you've got!
 
 <hr class="section-divider">
 
