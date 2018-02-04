@@ -162,5 +162,9 @@ pygmentsstyle = "paraiso-dark"
         link = "mailto:iamliesamaria@gmail.com"
 
     [[params.footer.quicklinks]]
-      text = "Hosted on DigitalOcean"
-      link = "https://m.do.co/c/fb27c90322f3"
+      text = "Imprint"
+      link = "/imprint"
+
+    [[params.footer.quicklinks]]
+      text = "About"
+      link = "https://www.iamliesa.com/"
