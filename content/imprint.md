@@ -10,22 +10,22 @@ categories = []
 
 ## Angaben gemäß § 5 TMG
 
-Liesa Huppertz
-Bornholmer Str. 20 II
-10439 Berlin
-Vertreten durch:
-Liesa Huppertz
+* Liesa Huppertz
+* Bornholmer Str. 20 II
+* 10439 Berlin
+* Vertreten durch:
+* Liesa Huppertz
 
 ## Kontakt:
 
-Telefon: +49 (0)162 8392715
-E-Mail: iamliesamaria@gmail.com
+* Telefon: +49 (0)162 8392715
+* E-Mail: iamliesamaria@gmail.com
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-Liesa Huppertz
-Bornholmer Str. 20 II
-10439 Berlin
+* Liesa Huppertz
+* Bornholmer Str. 20 II
+* 10439 Berlin
 
 ## Haftungsausschluss:
 
