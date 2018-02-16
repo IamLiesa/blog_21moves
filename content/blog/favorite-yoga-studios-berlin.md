@@ -6,7 +6,7 @@ tags = ["Fitness"]
 categories = ["Fitness"]
 keywords = ["yoga studios Berlin"]
 news_keywords = ["yoga studios Berlin"]
-card = "img/posts/favorite-yoga-studios-berlin/chimosa_yoga.jpg"
+card = "img/posts/favorite-yoga-studios-berlin/chimosa_yoga_640.jpg"
 banner = "img/posts/favorite-yoga-studios-berlin/chimosa_yoga.jpg"
 
 headline = "My favorite Yoga Studios in Berlin"
@@ -75,6 +75,6 @@ After the practice, Spirit Yoga offered fruits and delicious tea to nourish your
   "col-xs-12|img/posts/favorite-yoga-studios-berlin/spirityoga_room.jpg|yoga class room at Spirit Yoga"
 ->}}
 
-The studio in Berlin Mitte is really beautiful with a big room to practice that is very cosy due to a lot of wooden elements. It is very bright and equipped with everything you need for your practice. The yoga classes are usually in German and cost 17 Euro for a drop in class.
+The studio in Berlin Mitte is really beautiful with a big room to practice that is very cosy due to a lot of wooden elements. It is very bright and equipped with everything you need for your practice. The yoga classes are usually in German and cost 22 Euro for a drop in class.
 
 
