@@ -46,8 +46,8 @@ pygmentsstyle = "paraiso-dark"
 
 # SEO
 [params.social_accounts]
-    twitter = "iamliesamaria"
-    twitter_domain = "iamliesamaria"
+    twitter = "i_am_Liesa"
+    twitter_domain = "i_am_Liesa"
     linkedin = "iamliesamaria"
 
 # MailChimp
@@ -77,14 +77,14 @@ pygmentsstyle = "paraiso-dark"
 [params.follow_and_share]
     enabled = true
     follow_enabled = true
-    follow_text = """I would love to hear your feedback. Find me on <a target="_blank" href="https://twitter.com/iamliesamaria"><i class="fa fa-twitter"></i>Twitter</a> and <a target="_blank" href="https://www.instagram.com/iamliesamaria"><i class="fa fa-instagram"></i>Instagram</a>"""
+    follow_text = """I would love to hear your feedback. Find me on <a target="_blank" href="https://twitter.com/i_am_Liesa"><i class="fa fa-twitter"></i>Twitter</a> and <a target="_blank" href="https://www.instagram.com/iamliesamaria"><i class="fa fa-instagram"></i>Instagram</a>"""
     share_enabled = true
     share_text = """If you like the content you just read, I would appreciate it if you shared it with your people."""
 
 # Twitter Follow Button Post Header
 [params.twitter_follow_post]
     enabled = true
-    handle = "iamliesamaria"
+    handle = "i_am_Liesa"
 
 # Instagram Follow Button Post Header
 [params.instagram_follow_post]
@@ -93,7 +93,7 @@ pygmentsstyle = "paraiso-dark"
 
 # Social Media Handles
 [params.social_handles]
-    twitter = "@iamliesamaria"
+    twitter = "@i_am_Liesa"
 
 # Social Media Share
 [params.social_share]
@@ -123,7 +123,7 @@ pygmentsstyle = "paraiso-dark"
     search = false
 
 [params.about_me]
-    text = """Hi, I'm Liesa - 21 days, that's approximately how long it takes to form a habit. The habit I want to build is to simply live a happy life. To me a happy life means moving; moving from one place to another or in the form of a good workout. Here I want to share my habits with you. Feel free to reach out and find me on <a href="https://twitter.com/iamliesamaria">Twitter</a> or <a href="https://www.instagram.com/iamliesamaria/">Instagram</a>."""
+    text = """Hi, I'm Liesa - 21 days, that's approximately how long it takes to form a habit. The habit I want to build is to simply live a happy life. To me a happy life means moving; moving from one place to another or in the form of a good workout. Here I want to share my habits with you. Feel free to reach out and find me on <a href="https://twitter.com/i_am_Liesa">Twitter</a> or <a href="https://www.instagram.com/iamliesamaria/">Instagram</a>."""
 
 [params.see_more]
     enable = true
@@ -151,7 +151,7 @@ pygmentsstyle = "paraiso-dark"
 
     [[params.footer.social]]
       icon = "fa-twitter"
-      link = "https://twitter.com/iamliesamaria"
+      link = "https://twitter.com/i_am_Liesa"
 
     [[params.footer.social]]
       icon = "fa-instagram"
@@ -162,9 +162,9 @@ pygmentsstyle = "paraiso-dark"
         link = "mailto:iamliesamaria@gmail.com"
 
     [[params.footer.quicklinks]]
-      text = "Imprint"
-      link = "/imprint"
+      text = "Legal Notice"
+      link = "/legal"
 
     [[params.footer.quicklinks]]
       text = "About"
-      link = "https://www.iamliesa.com/"
+      link = "https://www.iamliesa.com"
