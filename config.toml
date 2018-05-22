@@ -77,7 +77,7 @@ pygmentsstyle = "paraiso-dark"
 [params.follow_and_share]
     enabled = true
     follow_enabled = true
-    follow_text = """I would love to hear your feedback. Find me on <a target="_blank" href="https://twitter.com/i_am_Liesa"><i class="fa fa-twitter"></i>Twitter</a> and <a target="_blank" href="https://www.instagram.com/iamliesamaria"><i class="fa fa-instagram"></i>Instagram</a>"""
+    follow_text = """I would love to hear your feedback. Find me on <a target="_blank" href="https://twitter.com/i_am_Liesa"><i class="fa fa-twitter"></i>Twitter</a> and <a target="_blank" href="https://www.instagram.com/i_am_liesa"><i class="fa fa-instagram"></i>Instagram</a>"""
     share_enabled = true
     share_text = """If you like the content you just read, I would appreciate it if you shared it with your people."""
 
@@ -89,7 +89,7 @@ pygmentsstyle = "paraiso-dark"
 # Instagram Follow Button Post Header
 [params.instagram_follow_post]
     enabled = true
-    handle = "iamliesamaria"
+    handle = "i_am_liesa"
 
 # Social Media Handles
 [params.social_handles]
@@ -123,7 +123,7 @@ pygmentsstyle = "paraiso-dark"
     search = false
 
 [params.about_me]
-    text = """Hi, I'm Liesa - 21 days, that's approximately how long it takes to form a habit. The habit I want to build is to simply live a happy life. To me a happy life means moving; moving from one place to another or in the form of a good workout. Here I want to share my habits with you. Feel free to reach out and find me on <a href="https://twitter.com/i_am_Liesa">Twitter</a> or <a href="https://www.instagram.com/iamliesamaria/">Instagram</a>."""
+    text = """Hi, I'm Liesa - 21 days, that's approximately how long it takes to form a habit. The habit I want to build is to simply live a happy life. To me a happy life means moving; moving from one place to another or in the form of a good workout. Here I want to share my habits with you. Feel free to reach out and find me on <a href="https://twitter.com/i_am_Liesa">Twitter</a> or <a href="https://www.instagram.com/i_am_liesa/">Instagram</a>."""
 
 [params.see_more]
     enable = true
@@ -155,7 +155,7 @@ pygmentsstyle = "paraiso-dark"
 
     [[params.footer.social]]
       icon = "fa-instagram"
-      link = "https://www.instagram.com/iamliesamaria/"
+      link = "https://www.instagram.com/i_am_liesa/"
 
     [[params.footer.social]]
         icon = "fa-envelope"
