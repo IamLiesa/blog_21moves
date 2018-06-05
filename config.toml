@@ -38,6 +38,12 @@ pygmentsstyle = "paraiso-dark"
 [params.header_social]
     enabled = false
 
+# GDPR
+[privacy]
+  [privacy.googleAnalytics]
+    disable = false
+    anonymizeIP = true
+
 # Sitemap
 [sitemap]
     changefreq = "monthly"
